@@ -1,0 +1,25 @@
+name: check
+# Test only: builds the Instagram container for one post without publishing anything.
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: "post id from schedule.json"
+        required: true
+  push:
+    paths: ["schedule.json"]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build container (no publish)
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          ID: ${{ inputs.id }}
+        run: |
+          if [ -n "$ID" ]; then python scripts/publish.py --check "$ID"; exit; fi
+          # on push: test the next upcoming post only
+          NEXT=$(python -c "import json,datetime as d;t=(d.datetime.utcnow()+d.timedelta(hours=9)).strftime('%Y-%m-%d');ps=[p for p in json.load(open('schedule.json'))['posts'] if p['date']>=t and p['id'] not in {x['id'] for x in json.load(open('published.json'))}];print(min(ps,key=lambda p:p['date'])['id'] if ps else '')")
+          [ -n "$NEXT" ] && python scripts/publish.py --check "$NEXT" || echo "nothing upcoming"
