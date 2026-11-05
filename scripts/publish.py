@@ -1,4 +1,4 @@
-"""Publish scheduled Gaeguri Bhai reels to Instagram (@gaeguribhai) via the Graph API.
+"""Publish scheduled Gaeguri Bhai reels and card-news carousels to Instagram (@gaeguribhai) via the Graph API.
 
 Usage:
   python scripts/publish.py              # post every approved entry due today (KST) that is not yet published
@@ -50,6 +50,15 @@ def wait_ready(cid, limit=900):
 
 
 def build(post):
+    if post.get("type") == "card":
+        kids = []
+        for m in post["media"]:
+            kids.append(call("POST", f"{USER}/media", image_url=media_url(m), is_carousel_item="true")["id"])
+        for k in kids:
+            wait_ready(k, 300)
+        cid = call("POST", f"{USER}/media", media_type="CAROUSEL", children=",".join(kids), caption=post["caption"])["id"]
+        wait_ready(cid, 300)
+        return cid
     params = dict(media_type="REELS", video_url=media_url(post["media"][0]), caption=post["caption"], share_to_feed="true")
     if post.get("cover_ms") is not None:
         params["thumb_offset"] = str(post["cover_ms"])
@@ -62,6 +71,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--id")
     ap.add_argument("--check")
+    ap.add_argument("--type", choices=["reel", "card"], help="only post this type (scheduled runs pass it)")
     a = ap.parse_args()
     sched = json.load(open("schedule.json"))
     published = json.load(open("published.json"))
@@ -75,7 +85,7 @@ def main():
         due = [by_id[a.id]]
     else:
         today = datetime.datetime.now(KST).strftime("%Y-%m-%d")
-        due = [p for p in sched["posts"] if p["date"] == today]
+        due = [p for p in sched["posts"] if p["date"] == today and (not a.type or p.get("type", "reel") == a.type)]
     for post in due:
         if not post.get("approved"):
             print(f"{post['id']} is not approved; skipped"); continue
