@@ -1,0 +1,46 @@
+{
+ "at": "2026-11-09T15:42+09:00",
+ "account": {
+  "id": "17841419151247922",
+  "followers_count": 0,
+  "media_count": 10
+ },
+ "posts": [
+  {
+   "id": "2026-11-03-ep03-ne-yes",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"AA6aFSvhh2d8mEQfjKKyO_P\"}}"
+  },
+  {
+   "id": "2026-11-04-ep04-maggi-ramyeon",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"At_sWmdVzkju73f7SJifUBH\"}}"
+  },
+  {
+   "id": "2026-11-05-ep05-didi-oppa",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"A2aOl4-aN8Zz4OTV2CJvrw6\"}}"
+  },
+  {
+   "id": "2026-11-06-card-ep03",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"AHYMfheMAI7xWlarnDBjAo4\"}}"
+  },
+  {
+   "id": "2026-11-06-ep06-diwali-chuseok",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"AuwPr9EPtK7f8HYKMnSy1EC\"}}"
+  },
+  {
+   "id": "2026-11-07-card-ep06",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"AUw4pHqRq3CaSNCrqS_mezO\"}}"
+  },
+  {
+   "id": "2026-11-07-ep07-kodai-winter",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"AhzQ6ECgjlyoNDBm5oDRnAj\"}}"
+  },
+  {
+   "id": "2026-11-08-card-ep04",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"AodiTNmHamAP2l0MvfWKTFH\"}}"
+  },
+  {
+   "id": "2026-11-08-ep08-wedding",
+   "error": "{\"error\":{\"message\":\"(#10) Application does not have permission for this action\",\"code\":10,\"type\":\"OAuthException\",\"fbtrace_id\":\"AcigwqaCszfoA-1te49H5fb\"}}"
+  }
+ ]
+}
