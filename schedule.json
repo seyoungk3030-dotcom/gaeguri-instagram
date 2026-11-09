@@ -37,54 +37,6 @@
    "approved": true
   },
   {
-   "id": "2026-11-06-ep06-diwali-chuseok",
-   "date": "2026-11-06",
-   "ep": 6,
-   "title": "디왈리 vs 추석",
-   "media": [
-    "media/reels/ep06_diwali_chuseok.mp4"
-   ],
-   "cover_ms": 1500,
-   "caption": "Diwali vs Chuseok: dono mein same sawaal! 🪔🌕🐸\nDiwali: diye, rangoli, mithai. Chuseok: poora chaand, family, songpyeon.\nAur dono deshon mein relatives poochte hain... \"shaadi kab kar rahe ho?\" 😂\nHappy Diwali! Aapki favourite Diwali mithai kaunsi hai? 👇\n\nஇனிய தீபாவளி நல்வாழ்த்துகள்! 🪔\n\n#Diwali #HappyDiwali #KoreaVsIndia #Chuseok #IndianReels",
-   "approved": true
-  },
-  {
-   "id": "2026-11-07-ep07-kodai-winter",
-   "date": "2026-11-07",
-   "ep": 7,
-   "title": "남인도에도 겨울이 있다",
-   "media": [
-    "media/reels/ep07_kodai_winter.mp4"
-   ],
-   "cover_ms": 1500,
-   "caption": "South India mein THAND? Haan, Kodaikanal! 🌫️🐸\nMisty hills, lake, eucalyptus forests aur homemade chocolate 🍫 isiliye mera muffler!\nPhir Seoul gaya January mein... MINUS 10°C 🥶 Tab samjha, Kodai toh garam tha!\nAapke shehar mein sabse thanda kitna hota hai? Comment karo 👇\n\nகொடைக்கானல் குளிர் vs சியோல் குளிர்! 🥶\n\n#Kodaikanal #KoreaVsIndia #SouthIndia #Seoul #IndianReels",
-   "approved": true
-  },
-  {
-   "id": "2026-11-08-ep08-wedding",
-   "date": "2026-11-08",
-   "ep": 8,
-   "title": "며칠짜리 결혼식 vs 1시간 결혼식",
-   "media": [
-    "media/reels/ep08_wedding.mp4"
-   ],
-   "cover_ms": 1500,
-   "caption": "Indian shaadi: 3-4 din 💃 Korean wedding: 1 GHANTA?! 😳🐸\nMehendi, sangeet, baraat vs wedding hall, 30 minute ceremony, buffet... khatam!\nAur India mein baarish ke liye mendhak ki shaadi bhi hoti hai 🐸💍🐸 Ab aunty boli: \"beta, tumhari baari!\" NAHI! 😂\nSabse lambi shaadi kitne din ki dekhi hai? Comment karo 👇\n\nஇந்திய கல்யாணம் vs கொரிய கல்யாணம்! 💍\n\n#IndianWedding #KoreaVsIndia #Shaadi #KoreanWedding #IndianReels",
-   "approved": true
-  },
-  {
-   "id": "2026-11-09-ep09-mom",
-   "date": "2026-11-09",
-   "ep": 9,
-   "title": "엄마 슬리퍼 vs 등짝 스매싱",
-   "media": [
-    "media/reels/ep09_mom.mp4"
-   ],
-   "cover_ms": 1500,
-   "caption": "Har desh ki mummy same hoti hai! 🩴💥🐸\nIndia: mummy ki flying chappal. Korea: 'deungjjak smashing' (peeth pe thappad)!\nAur mujhe? DONO mile 😵 Bonus: Korean mein mom = Eomma... Tamil mein Amma! 🤯\nAapki mummy ka favourite hathiyar: chappal ya belan? Comment karo 👇\n\nஎல்லா நாட்டு அம்மாவும் ஒரே மாதிரி! 😂\n\n#Mummy #KoreaVsIndia #DesiMom #KoreanMom #IndianReels",
-   "approved": true
-  },
-  {
    "id": "2026-11-06-card-ep03",
    "date": "2026-11-06",
    "type": "card",
@@ -97,6 +49,18 @@
     "media/cards/ep03_5.jpg"
    ],
    "caption": "Korea mein \"NE\" ka matlab YES?! 🐸 Swipe karo →\nNE (네) = haan, NAA = nahi... confusion guaranteed 😅\nAap haan head se bolte ho ya mouth se? Comment karo 👇\n\nகொரியாவில் \"நே\" என்றால் ஆமாம்! 🐸\n\n#KoreaVsIndia #LearnKorean #HeadWobble",
+   "approved": true
+  },
+  {
+   "id": "2026-11-06-ep06-diwali-chuseok",
+   "date": "2026-11-06",
+   "ep": 6,
+   "title": "디왈리 vs 추석",
+   "media": [
+    "media/reels/ep06_diwali_chuseok.mp4"
+   ],
+   "cover_ms": 1500,
+   "caption": "Diwali vs Chuseok: dono mein same sawaal! 🪔🌕🐸\nDiwali: diye, rangoli, mithai. Chuseok: poora chaand, family, songpyeon.\nAur dono deshon mein relatives poochte hain... \"shaadi kab kar rahe ho?\" 😂\nHappy Diwali! Aapki favourite Diwali mithai kaunsi hai? 👇\n\nஇனிய தீபாவளி நல்வாழ்த்துகள்! 🪔\n\n#Diwali #HappyDiwali #KoreaVsIndia #Chuseok #IndianReels",
    "approved": true
   },
   {
@@ -115,6 +79,18 @@
    "approved": true
   },
   {
+   "id": "2026-11-07-ep07-kodai-winter",
+   "date": "2026-11-07",
+   "ep": 7,
+   "title": "남인도에도 겨울이 있다",
+   "media": [
+    "media/reels/ep07_kodai_winter.mp4"
+   ],
+   "cover_ms": 1500,
+   "caption": "South India mein THAND? Haan, Kodaikanal! 🌫️🐸\nMisty hills, lake, eucalyptus forests aur homemade chocolate 🍫 isiliye mera muffler!\nPhir Seoul gaya January mein... MINUS 10°C 🥶 Tab samjha, Kodai toh garam tha!\nAapke shehar mein sabse thanda kitna hota hai? Comment karo 👇\n\nகொடைக்கானல் குளிர் vs சியோல் குளிர்! 🥶\n\n#Kodaikanal #KoreaVsIndia #SouthIndia #Seoul #IndianReels",
+   "approved": true
+  },
+  {
    "id": "2026-11-08-card-ep04",
    "date": "2026-11-08",
    "type": "card",
@@ -127,6 +103,18 @@
     "media/cards/ep04_5.jpg"
    ],
    "caption": "Maggi vs Ramyeon 🍜 Swipe karo →\n2 minute Maggi vs ramyeon + anda 🥚... aur spicy test mein Indian dost jeet gaya 🌶️😎\nTeam MAGGI ya team RAMYEON? 👇\n\nமேகியா ராமியோனா? 🍜\n\n#Maggi #Ramyeon #KoreaVsIndia #KoreanFood",
+   "approved": true
+  },
+  {
+   "id": "2026-11-08-ep08-wedding",
+   "date": "2026-11-08",
+   "ep": 8,
+   "title": "며칠짜리 결혼식 vs 1시간 결혼식",
+   "media": [
+    "media/reels/ep08_wedding.mp4"
+   ],
+   "cover_ms": 1500,
+   "caption": "Indian shaadi: 3-4 din 💃 Korean wedding: 1 GHANTA?! 😳🐸\nMehendi, sangeet, baraat vs wedding hall, 30 minute ceremony, buffet... khatam!\nAur India mein baarish ke liye mendhak ki shaadi bhi hoti hai 🐸💍🐸 Ab aunty boli: \"beta, tumhari baari!\" NAHI! 😂\nSabse lambi shaadi kitne din ki dekhi hai? Comment karo 👇\n\nஇந்திய கல்யாணம் vs கொரிய கல்யாணம்! 💍\n\n#IndianWedding #KoreaVsIndia #Shaadi #KoreanWedding #IndianReels",
    "approved": true
   },
   {
@@ -145,6 +133,18 @@
    "approved": true
   },
   {
+   "id": "2026-11-09-ep09-mom",
+   "date": "2026-11-09",
+   "ep": 9,
+   "title": "엄마 슬리퍼 vs 등짝 스매싱",
+   "media": [
+    "media/reels/ep09_mom.mp4"
+   ],
+   "cover_ms": 1500,
+   "caption": "Har desh ki mummy same hoti hai! 🩴💥🐸\nIndia: mummy ki flying chappal. Korea: 'deungjjak smashing' (peeth pe thappad)!\nAur mujhe? DONO mile 😵 Bonus: Korean mein mom = Eomma... Tamil mein Amma! 🤯\nAapki mummy ka favourite hathiyar: chappal ya belan? Comment karo 👇\n\nஎல்லா நாட்டு அம்மாவும் ஒரே மாதிரி! 😂\n\n#Mummy #KoreaVsIndia #DesiMom #KoreanMom #IndianReels",
+   "approved": true
+  },
+  {
    "id": "2026-11-10-card-ep07",
    "date": "2026-11-10",
    "type": "card",
@@ -157,6 +157,17 @@
     "media/cards/ep07_5.jpg"
    ],
    "caption": "South India mein THAND? 🥶 Swipe karo →\nKodaikanal +12°C vs Seoul January −10°C ❄️ Tab samjha, Kodai toh garam tha!\nAapke shehar ka sabse thanda °C? 👇\n\nகொடைக்கானல் vs சியோல் குளிர்! 🥶\n\n#Kodaikanal #SouthIndia #Seoul #KoreaVsIndia",
+   "approved": true
+  },
+  {
+   "id": "2026-11-10-ep10-sebae",
+   "date": "2026-11-10",
+   "ep": 10,
+   "media": [
+    "media/reels/ep10_sebae.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "Korea mein JHUKO... aur PAISE milte hain?! 🙇💸🐸\nIndia: pair chhuo = aashirwad 🙏 Korea: New Year pe 'sebae' = sebaetdon (paisa)!\nMaine dono kiya... DOUBLE paisa 🤑\nBachpan mein sabse zyada paise kisne diye? 👇\n\nகொரியாவில் குனிந்தால் பணம்! இந்தியாவில் கால் தொட்டால் ஆசீர்வாதம் 🙏\n\n#KoreaVsIndia #Seollal #LearnKorean #IndianReels",
    "approved": true
   },
   {
@@ -175,6 +186,17 @@
    "approved": true
   },
   {
+   "id": "2026-11-11-ep11-age",
+   "date": "2026-11-11",
+   "ep": 11,
+   "media": [
+    "media/reels/ep11_age.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "Korea mein pehla sawaal: AAPKI UMAR?! 😳🐸\nUmar se decide hota hai baat kaise karoge: izzat se ya dost jaisa!\nAur India mein? \"Beta, kya karte ho? Shaadi kab?\" 😩\nSabse ajeeb sawaal kya tha? 👇\n\nகொரியாவில் முதல் கேள்வி: உங்க வயசு? இந்தியாவில்: கல்யாணம் எப்போ? 😂\n\n#KoreaVsIndia #KoreanCulture #DesiAunty #IndianReels",
+   "approved": true
+  },
+  {
    "id": "2026-11-12-card-ep09",
    "date": "2026-11-12",
    "type": "card",
@@ -187,28 +209,6 @@
     "media/cards/ep09_5.jpg"
    ],
    "caption": "Har desh ki MUMMY same hoti hai! 🩴💥 Swipe karo →\nFlying chappal vs deungjjak smashing... aur Korean mein mom = EOMMA, Tamil mein AMMA 🤯\nMummy ka hathiyar: chappal ya belan? 👇\n\nஎல்லா நாட்டு அம்மாவும் ஒரே மாதிரி! 😂\n\n#Mummy #DesiMom #KoreaVsIndia #KoreanMom",
-   "approved": true
-  },
-  {
-   "id": "2026-11-10-ep10-sebae",
-   "date": "2026-11-10",
-   "ep": 10,
-   "media": [
-    "media/reels/ep10_sebae.mp4"
-   ],
-   "cover_ms": 800,
-   "caption": "Korea mein JHUKO... aur PAISE milte hain?! 🙇💸🐸\nIndia: pair chhuo = aashirwad 🙏 Korea: New Year pe 'sebae' = sebaetdon (paisa)!\nMaine dono kiya... DOUBLE paisa 🤑\nBachpan mein sabse zyada paise kisne diye? 👇\n\nகொரியாவில் குனிந்தால் பணம்! இந்தியாவில் கால் தொட்டால் ஆசீர்வாதம் 🙏\n\n#KoreaVsIndia #Seollal #LearnKorean #IndianReels",
-   "approved": true
-  },
-  {
-   "id": "2026-11-11-ep11-age",
-   "date": "2026-11-11",
-   "ep": 11,
-   "media": [
-    "media/reels/ep11_age.mp4"
-   ],
-   "cover_ms": 800,
-   "caption": "Korea mein pehla sawaal: AAPKI UMAR?! 😳🐸\nUmar se decide hota hai baat kaise karoge: izzat se ya dost jaisa!\nAur India mein? \"Beta, kya karte ho? Shaadi kab?\" 😩\nSabse ajeeb sawaal kya tha? 👇\n\nகொரியாவில் முதல் கேள்வி: உங்க வயசு? இந்தியாவில்: கல்யாணம் எப்போ? 😂\n\n#KoreaVsIndia #KoreanCulture #DesiAunty #IndianReels",
    "approved": true
   },
   {
@@ -253,6 +253,83 @@
    ],
    "cover_ms": 800,
    "caption": "Dinner time: Korea 6 PM 🍚 vs India 10:45 PM 🍛😩\nMummy: \"Khana lag gaya, aa jao!\" ...finally 😅\nAapke ghar dinner kitne baje hota hai? 👇\n\nகொரியாவில் 6 மணி, இந்தியாவில் 10:45! உங்க வீட்டுல? 😂\n\n#KoreaVsIndia #DesiMom #DinnerTime #IndianReels",
+   "approved": true
+  },
+  {
+   "id": "2026-11-16-ep016-ppalli-vs-5-minute",
+   "date": "2026-11-16",
+   "ep": 16,
+   "media": [
+    "media/reels/ep016_ppalli-vs-5-minute.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "Korea: 빨리빨리 (ppalli ppalli) = JALDI JALDI ⚡\nIndia: \"bas 5 minute mein aa raha hoon\" ...1 ghanta baad 😅🐸\nAapka '5 minute' kitna lamba hai? 👇\n\nகொரியா: சீக்கிரம் சீக்கிரம்! இந்தியா: \"5 நிமிஷம்\"... 1 மணி நேரம் கழிச்சு 😅\n\n#KoreaVsIndia #Ppalli #IndianTime #IndianReels",
+   "approved": true
+  },
+  {
+   "id": "2026-11-17-ep017-bada-sea",
+   "date": "2026-11-17",
+   "ep": 17,
+   "media": [
+    "media/reels/ep017_bada-sea.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "Korean mein \"BADA\" = BIG? NAHI! 바다 (bada) = SEA 🌊🐸\nBada bada = big sea 😂\nAur kaunsa Korean word Hindi jaisa lagta hai? 👇\n\nகொரியனில் 바다 (பாடா) = கடல்! 🌊\n\n#LearnKorean #KoreaVsIndia #Hindi #IndianReels",
+   "approved": true
+  },
+  {
+   "id": "2026-11-18-ep018-shoes-off",
+   "date": "2026-11-18",
+   "ep": 18,
+   "media": [
+    "media/reels/ep018_shoes-off.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "Korea: 신발 벗어! 👟 India: chappal bahar! 🩴\nRule same... par shaadi ke baad CHAPPAL GAYAB 😭🐸\nAapki chappal kabhi gayab hui? 👇\n\nகல்யாணத்துக்கு அப்புறம் என் செருப்பு காணோம்! 😭\n\n#KoreaVsIndia #Chappal #DesiLife #IndianReels",
+   "approved": true
+  },
+  {
+   "id": "2026-11-19-ep019-suneung-day",
+   "date": "2026-11-19",
+   "ep": 19,
+   "media": [
+    "media/reels/ep019_suneung-day.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "Aaj Korea mein PLANES ruk jaate hain ✈️ kyunki aaj hai SUNEUNG 수능 📝🐸\nLate student? Police drop karti hai 🚓\nIndia: \"dahi-cheeni kha ke jao!\" 😄\nAapka exam day totka? 👇\n\nகொரியாவின் பெரிய தேர்வு நாள் இன்று! ✈️📝\n\n#Suneung #KoreaVsIndia #ExamDay #IndianReels",
+   "approved": true
+  },
+  {
+   "id": "2026-11-20-ep020-kimchi-vs-achaar",
+   "date": "2026-11-20",
+   "ep": 20,
+   "media": [
+    "media/reels/ep020_kimchi-vs-achaar.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "KIMCHI 🥬 vs ACHAAR 🥭 — aaj faisla! 🐸\nKorea: kimchi ke bina khana adhoora. India: nani ka aam ka achaar.\nTeam KIMCHI ya ACHAAR? 👇\n\nகிம்ச்சியா ஊறுகாயா? உங்க team எது? 🥭\n\n#Kimchi #Achaar #KoreaVsIndia #IndianReels",
+   "approved": true
+  },
+  {
+   "id": "2026-11-21-ep021-pc-bang-cyber-cafe",
+   "date": "2026-11-21",
+   "ep": 21,
+   "media": [
+    "media/reels/ep021_pc-bang-cyber-cafe.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "Korea ka cyber cafe = PC BANG 🖥️ 24 hours + ramyeon at your seat 🍜🐸\nIndia 2008: ₹20/hour + \"beta, time khatam!\" 😂\nPehla email kahan banaya? 👇\n\nஉங்க முதல் email எங்கே create பண்ணீங்க? 😄\n\n#PCBang #KoreaVsIndia #90sKids #IndianReels",
+   "approved": true
+  },
+  {
+   "id": "2026-11-22-ep022-head-wobble-levels",
+   "date": "2026-11-22",
+   "ep": 22,
+   "media": [
+    "media/reels/ep022_head-wobble-levels.mp4"
+   ],
+   "cover_ms": 800,
+   "caption": "Head wobble LEVEL 100 unlocked 🐸🇮🇳\nLevel 1: haan ✅ Level 2: shayad 🤔 Level 3: dekhte hain 😏\nKorean dost: \"huh??\" 😂\nAapka wobble kaunsa level? 👇\n\nதலையாட்டல் level 100! உங்க level என்ன? 😄\n\n#HeadWobble #KoreaVsIndia #DesiLife #IndianReels",
    "approved": true
   }
  ]
