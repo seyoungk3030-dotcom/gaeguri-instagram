@@ -7,7 +7,7 @@ on:
     - cron: "0 3 * * *"  # 12:00 KST daily snapshot
 permissions:
   contents: write
-concurrency: publish
+concurrency: insights
 jobs:
   insights:
     runs-on: ubuntu-latest
