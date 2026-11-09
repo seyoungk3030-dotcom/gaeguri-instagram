@@ -16,7 +16,8 @@ for p in json.load(open("published.json")):
     if "error" in ins and reel:
         ins = get(f"{mid}/insights", metric="reach,views,likes,comments,shares,saved,total_interactions")
     row = {"id": p["id"]}
+    row.update({k: v for k, v in get(mid, fields="like_count,comments_count").items() if k != "id"})
     for d in ins.get("data", []): row[d["name"]] = d["values"][0]["value"] if d.get("values") else d.get("total_value", {}).get("value")
-    if "error" in ins: row["error"] = ins["error"]
+    if "error" in ins: row["insights"] = "no permission"
     out["posts"].append(row)
 json.dump(out, open("insights.json", "w"), ensure_ascii=False, indent=1); print(json.dumps(out, ensure_ascii=False, indent=1))
