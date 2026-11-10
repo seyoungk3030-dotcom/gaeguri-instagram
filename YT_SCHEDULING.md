@@ -5,7 +5,10 @@ Video + subtitle files are public at `https://raw.githubusercontent.com/seyoungk
 The built-in browser (mcp__remote-devices__Claude_Browser__*) is signed in to YouTube Studio for channel UCSRpEJb17BwqbM6RAPizHJg.
 It has NO file_upload tool: inject the file with JavaScript (fetch from raw.githubusercontent -> File -> DataTransfer -> input.files).
 
-For each pending entry, oldest date first (skip dates in the past: mark them `skipped_past`):
+Step 0: run `python3 yt_plan.py` (assigns `date` + `time` to pending entries: 22:00 daily, plus a 01:00 KST second slot during the
+2026-11-16..29 test; FEST episodes keep their date) and commit yt_queue.json if it changed.
+
+For each pending entry, ordered by (date, time) (skip slots already in the past: mark them `skipped_past`):
 1. navigate `https://studio.youtube.com/channel/UCSRpEJb17BwqbM6RAPizHJg/videos/upload?d=ud`, wait 4 s.
 2. javascript_exec:
    ```js
@@ -24,8 +27,9 @@ For each pending entry, oldest date first (skip dates in the past: mark them `sk
 5. find `button "다음"` -> click it 3 times (2 s waits). Click (447,456) to expand 예약 (viewport 800x600). Screenshot.
 6. Click the date field (~(130,388)) to open the calendar; if it did not open, click again. Screenshot, click the target day.
    If the month differs, use the calendar's next-month arrow (or type the date into the calendar's text field `YYYY. M. D.` + Enter).
-7. Click the time field (~(266,388)), find "오후 10:00" -> scroll_to + click. Zoom (60,360,480,420) to verify date + 오후 10:00.
-8. Click 예약 (~(732,535)), wait 3 s, screenshot: the dialog must say "동영상 예약됨 … 22:00". Read the shorts link -> video id.
+7. Click the time field (~(266,388)), find the entry's time: `time` "22:00" -> "오후 10:00", "01:00" -> "오전 1:00" -> scroll_to + click.
+   Zoom (60,360,480,420) to verify date + time.
+8. Click 예약 (~(732,535)), wait 3 s, screenshot: the dialog must say "동영상 예약됨 … <date> <time>". Read the shorts link -> video id.
 9. Subtitles: navigate `https://studio.youtube.com/video/<id>/translations`, wait 4 s, find `button "언어 추가"` -> click, find "타밀어" -> click,
    wait 2 s, click 수동 자막 추가 (~(437,482)), wait 2 s, click 파일 업로드 (~(120,160)), wait 1 s, then javascript_exec:
    ```js
