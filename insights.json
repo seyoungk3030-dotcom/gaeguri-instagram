@@ -1,9 +1,9 @@
 {
- "at": "2026-11-12T12:45+09:00",
+ "at": "2026-11-13T12:47+09:00",
  "account": {
   "id": "17841419151247922",
-  "followers_count": 7,
-  "media_count": 16
+  "followers_count": 6,
+  "media_count": 18
  },
  "posts": [
   {
@@ -94,6 +94,18 @@
    "id": "2026-11-11-ep11-age",
    "comments_count": 0,
    "like_count": 2,
+   "insights": "no permission"
+  },
+  {
+   "id": "2026-11-12-card-ep09",
+   "comments_count": 0,
+   "like_count": 0,
+   "insights": "no permission"
+  },
+  {
+   "id": "2026-11-12-ep12-bap",
+   "comments_count": 0,
+   "like_count": 1,
    "insights": "no permission"
   }
  ]
