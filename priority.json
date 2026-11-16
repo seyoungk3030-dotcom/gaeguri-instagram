@@ -1,0 +1,29 @@
+{
+ "_why": "Weekly review 2026-11-16 (SY: '반응 좋은거 위주로'). Short Korea culture-shock (KR) and Korean word hooks (LEARN/QUIZ/SAME, esp. Korean=Tamil/Hindi) won: ep12 1233 views, ep10 624, ep11 418, ep14 236 + 15 IG likes. DESI self-tests (ep13 32), VS skits, KODAI, long format lost. Update after each weekly review.",
+ "tiers": {
+  "A": [
+   "KR",
+   "LEARN",
+   "QUIZ",
+   "SAME",
+   "KDRAMA"
+  ],
+  "B": [
+   "FOOD",
+   "IN",
+   "DESI"
+  ],
+  "C": [
+   "VS",
+   "KODAI"
+  ]
+ },
+ "pattern": "AABAAC",
+ "boost": [
+  "tamil",
+  "-akka-",
+  "aiyo",
+  "nal-"
+ ],
+ "_boost": "ids/titles containing these go first inside their tier (Korean=Tamil words: ep14 was the IG best, 15 likes)"
+}

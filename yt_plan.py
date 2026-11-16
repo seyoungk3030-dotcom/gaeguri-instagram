@@ -3,9 +3,11 @@ Rules (user request 2026-11-10):
 - Default: one Short per day at 22:00 KST.
 - Test window 2026-11-16 .. 2026-11-29: a second Short at 01:00 KST the next morning (= 21:30 IST).
 - FEST episodes (festival / date-bound) keep their own bank date at 22:00.
-- Already scheduled entries never move. Other pending entries fill the earliest free slots in episode order.
+- Already scheduled entries never move. Other pending entries fill the earliest free slots in PRIORITY order
+  (prio.py / priority.json: best-performing series first; SY asked 2026-11-16 to lead with what works).
 """
 import json, datetime as dt
+from prio import order
 Q = 'yt_queue.json'; q = json.load(open(Q)); bank = json.load(open('yt_bank.json'))
 TEST = (dt.date(2026, 11, 16), dt.date(2026, 11, 29))
 today = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))); tomorrow = today.date() + dt.timedelta(days=1)
@@ -25,6 +27,8 @@ for x in pend:
         x['date'], x['time'] = bd, '22:00'; fest[(bd, '22:00')] = x['ep']
 reserved = set(fest) | taken
 gen = slots()
+pend = [x for x in pend if not (x['series'] == 'FEST' and (x['date'], x.get('time')) in fest)]
+pend = order(pend, lambda x: x['series'], lambda x: x['ep'], lambda x: x.get('media', ''))
 for x in pend:
     if x['series'] == 'FEST' and (x['date'], x.get('time')) in fest: continue
     for s in gen:
