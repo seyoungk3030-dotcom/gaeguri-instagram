@@ -246,14 +246,15 @@
   },
   {
    "id": "2026-11-15-ep15-dinner-time",
-   "date": "2026-11-15",
+   "date": "2026-11-16",
    "ep": 15,
    "media": [
     "media/reels/ep15_dinner_time.mp4"
    ],
    "cover_ms": 800,
    "caption": "Dinner time: Korea 6 PM 🍚 vs India 10:45 PM 🍛😩\nMummy: \"Khana lag gaya, aa jao!\" ...finally 😅\nAapke ghar dinner kitne baje hota hai? 👇\n\nகொரியாவில் 6 மணி, இந்தியாவில் 10:45! உங்க வீட்டுல? 😂\n\n#KoreaVsIndia #DesiMom #DinnerTime #IndianReels",
-   "approved": true
+   "approved": true,
+   "note": "moved from 11-15: publish cron ran after KST midnight (2026-11-16 weekly review)"
   },
   {
    "id": "2026-11-16-ep016-ppalli-vs-5-minute",
@@ -410,15 +411,16 @@
    "approved": true
   },
   {
-   "id": "2026-11-30-ep030-adjust-maadi-test",
+   "id": "2027-03-30-ep150-neo-nee-you-tamil",
    "date": "2026-11-30",
-   "ep": 30,
+   "ep": 150,
    "media": [
-    "media/reels/ep030_adjust-maadi-test.mp4"
+    "media/reels/ep150_neo-nee-you-tamil.mp4"
    ],
    "cover_ms": 800,
-   "caption": "Korean frog ka BANGALORE test 😎🐸\n\"Adjust maadi\" ✅ Traffic mein shanti ✅\nKitne marks? 1–10 👇\n\nBangalore டெஸ்ட் pass! 'Adjust maadi' 😄\n\n#Bangalore #DesiTest #KoreaVsIndia #IndianReels",
-   "approved": true
+   "caption": "너 (neo) = நீ (nee) = YOU 😱🐸\nTeacher ko mat bolna 😂\nAapki bhasha mein? 👇\n\n너 (neo) = நீ! ரெண்டும் friends-க்கு மட்டும் 😄\n\n#LearnKorean #Tamil #KoreaVsIndia #IndianReels",
+   "approved": true,
+   "note": "swapped with ep030 (Tamil-word format outperforming) 2026-11-16"
   },
   {
    "id": "2026-12-01-ep031-akka-a-moment-ago",
@@ -1730,15 +1732,16 @@
    "approved": true
   },
   {
-   "id": "2027-03-30-ep150-neo-nee-you-tamil",
+   "id": "2026-11-30-ep030-adjust-maadi-test",
    "date": "2027-03-30",
-   "ep": 150,
+   "ep": 30,
    "media": [
-    "media/reels/ep150_neo-nee-you-tamil.mp4"
+    "media/reels/ep030_adjust-maadi-test.mp4"
    ],
    "cover_ms": 800,
-   "caption": "너 (neo) = நீ (nee) = YOU 😱🐸\nTeacher ko mat bolna 😂\nAapki bhasha mein? 👇\n\n너 (neo) = நீ! ரெண்டும் friends-க்கு மட்டும் 😄\n\n#LearnKorean #Tamil #KoreaVsIndia #IndianReels",
-   "approved": true
+   "caption": "Korean frog ka BANGALORE test 😎🐸\n\"Adjust maadi\" ✅ Traffic mein shanti ✅\nKitne marks? 1–10 👇\n\nBangalore டெஸ்ட் pass! 'Adjust maadi' 😄\n\n#Bangalore #DesiTest #KoreaVsIndia #IndianReels",
+   "approved": true,
+   "note": "swapped with ep150 (Tamil-word format outperforming) 2026-11-16"
   },
   {
    "id": "2027-03-31-ep151-convenience-store-atm-24h",
