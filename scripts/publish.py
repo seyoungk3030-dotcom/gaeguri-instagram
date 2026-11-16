@@ -1,7 +1,7 @@
 """Publish scheduled Gaeguri Bhai reels and card-news carousels to Instagram (@gaeguribhai) via the Graph API.
 
 Usage:
-  python scripts/publish.py              # post every approved entry due today (KST) that is not yet published
+  python scripts/publish.py              # post the oldest approved, unpublished entry due by today (KST-6h), one per run
   python scripts/publish.py --id ID      # post one specific entry now
   python scripts/publish.py --check ID   # build the media container only (nothing goes public)
 """
@@ -84,8 +84,14 @@ def main():
     if a.id:
         due = [by_id[a.id]]
     else:
-        today = datetime.datetime.now(KST).strftime("%Y-%m-%d")
-        due = [p for p in sched["posts"] if p["date"] == today and (not a.type or p.get("type", "reel") == a.type)]
+        # GitHub often starts scheduled runs hours late (on 2026-11-15 the 21:40 run started at 04:04 KST,
+        # so "today" had already rolled over and that day's reel was skipped). So: count the posting day as
+        # KST minus 6 h, and catch up -- post the OLDEST approved, unpublished post dated on/before that day.
+        # At most one post per run, so a backlog drains one slot at a time (main + backup run).
+        day = (datetime.datetime.now(KST) - datetime.timedelta(hours=6)).strftime("%Y-%m-%d")
+        due = sorted((p for p in sched["posts"] if p["date"] <= day and p.get("approved")
+                      and p["id"] not in done and (not a.type or p.get("type", "reel") == a.type)),
+                     key=lambda p: p["date"])[:1]
     for post in due:
         if not post.get("approved"):
             print(f"{post['id']} is not approved; skipped"); continue
@@ -99,7 +105,7 @@ def main():
                           "at": datetime.datetime.now(KST).isoformat(timespec="seconds")})
         json.dump(published, open("published.json", "w"), ensure_ascii=False, indent=1)
     if not due:
-        print("nothing due today")
+        print("nothing due (all posts up to today are published)")
 
 
 if __name__ == "__main__":

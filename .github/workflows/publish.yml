@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: "40 12 * * *"  # ~21:40 KST (GitHub often starts scheduled runs late), aims for 22:00 KST / 18:30 IST
     - cron: "20 13 * * *"  # backup run; already-published posts are skipped
+    - cron: "50 14 * * *"  # 2nd backup ~23:50 KST (catch-up: posts anything still overdue)
     - cron: "40 7 * * *"   # card news ~16:40 KST (aims for 17:00 KST / 13:30 IST, Indian lunch break)
     - cron: "20 8 * * *"   # card news backup run
   workflow_dispatch:

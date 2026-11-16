@@ -8,6 +8,11 @@ It has NO file_upload tool: inject the file with JavaScript (fetch from raw.gith
 Step 0: run `python3 yt_plan.py` (assigns `date` + `time` to pending entries: 22:00 daily, plus a 01:00 KST second slot during the
 2026-11-16..29 test; FEST episodes keep their date) and commit yt_queue.json if it changed.
 
+Step 0b (duplicate guard — added 2026-11-16 after 12 orphan uploads were found): open the Shorts list
+`https://studio.youtube.com/channel/UCSRpEJb17BwqbM6RAPizHJg/videos/short`, page through it and read every row's video id + title.
+If a `pending` entry's exact title is already in Studio (an earlier run uploaded it but its push was lost), do NOT upload again:
+mark it `scheduled` with that video id (check its translations page has 타밀어; add the SRT if not) and commit + push.
+
 For each pending entry, ordered by (date, time) (skip slots already in the past: mark them `skipped_past`):
 1. navigate `https://studio.youtube.com/channel/UCSRpEJb17BwqbM6RAPizHJg/videos/upload?d=ud`, wait 4 s.
 2. javascript_exec:
@@ -38,5 +43,6 @@ For each pending entry, ordered by (date, time) (skip slots already in the past:
    dt.items.add(new File([t],'ta.srt',{type:'application/x-subrip'})); inp.files=dt.files; inp.dispatchEvent(new Event('change',{bubbles:true})); t.length
    ```
    wait 3 s, click 게시 (~(700,62)), check page text shows "타밀어 … 1개 게시됨". (An auto "영어" track may also appear — that is YouTube's auto caption, ignore.)
-10. Set the entry `status: "scheduled"`, `video_id`. Commit + push yt_queue.json after every 3 videos.
+10. Set the entry `status: "scheduled"`, `video_id`. Commit + push yt_queue.json after EVERY video (a run that times out
+    before pushing leaves orphan uploads that the next run would duplicate).
 If YouTube says the daily upload limit is reached, stop and leave the rest pending. Never delete or edit already-public videos.
