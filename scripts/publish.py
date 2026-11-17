@@ -84,11 +84,16 @@ def main():
     if a.id:
         due = [by_id[a.id]]
     else:
-        # GitHub often starts scheduled runs hours late (on 2026-11-15 the 21:40 run started at 04:04 KST,
-        # so "today" had already rolled over and that day's reel was skipped). So: count the posting day as
-        # KST minus 6 h, and catch up -- post the OLDEST approved, unpublished post dated on/before that day.
-        # At most one post per run, so a backlog drains one slot at a time (main + backup run).
-        day = (datetime.datetime.now(KST) - datetime.timedelta(hours=6)).strftime("%Y-%m-%d")
+        # GitHub often starts scheduled runs hours late (11/15: 21:40 run started 04:04 KST; 11/16: runs started
+        # 02:23-08:32 KST). Rules: only post inside the evening window 21:00-03:00 KST (= 17:30-23:30 IST);
+        # a run outside it does nothing (so a late run never posts tonight's reel in the morning).
+        # Inside the window: post the OLDEST unpublished post dated on/before the posting day
+        # (today if >= 21:00, yesterday if after midnight), one per run -> missed days catch up next evening.
+        now = datetime.datetime.now(KST)
+        if not (now.hour >= 21 or now.hour < 3):
+            print(f"outside the 21:00-03:00 KST posting window ({now:%H:%M}); nothing posted")
+            return
+        day = (now if now.hour >= 21 else now - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
         due = sorted((p for p in sched["posts"] if p["date"] <= day and p.get("approved")
                       and p["id"] not in done and (not a.type or p.get("type", "reel") == a.type)),
                      key=lambda p: p["date"])[:1]

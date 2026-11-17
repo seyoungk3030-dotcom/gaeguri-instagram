@@ -1,11 +1,15 @@
 name: publish
 on:
   schedule:
-    - cron: "40 12 * * *"  # ~21:40 KST (GitHub often starts scheduled runs late), aims for 22:00 KST / 18:30 IST
-    - cron: "20 13 * * *"  # backup run; already-published posts are skipped
-    - cron: "50 14 * * *"  # 2nd backup ~23:50 KST (catch-up: posts anything still overdue)
-    - cron: "40 7 * * *"   # card news ~16:40 KST (aims for 17:00 KST / 13:30 IST, Indian lunch break)
-    - cron: "20 8 * * *"   # card news backup run
+    # Posting window is 21:00-03:00 KST (publish.py enforces it). GitHub often starts scheduled runs late,
+    # so several runs are spread over the window; each posts at most one overdue/due reel, the rest skip.
+    - cron: "5 12 * * *"    # 21:05 KST
+    - cron: "40 12 * * *"   # 21:40 KST
+    - cron: "20 13 * * *"   # 22:20 KST
+    - cron: "10 14 * * *"   # 23:10 KST
+    - cron: "55 14 * * *"   # 23:55 KST
+    - cron: "45 15 * * *"   # 00:45 KST
+    - cron: "35 16 * * *"   # 01:35 KST
   workflow_dispatch:
     inputs:
       id:
@@ -27,8 +31,7 @@ jobs:
           ID: ${{ inputs.id }}
         run: |
           if [ -n "$ID" ]; then python scripts/publish.py --id "$ID"; exit; fi
-          case "$SCHED" in "40 7 * * *"|"20 8 * * *") T=card;; *) T=reel;; esac
-          python scripts/publish.py --type "$T"
+          python scripts/publish.py --type reel
       - name: Record published posts
         run: |
           git config user.name "github-actions[bot]"
