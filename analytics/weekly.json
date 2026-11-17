@@ -21,7 +21,8 @@
     "ep15 IG missed on 11-15 (publish cron started 04:04 KST 11-16 -> posted ep016 early); ep15 moved to 11-16",
     "6 duplicate scheduled YT uploads not in yt_queue (ep100-105, 2027-01-24..29): -ePgZcHO2BM xL1XJtA0qI4 YvYY7ZlqnT4 oiDtRTXZPPM oqTrgqPt-Do HSpcWR4N6_o",
     "Shorts-feed figures in Studio are 48h-window only; series for ep2-15 assigned by title",
-    "ep15 had only ~12h of data"
+    "ep15 had only ~12h of data",
+    "2026-11-17: checked the 5 extra copies of ep100-104 (xL1XJtA0qI4 YvYY7ZlqnT4 oiDtRTXZPPM oqTrgqPt-Do HSpcWR4N6_o) — none exist any more in Studio (already removed); no duplicates left to delete"
    ],
    "videos": [
     {
