@@ -5,13 +5,26 @@ Video + subtitle files are public at `https://raw.githubusercontent.com/seyoungk
 The built-in browser (mcp__remote-devices__Claude_Browser__*) is signed in to YouTube Studio for channel UCSRpEJb17BwqbM6RAPizHJg.
 It has NO file_upload tool: inject the file with JavaScript (fetch from raw.githubusercontent -> File -> DataTransfer -> input.files).
 
-Step 0: run `python3 yt_plan.py` (assigns `date` + `time` to pending entries: 22:00 daily, plus a 01:00 KST second slot during the
+Step 0: run `python3 yt_plan.py` (re-orders ALL unpublished entries by priority, see step 0c; assigns `date` + `time` to pending entries: 22:00 daily, plus a 01:00 KST second slot during the
 2026-11-16..29 test; FEST episodes keep their date) and commit yt_queue.json if it changed.
 
 Step 0b (duplicate guard — added 2026-11-16 after 12 orphan uploads were found): open the Shorts list
 `https://studio.youtube.com/channel/UCSRpEJb17BwqbM6RAPizHJg/videos/short`, page through it and read every row's video id + title.
 If a `pending` entry's exact title is already in Studio (an earlier run uploaded it but its push was lost), do NOT upload again:
 mark it `scheduled` with that video id (check its translations page has 타밀어; add the SRT if not) and commit + push.
+
+Step 0c (RESCHEDULE — added 2026-11-18; SY explicitly approved moving already-scheduled videos: "예약 순서를 못바꾸면 미리 해놓는
+이유가 없잖아? 지금까지 데이터 보고 잘 나온 컨텐츠 위주로 순서 다 바꿔줘"). `yt_plan.py` (= yt_reshuffle.py) re-orders every
+unpublished Short by priority.json and marks `scheduled` entries whose slot changed with `resched: true` +
+`resched_from: [old_date, old_time]`; their `date`/`time` already hold the NEW slot. Do these BEFORE uploading new pending ones,
+ordered by min(old slot, new slot) ascending (vacate/fill the soonest slots first), up to 25 per run:
+1. navigate `https://studio.youtube.com/video/<video_id>/edit`, wait 4 s.
+2. find the 공개 상태 / visibility box ("예약됨 …") -> click. In the dialog, the 예약 option is selected; click the date field, pick the
+   entry's new `date` (next-month arrow or type `YYYY. M. D.` + Enter), click the time field and pick "오후 10:00" for 22:00 or
+   "오전 1:00" for 01:00. Zoom to verify, click 완료, then click 저장 (top right) and wait 3 s.
+3. Verify: reload the edit page; the visibility box must show the new date + time. Then delete `resched` and `resched_from` from
+   the entry. Commit + push yt_queue.json after every 3 moves.
+4. Never touch videos that are already public, never delete anything. If the new slot is less than 2 h away, skip and leave the flag.
 
 For each pending entry, ordered by (date, time) (skip slots already in the past: mark them `skipped_past`):
 1. navigate `https://studio.youtube.com/channel/UCSRpEJb17BwqbM6RAPizHJg/videos/upload?d=ud`, wait 4 s.

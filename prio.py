@@ -11,7 +11,8 @@ def order(items, series_of, ep_of, key_of=lambda x: ''):
     pools = {t: [] for t in names + ['_']}
     boost = [b.lower() for b in cfg.get('boost', [])]
     hit = lambda x: any(b in key_of(x).lower() for b in boost)
-    for x in sorted(items, key=lambda x: (not hit(x), ep_of(x))):
+    fresh = cfg.get('fresh_from', 0)  # eps written after the performance review (data-driven hooks) go first in their tier
+    for x in sorted(items, key=lambda x: (not hit(x), ep_of(x) < fresh, ep_of(x))):
         pools[tier_of.get(series_of(x), '_')].append(x)
     out, pat, i = [], cfg['pattern'], 0
     while any(pools.values()):

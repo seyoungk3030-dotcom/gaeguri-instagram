@@ -1,29 +1,33 @@
 {
- "_why": "Weekly review 2026-11-16 (SY: '반응 좋은거 위주로'). Short Korea culture-shock (KR) and Korean word hooks (LEARN/QUIZ/SAME, esp. Korean=Tamil/Hindi) won: ep12 1233 views, ep10 624, ep11 418, ep14 236 + 15 IG likes. DESI self-tests (ep13 32), VS skits, KODAI, long format lost. Update after each weekly review.",
+ "_why": "2026-11-18 (SY: '지금까지 데이터 보고 잘 나온 컨텐츠 위주로 순서 다 바꿔줘' — also already-scheduled YouTube). Winners: LEARN ep12 1233 views/54% stayed, KR ep10 624 + ep11 418, SAME ep14 236 + best IG (15 likes). Losers: DESI ep13 32 (70% swipe), VS ep8 36 / ep15 ~2, KODAI ep7 16. Tier C is no longer in the pattern: it only airs after A and B run out. Boost cleared so Tamil SAME words don't clump 20-in-a-row; tier A interleaves KR/LEARN/SAME/QUIZ by ep.",
  "tiers": {
   "A": [
    "KR",
    "LEARN",
-   "QUIZ",
    "SAME",
-   "KDRAMA"
+   "QUIZ"
   ],
   "B": [
+   "KDRAMA",
    "FOOD",
-   "IN",
-   "DESI"
+   "IN"
   ],
   "C": [
+   "DESI",
    "VS",
    "KODAI"
   ]
  },
- "pattern": "AABAAC",
- "boost": [
+ "pattern": "AAAB",
+ "boost": [],
+ "_boost": "ids/titles containing these go first inside their tier (Korean=Tamil words: ep14 was the IG best, 15 likes)",
+ "_why_prev": "Weekly review 2026-11-16 (SY: '반응 좋은거 위주로'). Short Korea culture-shock (KR) and Korean word hooks (LEARN/QUIZ/SAME, esp. Korean=Tamil/Hindi) won: ep12 1233 views, ep10 624, ep11 418, ep14 236 + 15 IG likes. DESI self-tests (ep13 32), VS skits, KODAI, long format lost. Update after each weekly review.",
+ "boost_prev": [
   "tamil",
   "-akka-",
   "aiyo",
   "nal-"
  ],
- "_boost": "ids/titles containing these go first inside their tier (Korean=Tamil words: ep14 was the IG best, 15 likes)"
+ "fresh_from": 273,
+ "_fresh": "eps >= 273 were written after the 11/16 review with the winning short hooks; inside a tier they air before older specs"
 }
