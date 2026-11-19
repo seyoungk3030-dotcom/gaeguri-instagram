@@ -1,5 +1,9 @@
 name: publish
 on:
+  push:
+    # A daily Claude scheduled task commits trigger/publish.txt at ~21:43 and ~23:43 KST. Push events start
+    # within seconds, unlike cron schedules, which GitHub started 8+ hours late on 11/17-18.
+    paths: ["trigger/publish.txt"]
   schedule:
     # Posting window is 21:00-03:00 KST (publish.py enforces it). GitHub often starts scheduled runs late,
     # so several runs are spread over the window; each posts at most one overdue/due reel, the rest skip.
