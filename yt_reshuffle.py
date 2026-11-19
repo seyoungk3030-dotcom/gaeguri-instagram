@@ -14,10 +14,12 @@ TEST = (dt.date(2026, 11, 16), dt.date(2026, 11, 29))
 now = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).replace(tzinfo=None)
 LOCK = now + dt.timedelta(hours=36)
 def when(d, t): return dt.datetime.fromisoformat(f'{d}T{t}')
+THREE = dt.date(2026, 11, 20)  # SY 2026-11-19: "하루에 3개씩" -> 01:00, 16:30, 22:00 KST every day from 11/20
 def slots():
     d = dt.date(2026, 11, 16)
     while True:
-        if TEST[0] <= d - dt.timedelta(days=1) <= TEST[1]: yield (d.isoformat(), '01:00')
+        if d >= THREE or TEST[0] <= d - dt.timedelta(days=1) <= TEST[1]: yield (d.isoformat(), '01:00')
+        if d >= THREE: yield (d.isoformat(), '16:30')
         yield (d.isoformat(), '22:00')
         d += dt.timedelta(days=1)
 for x in q:
@@ -46,7 +48,7 @@ for x in movable:
         if new == orig: x.pop('resched', None); x.pop('resched_from', None)
         else: x['resched'] = True; x['resched_from'] = list(orig); moves += 1
     x['date'], x['time'] = new
-q.sort(key=lambda x: (x['date'], x['time'] != '01:00', x['time']))
+q.sort(key=lambda x: (x['date'], x['time']))
 if '--dry' not in sys.argv: json.dump(q, open(Q, 'w'), ensure_ascii=False, indent=1)
 print('locked', len(locked), 'movable', len(movable), 'scheduled videos to move in Studio', moves)
 for x in [y for y in q if y in movable][:24]:

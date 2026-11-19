@@ -45,7 +45,7 @@ For each pending entry, ordered by (date, time) (skip slots already in the past:
 5. find `button "다음"` -> click it 3 times (2 s waits). Click (447,456) to expand 예약 (viewport 800x600). Screenshot.
 6. Click the date field (~(130,388)) to open the calendar; if it did not open, click again. Screenshot, click the target day.
    If the month differs, use the calendar's next-month arrow (or type the date into the calendar's text field `YYYY. M. D.` + Enter).
-7. Click the time field (~(266,388)), find the entry's time: `time` "22:00" -> "오후 10:00", "01:00" -> "오전 1:00" -> scroll_to + click.
+7. Click the time field (~(266,388)), find the entry's time: `time` "22:00" -> "오후 10:00", "16:30" -> "오후 4:30", "01:00" -> "오전 1:00" -> scroll_to + click.
    Zoom (60,360,480,420) to verify date + time.
 8. Click 예약 (~(732,535)), wait 3 s, screenshot: the dialog must say "동영상 예약됨 … <date> <time>". Read the shorts link -> video id.
 9. Subtitles: navigate `https://studio.youtube.com/video/<id>/translations`, wait 4 s, find `button "언어 추가"` -> click, find "타밀어" -> click,
