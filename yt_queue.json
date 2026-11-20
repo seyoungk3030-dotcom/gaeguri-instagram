@@ -3563,12 +3563,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "22:00",
-  "video_id": "Au4waimLb_4",
-  "resched": true,
-  "resched_from": [
-   "2026-11-22",
-   "01:00"
-  ]
+  "video_id": "Au4waimLb_4"
  },
  {
   "ep": 47,
@@ -5053,12 +5048,7 @@
   "status": "scheduled",
   "video_id": "9YzE2XH3s1Y",
   "time": "22:00",
-  "series": "DESI",
-  "resched": true,
-  "resched_from": [
-   "2026-11-22",
-   "22:00"
-  ]
+  "series": "DESI"
  },
  {
   "ep": 30,
