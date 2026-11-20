@@ -3572,12 +3572,7 @@
   "status": "scheduled",
   "series": "QUIZ",
   "time": "01:00",
-  "video_id": "m2bzGjpvKow",
-  "resched": true,
-  "resched_from": [
-   "2026-11-24",
-   "01:00"
-  ]
+  "video_id": "m2bzGjpvKow"
  },
  {
   "ep": 50,
