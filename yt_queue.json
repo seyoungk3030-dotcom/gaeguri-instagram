@@ -1278,12 +1278,7 @@
   "status": "scheduled",
   "video_id": "OmdVJLeQwFU",
   "time": "01:00",
-  "series": "IN",
-  "resched": true,
-  "resched_from": [
-   "2026-11-23",
-   "22:00"
-  ]
+  "series": "IN"
  },
  {
   "ep": 382,
