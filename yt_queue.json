@@ -141,12 +141,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "22:00",
-  "video_id": "nCwhZ9V75q4",
-  "resched": true,
-  "resched_from": [
-   "2027-02-21",
-   "22:00"
-  ]
+  "video_id": "nCwhZ9V75q4"
  },
  {
   "ep": 276,
