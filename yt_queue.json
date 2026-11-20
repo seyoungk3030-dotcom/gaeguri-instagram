@@ -211,9 +211,10 @@
   "desc": "Korean: 빵 (ppang) = bread 🍞\nHindi/Marathi: पाव (pav) = bread 🍞\nSecret: dono Portuguese 'pão' se aaye! 🇵🇹\nJapan hoke Korea, Goa hoke Mumbai ✈️\nPav bhaji ya vada pav? 👇\n#LearnKorean #VadaPav #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep280_ppang-pav-portugal.mp4",
   "srt": "subs/gaeguri_ep280_ta.srt",
-  "status": "pending",
+  "status": "scheduled",
   "series": "SAME",
-  "time": "16:30"
+  "time": "16:30",
+  "video_id": "QRQsT___ONw"
  },
  {
   "ep": 281,
@@ -5128,12 +5129,7 @@
   "status": "scheduled",
   "series": "VS",
   "time": "22:00",
-  "video_id": "6Lm0b3WhhXI",
-  "resched": true,
-  "resched_from": [
-   "2026-11-23",
-   "01:00"
-  ]
+  "video_id": "6Lm0b3WhhXI"
  },
  {
   "ep": 49,
