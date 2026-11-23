@@ -8,6 +8,9 @@ It has NO file_upload tool: inject the file with JavaScript (fetch from raw.gith
 Step 0: run `python3 yt_plan.py` (re-orders ALL unpublished entries by priority, see step 0c; assigns `date` + `time` to pending entries: 22:00 daily, plus a 01:00 KST second slot during the
 2026-11-16..29 test; FEST episodes keep their date) and commit yt_queue.json if it changed.
 
+Note 2026-11-23: yt_reshuffle.py now anchors the priority pattern to the absolute slot index (PHASE const), so runs no longer
+shift the whole queue by one slot each time the 36 h lock advances; the resched backlog is now real re-prioritisation only.
+
 Step 0b (duplicate guard — added 2026-11-16 after 12 orphan uploads were found): open the Shorts list
 `https://studio.youtube.com/channel/UCSRpEJb17BwqbM6RAPizHJg/videos/short`, page through it and read every row's video id + title.
 If a `pending` entry's exact title is already in Studio (an earlier run uploaded it but its push was lost), do NOT upload again:
