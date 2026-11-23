@@ -322,12 +322,7 @@
   "status": "scheduled",
   "series": "LEARN",
   "time": "16:30",
-  "video_id": "Z6yHl8r5s2s",
-  "resched": true,
-  "resched_from": [
-   "2026-11-26",
-   "22:00"
-  ]
+  "video_id": "Z6yHl8r5s2s"
  },
  {
   "ep": 297,
@@ -350,12 +345,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "01:00",
-  "video_id": "Nzs3O6uGhdI",
-  "resched": true,
-  "resched_from": [
-   "2026-11-26",
-   "16:30"
-  ]
+  "video_id": "Nzs3O6uGhdI"
  },
  {
   "ep": 298,
