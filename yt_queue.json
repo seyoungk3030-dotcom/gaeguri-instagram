@@ -274,12 +274,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "01:00",
-  "video_id": "t_EXEA_jrYo",
-  "resched": true,
-  "resched_from": [
-   "2026-11-25",
-   "16:30"
-  ]
+  "video_id": "t_EXEA_jrYo"
  },
  {
   "ep": 289,
@@ -291,12 +286,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "16:30",
-  "video_id": "LDyFrHkR4H0",
-  "resched": true,
-  "resched_from": [
-   "2026-11-25",
-   "22:00"
-  ]
+  "video_id": "LDyFrHkR4H0"
  },
  {
   "ep": 286,
@@ -308,12 +298,7 @@
   "status": "scheduled",
   "series": "LEARN",
   "time": "22:00",
-  "video_id": "hMPBrJEt6dk",
-  "resched": true,
-  "resched_from": [
-   "2026-11-25",
-   "01:00"
-  ]
+  "video_id": "hMPBrJEt6dk"
  },
  {
   "ep": 291,
