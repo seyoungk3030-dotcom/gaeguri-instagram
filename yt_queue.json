@@ -2890,12 +2890,7 @@
   "status": "scheduled",
   "video_id": "f0omKieyLOc",
   "time": "01:00",
-  "series": "SAME",
-  "resched": true,
-  "resched_from": [
-   "2026-11-29",
-   "22:00"
-  ]
+  "series": "SAME"
  },
  {
   "ep": 461,
