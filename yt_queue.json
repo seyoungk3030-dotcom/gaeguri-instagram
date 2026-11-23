@@ -1848,12 +1848,7 @@
   "status": "scheduled",
   "video_id": "L9RpI6TxIWc",
   "time": "01:00",
-  "series": "KDRAMA",
-  "resched": true,
-  "resched_from": [
-   "2026-11-27",
-   "22:00"
-  ]
+  "series": "KDRAMA"
  },
  {
   "ep": 463,
