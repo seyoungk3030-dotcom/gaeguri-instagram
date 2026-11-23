@@ -250,6 +250,349 @@
      "ig_likes": null
     }
    ]
+  },
+  {
+   "week": "2026-11-23",
+   "collected_at": "2026-11-23T13:00+09:00",
+   "source": "YouTube Studio (built-in browser) per-video overview + channel overview; insights.json",
+   "channel": {
+    "subscribers": 8,
+    "views_28d": 6800,
+    "watch_hours_28d": 11.7,
+    "subs_gained_28d": 8,
+    "views_48h": 1799,
+    "monthly_viewers": 2100,
+    "new_viewers_pct": 99
+   },
+   "instagram": {
+    "followers": 6,
+    "insights_at": "2026-11-22T19:48+09:00",
+    "best": "ep14 korean-tamil 16 likes",
+    "health": "27/27 scheduled posts up to 11-22 published"
+   },
+   "by_series_11_16_to_22": {
+    "DESI": {
+     "n": 2,
+     "avg_views": 506
+    },
+    "SAME": {
+     "n": 3,
+     "avg_views": 271
+    },
+    "LEARN": {
+     "n": 3,
+     "avg_views": 81
+    },
+    "VS": {
+     "n": 1,
+     "avg_views": 204
+    },
+    "FOOD": {
+     "n": 1,
+     "avg_views": 35
+    },
+    "FEST": {
+     "n": 1,
+     "avg_views": 465
+    },
+    "IN": {
+     "n": 1,
+     "avg_views": 111
+    },
+    "KR": {
+     "n": 3,
+     "avg_views": 419
+    },
+    "QUIZ": {
+     "n": 1,
+     "avg_views": 34
+    }
+   },
+   "by_slot_11_16_to_22": {
+    "22:00": {
+     "n": 7,
+     "avg_views": 307
+    },
+    "01:00": {
+     "n": 6,
+     "avg_views": 214
+    },
+    "16:30": {
+     "n": 3,
+     "avg_views": 247
+    }
+   },
+   "notes": [
+    "stayed_pct = '% 계속 시청함' since publish; subs_gained null = Studio showed no value",
+    "fresh eps (>=273) stayed 15-28% vs 35-54% for ep10-17 — retention dropped",
+    "ep280/285 01:00-vs-16:30 swap from an earlier run was never applied in Studio; queue restored to Studio truth (285 aired 11-23 01:00, 280 airs 11-23 16:30)"
+   ],
+   "videos": [
+    {
+     "ep": 9,
+     "video_id": "0je8953LyGY",
+     "series": "SAME",
+     "slot": "22:00",
+     "published": "2026-11-09",
+     "views": 9,
+     "stayed_pct": 44.4,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 10,
+     "video_id": "zF8ToedAAWk",
+     "series": "KR",
+     "slot": "22:00",
+     "published": "2026-11-10",
+     "views": 626,
+     "stayed_pct": 34.8,
+     "likes": 5,
+     "subs_gained": null
+    },
+    {
+     "ep": 11,
+     "video_id": "yYhv-FskbHE",
+     "series": "KR",
+     "slot": "22:00",
+     "published": "2026-11-11",
+     "views": 417,
+     "stayed_pct": 41.9,
+     "likes": 5,
+     "subs_gained": null
+    },
+    {
+     "ep": 12,
+     "video_id": "mnqs9cBCFWk",
+     "series": "LEARN",
+     "slot": "22:00",
+     "published": "2026-11-12",
+     "views": 1247,
+     "stayed_pct": 54.3,
+     "likes": 9,
+     "subs_gained": null
+    },
+    {
+     "ep": 13,
+     "video_id": "VlkC4-gOn0A",
+     "series": "DESI",
+     "slot": "22:00",
+     "published": "2026-11-13",
+     "views": 34,
+     "stayed_pct": 30.0,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 14,
+     "video_id": "3ZTQDiF_lhA",
+     "series": "SAME",
+     "slot": "22:00",
+     "published": "2026-11-14",
+     "views": 461,
+     "stayed_pct": 47.9,
+     "likes": 3,
+     "subs_gained": 0
+    },
+    {
+     "ep": 15,
+     "video_id": "0U_VEXmGuY8",
+     "series": "VS",
+     "slot": "22:00",
+     "published": "2026-11-15",
+     "views": 28,
+     "stayed_pct": 36.0,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 16,
+     "video_id": "WlImvbzWhrk",
+     "series": "DESI",
+     "slot": "22:00",
+     "published": "2026-11-16",
+     "views": 826,
+     "stayed_pct": 53.3,
+     "likes": 4,
+     "subs_gained": 0
+    },
+    {
+     "ep": 17,
+     "video_id": "QdoyWnYBaWk",
+     "series": "SAME",
+     "slot": "22:00",
+     "published": "2026-11-17",
+     "views": 285,
+     "stayed_pct": 35.1,
+     "likes": 1,
+     "subs_gained": 0
+    },
+    {
+     "ep": 40,
+     "video_id": "MOy-tzwO5Vc",
+     "series": "LEARN",
+     "slot": "01:00",
+     "published": "2026-11-17",
+     "views": 81,
+     "stayed_pct": 48.6,
+     "likes": 1,
+     "subs_gained": 0
+    },
+    {
+     "ep": 18,
+     "video_id": "CDrO9iDgx3c",
+     "series": "VS",
+     "slot": "22:00",
+     "published": "2026-11-18",
+     "views": 204,
+     "stayed_pct": 32.0,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 41,
+     "video_id": "6uhRuT6EyVQ",
+     "series": "FOOD",
+     "slot": "01:00",
+     "published": "2026-11-18",
+     "views": 35,
+     "stayed_pct": 43.2,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 19,
+     "video_id": "-tSIOPFdl04",
+     "series": "FEST",
+     "slot": "22:00",
+     "published": "2026-11-19",
+     "views": 465,
+     "stayed_pct": 30.3,
+     "likes": 3,
+     "subs_gained": 0
+    },
+    {
+     "ep": 42,
+     "video_id": "P-CMnjl7diY",
+     "series": "IN",
+     "slot": "01:00",
+     "published": "2026-11-19",
+     "views": 111,
+     "stayed_pct": 30.4,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 274,
+     "video_id": "oBBmBu72mAg",
+     "series": "LEARN",
+     "slot": "22:00",
+     "published": "2026-11-20",
+     "views": 123,
+     "stayed_pct": 41.7,
+     "likes": 1,
+     "subs_gained": 0
+    },
+    {
+     "ep": 273,
+     "video_id": "4zVapLEL7VU",
+     "series": "KR",
+     "slot": "16:30",
+     "published": "2026-11-20",
+     "views": 230,
+     "stayed_pct": 27.7,
+     "likes": 1,
+     "subs_gained": null
+    },
+    {
+     "ep": 43,
+     "video_id": "2fSHnZka3_g",
+     "series": "DESI",
+     "slot": "01:00",
+     "published": "2026-11-20",
+     "views": 187,
+     "stayed_pct": 17.4,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 275,
+     "video_id": "nCwhZ9V75q4",
+     "series": "SAME",
+     "slot": "22:00",
+     "published": "2026-11-21",
+     "views": 209,
+     "stayed_pct": 24.2,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 477,
+     "video_id": "mEezT3DuorM",
+     "series": "KR",
+     "slot": "16:30",
+     "published": "2026-11-21",
+     "views": 476,
+     "stayed_pct": 25.5,
+     "likes": 1,
+     "subs_gained": 0
+    },
+    {
+     "ep": 473,
+     "video_id": "EvAJbn4lf5c",
+     "series": "SAME",
+     "slot": "01:00",
+     "published": "2026-11-21",
+     "views": 318,
+     "stayed_pct": 25.2,
+     "likes": 1,
+     "subs_gained": null
+    },
+    {
+     "ep": 278,
+     "video_id": "DGBX3DGKVSs",
+     "series": "LEARN",
+     "slot": "22:00",
+     "published": "2026-11-22",
+     "views": 39,
+     "stayed_pct": 15.4,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 277,
+     "video_id": "koxil6qE8p4",
+     "series": "QUIZ",
+     "slot": "16:30",
+     "published": "2026-11-22",
+     "views": 34,
+     "stayed_pct": 24.2,
+     "likes": 0,
+     "subs_gained": 0
+    },
+    {
+     "ep": 276,
+     "video_id": "EsxL9GaEemg",
+     "series": "KR",
+     "slot": "01:00",
+     "published": "2026-11-22",
+     "views": 550,
+     "stayed_pct": 24.6,
+     "likes": 7,
+     "subs_gained": 0
+    },
+    {
+     "ep": 285,
+     "video_id": "cBoLK6fP05A",
+     "series": "KDRAMA",
+     "slot": "01:00",
+     "published": "2026-11-23",
+     "views": 12,
+     "stayed_pct": 16.7,
+     "likes": 0,
+     "subs_gained": 0
+    }
+   ]
   }
  ]
 }

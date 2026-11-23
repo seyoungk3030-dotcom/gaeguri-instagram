@@ -1,31 +1,32 @@
 {
- "_why": "2026-11-19 (SY: '조회수/도달 보고 반응 좋은 컨텐츠 우선 예약'). YouTube lifetime views: ep12 LEARN '밥 먹었어=khana khaya' 1.2k (54% stayed), ep16 '빨리빨리 vs Indian 5 minute' 819 (54%), ep10 KR sebae 628, ep14 SAME Korean=Tamil 463 (48%; IG best 15 likes), ep11 KR 418, ep17 SAME bada 261. Losers: VS skits without a Korean word (ep18 shoes 68, ep15 dinner 28), DESI self-test ep13 34, FOOD ep41 32. Winning thread = ONE Korean word/phrase in the hook tied to a desi equivalent. Pattern raised to AAAAB, FOOD moved to tier C. Slot note: 01:00 KST eps (40/41/42) got 81/32/5 vs 22:00 eps 819/261/68 — watch next week.",
+ "_why": "2026-11-23 weekly review (YouTube views, eps published 11-16..11-22): KR culture-shock 'Korea mein X?!' won — ep276 kainchi 550 views/7 likes, ep477 lift CLOSE 476, ep273 kimchi fridge 230 (avg 419); SAME Korean=Tamil/Hindi ep473 318, ep17 285, ep275 209 (avg 271); LEARN slipped this week (ep40 81, ep274 123, ep278 39 — ep12 still all-time best 1.2k); QUIZ ep277 34, KDRAMA ep285 12 (new); DESI ep43 187, VS ep18 204, IN ep42 111, FOOD ep41 35. So KR+SAME are tier A, LEARN+QUIZ tier B, KDRAMA/IN tier C, FOOD/DESI/VS/KODAI last. Slot: 01:00 no longer dead (ep276 550, ep473 318; avg 01:00 ~214 vs 16:30 247 vs 22:00 307). Retention warning: fresh eps (>=273) only 15-28% stayed vs 35-54% for ep10-17.",
  "tiers": {
   "A": [
-   "LEARN",
-   "SAME",
    "KR",
-   "QUIZ"
+   "SAME"
   ],
   "B": [
+   "LEARN",
+   "QUIZ"
+  ],
+  "C": [
    "KDRAMA",
    "IN"
   ],
-  "C": [
+  "D": [
    "FOOD",
    "DESI",
    "VS",
    "KODAI"
   ]
  },
- "pattern": "AAAAB",
+ "pattern": "AABABAC",
  "boost": [
   "ppalli",
-  "-vs-5-minute",
   "khana"
  ],
  "_boost": "ids/titles containing these go first inside their tier (Korean=Tamil words: ep14 was the IG best, 15 likes)",
- "_why_prev": "Weekly review 2026-11-16 (SY: '반응 좋은거 위주로'). Short Korea culture-shock (KR) and Korean word hooks (LEARN/QUIZ/SAME, esp. Korean=Tamil/Hindi) won: ep12 1233 views, ep10 624, ep11 418, ep14 236 + 15 IG likes. DESI self-tests (ep13 32), VS skits, KODAI, long format lost. Update after each weekly review.",
+ "_why_prev": "2026-11-19 (SY: '조회수/도달 보고 반응 좋은 컨텐츠 우선 예약'). YouTube lifetime views: ep12 LEARN '밥 먹었어=khana khaya' 1.2k (54% stayed), ep16 '빨리빨리 vs Indian 5 minute' 819 (54%), ep10 KR sebae 628, ep14 SAME Korean=Tamil 463 (48%; IG best 15 likes), ep11 KR 418, ep17 SAME bada 261. Losers: VS skits without a Korean word (ep18 shoes 68, ep15 dinner 28), DESI self-test ep13 34, FOOD ep41 32. Winning thread = ONE Korean word/phrase in the hook tied to a desi equivalent. Pattern raised to AAAAB, FOOD moved to tier C. Slot note: 01:00 KST eps (40/41/42) got 81/32/5 vs 22:00 eps 819/261/68 — watch next week.",
  "boost_prev": [
   "tamil",
   "-akka-",
@@ -34,5 +35,5 @@
  ],
  "fresh_from": 273,
  "_fresh": "eps >= 273 were written after the 11/16 review with the winning short hooks; inside a tier they air before older specs",
- "_why_prev2": "2026-11-18 (SY: '지금까지 데이터 보고 잘 나온 컨텐츠 위주로 순서 다 바꿔줘' — also already-scheduled YouTube). Winners: LEARN ep12 1233 views/54% stayed, KR ep10 624 + ep11 418, SAME ep14 236 + best IG (15 likes). Losers: DESI ep13 32 (70% swipe), VS ep8 36 / ep15 ~2, KODAI ep7 16. Tier C is no longer in the pattern: it only airs after A and B run out. Boost cleared so Tamil SAME words don't clump 20-in-a-row; tier A interleaves KR/LEARN/SAME/QUIZ by ep."
+ "_why_prev2": "Weekly review 2026-11-16 (SY: '반응 좋은거 위주로'). Short Korea culture-shock (KR) and Korean word hooks (LEARN/QUIZ/SAME, esp. Korean=Tamil/Hindi) won: ep12 1233 views, ep10 624, ep11 418, ep14 236 + 15 IG likes. DESI self-tests (ep13 32), VS skits, KODAI, long format lost. Update after each weekly review."
 }
