@@ -332,12 +332,7 @@
   "status": "scheduled",
   "series": "LEARN",
   "time": "22:00",
-  "video_id": "Z6yHl8r5s2s",
-  "resched": true,
-  "resched_from": [
-   "2027-02-24",
-   "22:00"
-  ]
+  "video_id": "Z6yHl8r5s2s"
  },
  {
   "ep": 295,
@@ -3584,12 +3579,7 @@
   "status": "scheduled",
   "video_id": "sxspTOVigJc",
   "time": "22:00",
-  "series": "LEARN",
-  "resched": true,
-  "resched_from": [
-   "2026-11-26",
-   "22:00"
-  ]
+  "series": "LEARN"
  },
  {
   "ep": 29,
@@ -5305,12 +5295,7 @@
   "status": "scheduled",
   "series": "VS",
   "time": "01:00",
-  "video_id": "dT-5LdjxNVc",
-  "resched": true,
-  "resched_from": [
-   "2026-11-26",
-   "01:00"
-  ]
+  "video_id": "dT-5LdjxNVc"
  },
  {
   "ep": 51,
