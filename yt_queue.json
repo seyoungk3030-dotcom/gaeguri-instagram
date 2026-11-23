@@ -5317,12 +5317,7 @@
   "status": "scheduled",
   "series": "DESI",
   "time": "16:30",
-  "video_id": "SR00O-sBJOY",
-  "resched": true,
-  "resched_from": [
-   "2026-11-28",
-   "01:00"
-  ]
+  "video_id": "SR00O-sBJOY"
  },
  {
   "ep": 56,
