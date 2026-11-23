@@ -394,12 +394,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "16:30",
-  "video_id": "EeCchzWmQvo",
-  "resched": true,
-  "resched_from": [
-   "2027-02-26",
-   "22:00"
-  ]
+  "video_id": "EeCchzWmQvo"
  },
  {
   "ep": 28,
@@ -3057,12 +3052,7 @@
   "status": "scheduled",
   "series": "KR",
   "time": "22:00",
-  "video_id": "lTa8JXlrRUE",
-  "resched": true,
-  "resched_from": [
-   "2026-11-29",
-   "01:00"
-  ]
+  "video_id": "lTa8JXlrRUE"
  },
  {
   "ep": 132,
