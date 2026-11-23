@@ -201,13 +201,8 @@
   "srt": "subs/gaeguri_ep280_ta.srt",
   "status": "scheduled",
   "series": "SAME",
-  "time": "01:00",
-  "video_id": "QRQsT___ONw",
-  "resched": true,
-  "resched_from": [
-   "2026-11-23",
-   "16:30"
-  ]
+  "time": "16:30",
+  "video_id": "QRQsT___ONw"
  },
  {
   "ep": 285,
@@ -218,13 +213,8 @@
   "srt": "subs/gaeguri_ep285_ta.srt",
   "status": "scheduled",
   "series": "KDRAMA",
-  "time": "16:30",
-  "video_id": "cBoLK6fP05A",
-  "resched": true,
-  "resched_from": [
-   "2026-11-23",
-   "01:00"
-  ]
+  "time": "01:00",
+  "video_id": "cBoLK6fP05A"
  },
  {
   "ep": 281,
@@ -273,17 +263,6 @@
   "time": "22:00"
  },
  {
-  "ep": 293,
-  "date": "2026-11-25",
-  "title": "Ye ENGLISH words HINDI se aaye?! 😱🇮🇳🐸",
-  "desc": "Shampoo ← chaampo (dabao/massage) 🧴\nJungle ← jangal 🌳 | Pyjama ← paajama 👖\nBungalow ← bangla 🏡 | Loot ← loot 💰\nEnglish bhi thodi desi nikli! 😂\nAur kaunsa word? 👇\n#Hindi #English #IndianReels\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep293_english-words-from-hindi.mp4",
-  "srt": "subs/gaeguri_ep293_ta.srt",
-  "status": "pending",
-  "series": "IN",
-  "time": "01:00"
- },
- {
   "ep": 286,
   "date": "2026-11-25",
   "title": "K-pop ka CUTE word: 막내 = CHHOTU 👶🐸",
@@ -292,7 +271,7 @@
   "srt": "subs/gaeguri_ep286_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 287,
@@ -303,18 +282,18 @@
   "srt": "subs/gaeguri_ep287_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 289,
-  "date": "2026-11-26",
+  "date": "2026-11-25",
   "title": "Korean 'MACHA' = TANGA... Tamil 'MACHAA' = BRO! 🐴😎🐸",
   "desc": "Korean: 마차 (macha) = horse carriage / tanga 🐴\nTamil: மச்சா (machaa) = bro, dost 😎\nK-drama prince: 'macha mein chalo!' 👑\nTamil friends: machaa ya da? 👇\n#LearnKorean #Tamil #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep289_macha-carriage-tamil-machaa.mp4",
   "srt": "subs/gaeguri_ep289_ta.srt",
   "status": "scheduled",
   "series": "SAME",
-  "time": "01:00",
+  "time": "22:00",
   "video_id": "LDyFrHkR4H0",
   "resched": true,
   "resched_from": [
@@ -331,29 +310,29 @@
   "srt": "subs/gaeguri_ep291_ta.srt",
   "status": "pending",
   "series": "KR",
+  "time": "01:00"
+ },
+ {
+  "ep": 293,
+  "date": "2026-11-26",
+  "title": "Ye ENGLISH words HINDI se aaye?! 😱🇮🇳🐸",
+  "desc": "Shampoo ← chaampo (dabao/massage) 🧴\nJungle ← jangal 🌳 | Pyjama ← paajama 👖\nBungalow ← bangla 🏡 | Loot ← loot 💰\nEnglish bhi thodi desi nikli! 😂\nAur kaunsa word? 👇\n#Hindi #English #IndianReels\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep293_english-words-from-hindi.mp4",
+  "srt": "subs/gaeguri_ep293_ta.srt",
+  "status": "pending",
+  "series": "IN",
   "time": "16:30"
  },
  {
-  "ep": 294,
-  "date": "2026-11-26",
-  "title": "K-drama ki BIMAARI: Second Lead Syndrome 💔😭🐸",
-  "desc": "Second hero: sweet, caring, hamesha wahan ☂️🥺\nPar heroine chunti hai... first hero 😑\nAur hum? Tissue box khatam 😭\nTeam kaun: 1st lead ya 2nd lead? 👇\n#KDrama #SecondLeadSyndrome #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep294_second-lead-syndrome.mp4",
-  "srt": "subs/gaeguri_ep294_ta.srt",
-  "status": "pending",
-  "series": "KDRAMA",
-  "time": "22:00"
- },
- {
   "ep": 292,
-  "date": "2026-11-27",
+  "date": "2026-11-26",
   "title": "Korean girls ka favourite word: 언니 = DIDI / AKKA 💕🐸",
   "desc": "언니 (eonni) = didi / akka — ladkiyan bolti hain 👭\nSagi behen nahi? Friend, shop wali didi... sab eonni! 💕\nBilkul Tamil ka 'akka' 😍\nAap bolti ho: didi ya akka? 👇\n#LearnKorean #Tamil #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep292_eonni-akka-didi-learn.mp4",
   "srt": "subs/gaeguri_ep292_ta.srt",
   "status": "scheduled",
   "series": "LEARN",
-  "time": "01:00",
+  "time": "22:00",
   "video_id": "Z6yHl8r5s2s",
   "resched": true,
   "resched_from": [
@@ -370,7 +349,7 @@
   "srt": "subs/gaeguri_ep295_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 297,
@@ -381,28 +360,39 @@
   "srt": "subs/gaeguri_ep297_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 298,
-  "date": "2026-11-28",
+  "date": "2026-11-27",
   "title": "Korean 'DAK' = chicken... Hindi DAAK = post! 🐔📮🐸",
   "desc": "닭 (dak) = chicken 🐔\nHindi mein डाक (daak) = post 📮\nDaakiya aaya... chicken lekar! 😂\nChicken ya chitthi? 👇\n#KoreaVsIndia #LearnKorean #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep298_dak-chicken-daak-post.mp4",
   "srt": "subs/gaeguri_ep298_ta.srt",
   "status": "pending",
   "series": "SAME",
+  "time": "22:00"
+ },
+ {
+  "ep": 294,
+  "date": "2026-11-28",
+  "title": "K-drama ki BIMAARI: Second Lead Syndrome 💔😭🐸",
+  "desc": "Second hero: sweet, caring, hamesha wahan ☂️🥺\nPar heroine chunti hai... first hero 😑\nAur hum? Tissue box khatam 😭\nTeam kaun: 1st lead ya 2nd lead? 👇\n#KDrama #SecondLeadSyndrome #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep294_second-lead-syndrome.mp4",
+  "srt": "subs/gaeguri_ep294_ta.srt",
+  "status": "pending",
+  "series": "KDRAMA",
   "time": "01:00"
  },
  {
-  "ep": 307,
+  "ep": 299,
   "date": "2026-11-28",
-  "title": "K-drama: SLOW-MO stare 😍 vs Serial: 3x ZOOM 😱🐸",
-  "desc": "K-drama: heroine giri... hero ne pakda... 5 second slow-mo 😍\nIndian serial: shock! zoom zoom zoom + dham dham dham 🥁😂\nTeam kaun: slow-mo ya zoom? 👇\n#KDrama #KoreaVsIndia #Serial\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep307_slowmo-stare-vs-triple-zoom.mp4",
-  "srt": "subs/gaeguri_ep307_ta.srt",
+  "title": "K-drama ka 'HYUNG!' = BHAIYA! 👦🐸",
+  "desc": "형 (hyeong / hyung) = bhaiya 👦 — ladke bolte hain\nAur Korea mein bhi... bhaiya hi paise deta! 💸😂\nLadkiyan bolti: 오빠 (oppa)\nAapke bhaiya paise dete? 👇\n#LearnKorean #KDrama #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep299_hyeong-bhaiya-learn.mp4",
+  "srt": "subs/gaeguri_ep299_ta.srt",
   "status": "pending",
-  "series": "KDRAMA",
+  "series": "LEARN",
   "time": "16:30"
  },
  {
@@ -418,17 +408,6 @@
   "series": "FEST"
  },
  {
-  "ep": 299,
-  "date": "2026-11-29",
-  "title": "K-drama ka 'HYUNG!' = BHAIYA! 👦🐸",
-  "desc": "형 (hyeong / hyung) = bhaiya 👦 — ladke bolte hain\nAur Korea mein bhi... bhaiya hi paise deta! 💸😂\nLadkiyan bolti: 오빠 (oppa)\nAapke bhaiya paise dete? 👇\n#LearnKorean #KDrama #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep299_hyeong-bhaiya-learn.mp4",
-  "srt": "subs/gaeguri_ep299_ta.srt",
-  "status": "pending",
-  "series": "LEARN",
-  "time": "01:00"
- },
- {
   "ep": 300,
   "date": "2026-11-29",
   "title": "Korea mein STEEL ki chopsticks?! 🥢😱🐸",
@@ -437,7 +416,7 @@
   "srt": "subs/gaeguri_ep300_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 301,
@@ -448,18 +427,18 @@
   "srt": "subs/gaeguri_ep301_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 302,
-  "date": "2026-11-30",
+  "date": "2026-11-29",
   "title": "Korean 'DA' = sab kuch... Tamil 'DA' = dude! 😂🐸",
   "desc": "다 (da) = sab kuch / all 🍽️\n다 먹었어 = sab kha liya!\nTamil mein டா (da) = dude / bro 😎\nDost ko: da ya bhai? 👇\n#KoreaVsIndia #Tamil #LearnKorean\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep302_da-all-tamil-da.mp4",
   "srt": "subs/gaeguri_ep302_ta.srt",
   "status": "scheduled",
   "series": "SAME",
-  "time": "01:00",
+  "time": "22:00",
   "video_id": "EeCchzWmQvo",
   "resched": true,
   "resched_from": [
@@ -468,15 +447,15 @@
   ]
  },
  {
-  "ep": 308,
+  "ep": 307,
   "date": "2026-11-30",
-  "title": "Indian train: 'CHAAAI CHAI!' ☕ vs Korea: silence 🤫🐸",
-  "desc": "Korea ki train: sab chup, sirf announcement 🤫\nIndia ki train: 'chaaai chai, garam chai!' ☕\nTamil Nadu: 'kaapi kaapi!' 😂\nTrain mein: chai ya coffee? 👇\n#KoreaVsIndia #IndianRailways #Chai\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep308_train-chai-call-vs-ktx.mp4",
-  "srt": "subs/gaeguri_ep308_ta.srt",
+  "title": "K-drama: SLOW-MO stare 😍 vs Serial: 3x ZOOM 😱🐸",
+  "desc": "K-drama: heroine giri... hero ne pakda... 5 second slow-mo 😍\nIndian serial: shock! zoom zoom zoom + dham dham dham 🥁😂\nTeam kaun: slow-mo ya zoom? 👇\n#KDrama #KoreaVsIndia #Serial\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep307_slowmo-stare-vs-triple-zoom.mp4",
+  "srt": "subs/gaeguri_ep307_ta.srt",
   "status": "pending",
-  "series": "IN",
-  "time": "16:30"
+  "series": "KDRAMA",
+  "time": "01:00"
  },
  {
   "ep": 304,
@@ -487,18 +466,18 @@
   "srt": "subs/gaeguri_ep304_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 305,
-  "date": "2026-12-01",
+  "date": "2026-11-30",
   "title": "K-drama ka 'ANDWAE!' = Bollywood ka 'NAHIII!' 😱🐸",
   "desc": "안 돼 (an dwae) = NO! nahi ho sakta! 🙅\nK-drama ka favourite scream 😱\nBollywood: nahi... nahi... NAHIII! 😂\nDrama scream: andwae ya nahi? 👇\n#LearnKorean #KDrama #Bollywood\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep305_andwae-nahi-learn.mp4",
   "srt": "subs/gaeguri_ep305_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 306,
@@ -509,7 +488,7 @@
   "srt": "subs/gaeguri_ep306_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 310,
@@ -520,18 +499,18 @@
   "srt": "subs/gaeguri_ep310_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
-  "ep": 318,
-  "date": "2026-12-02",
-  "title": "Indian English: 'OUT OF STATION' 🚉🤔🐸",
-  "desc": "Indian English ke gems 💎\n'Out of station' = shehar se bahar 🧳\n'Do the needful' = zaroori kaam kar do ✅\n'Kindly adjust' = thoda khisko 😂\nAapka favourite Indian English word? 👇\n#IndianEnglish #KoreaVsIndia #India\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep318_out-of-station-indian-english.mp4",
-  "srt": "subs/gaeguri_ep318_ta.srt",
+  "ep": 308,
+  "date": "2026-12-01",
+  "title": "Indian train: 'CHAAAI CHAI!' ☕ vs Korea: silence 🤫🐸",
+  "desc": "Korea ki train: sab chup, sirf announcement 🤫\nIndia ki train: 'chaaai chai, garam chai!' ☕\nTamil Nadu: 'kaapi kaapi!' 😂\nTrain mein: chai ya coffee? 👇\n#KoreaVsIndia #IndianRailways #Chai\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep308_train-chai-call-vs-ktx.mp4",
+  "srt": "subs/gaeguri_ep308_ta.srt",
   "status": "pending",
   "series": "IN",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 311,
@@ -542,7 +521,7 @@
   "srt": "subs/gaeguri_ep311_ta.srt",
   "status": "scheduled",
   "series": "SAME",
-  "time": "16:30",
+  "time": "01:00",
   "video_id": "Hqr-fzcDqLU",
   "resched": true,
   "resched_from": [
@@ -559,18 +538,18 @@
   "srt": "subs/gaeguri_ep312_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 313,
-  "date": "2026-12-03",
+  "date": "2026-12-02",
   "title": "Korean 'MOLLA' = PATA NAHI! 🤷🐸",
   "desc": "몰라 (molla) = pata nahi / I don't know 🤷\nHomework? Molla! 😂\nMummy: 'exam kal hai!' 😤\nAap bologe: molla ya pata nahi? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep313_molla-pata-nahi-learn.mp4",
   "srt": "subs/gaeguri_ep313_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 315,
@@ -581,29 +560,29 @@
   "srt": "subs/gaeguri_ep315_ta.srt",
   "status": "pending",
   "series": "KR",
+  "time": "01:00"
+ },
+ {
+  "ep": 318,
+  "date": "2026-12-03",
+  "title": "Indian English: 'OUT OF STATION' 🚉🤔🐸",
+  "desc": "Indian English ke gems 💎\n'Out of station' = shehar se bahar 🧳\n'Do the needful' = zaroori kaam kar do ✅\n'Kindly adjust' = thoda khisko 😂\nAapka favourite Indian English word? 👇\n#IndianEnglish #KoreaVsIndia #India\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep318_out-of-station-indian-english.mp4",
+  "srt": "subs/gaeguri_ep318_ta.srt",
+  "status": "pending",
+  "series": "IN",
   "time": "16:30"
  },
  {
-  "ep": 328,
-  "date": "2026-12-03",
-  "title": "Korea mein DIL ungli se banta hai! 🫰🐸",
-  "desc": "손가락 하트 = finger heart 🫰\nThumb + ungli cross = chhota dil 💚\nK-pop stage, K-drama, selfie — har jagah!\nAap: finger heart ya bada dil? 👇\n#KPop #KDrama #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep328_finger-heart-korean-dil.mp4",
-  "srt": "subs/gaeguri_ep328_ta.srt",
-  "status": "pending",
-  "series": "KDRAMA",
-  "time": "22:00"
- },
- {
   "ep": 316,
-  "date": "2026-12-04",
+  "date": "2026-12-03",
   "title": "Korean 'PAL' = 8 aur haath... Hindi = moment! ⏳🐸",
   "desc": "팔 (pal) = 8 ✋ aur 팔 = arm / baanh 💪\nHindi mein पल (pal) = ek moment ⏳\nEk word, teen matlab! 🤯\nKorean mein 1 kaise bolte? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep316_pal-eight-arm-pal-moment.mp4",
   "srt": "subs/gaeguri_ep316_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 317,
@@ -614,7 +593,7 @@
   "srt": "subs/gaeguri_ep317_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 320,
@@ -625,35 +604,29 @@
   "srt": "subs/gaeguri_ep320_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 322,
-  "date": "2026-12-05",
+  "date": "2026-12-04",
   "title": "Korea metro mein GLASS DIWAAR?! 🚇😱🐸",
   "desc": "Korea ke metro platform pe glass ki deewar 🚇\nTrain aaye, tabhi door khule 🚪\nSab line mein, no dhakka 🧍🧍\nMumbai local: door? kaun sa door?! 😂\nDaily ride: metro ya local? 👇\n#KoreaVsIndia #Metro #Korea\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep322_metro-glass-doors-vs-local.mp4",
   "srt": "subs/gaeguri_ep322_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
-  "ep": 337,
+  "ep": 328,
   "date": "2026-12-05",
-  "title": "Tamil Nadu mein har subah DARWAZE PE ART! ✨🐸",
-  "desc": "கோலம் (kolam) = chawal ke aate se roz naya design ✨\nAur cheentiyon ka breakfast bhi! 🐜\nKorean unnie: 'roz?!' 😱\nAapke ghar: kolam ya rangoli? 👇\n#TamilNadu #KoreaVsIndia #Kolam\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep337_tamil-kolam-every-morning.mp4",
-  "srt": "subs/gaeguri_ep337_ta.srt",
-  "status": "scheduled",
-  "series": "IN",
-  "time": "16:30",
-  "video_id": "yNbwpT6k9zc",
-  "resched": true,
-  "resched_from": [
-   "2027-03-03",
-   "22:00"
-  ]
+  "title": "Korea mein DIL ungli se banta hai! 🫰🐸",
+  "desc": "손가락 하트 = finger heart 🫰\nThumb + ungli cross = chhota dil 💚\nK-pop stage, K-drama, selfie — har jagah!\nAap: finger heart ya bada dil? 👇\n#KPop #KDrama #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep328_finger-heart-korean-dil.mp4",
+  "srt": "subs/gaeguri_ep328_ta.srt",
+  "status": "pending",
+  "series": "KDRAMA",
+  "time": "01:00"
  },
  {
   "ep": 323,
@@ -664,7 +637,7 @@
   "srt": "subs/gaeguri_ep323_ta.srt",
   "status": "scheduled",
   "series": "SAME",
-  "time": "22:00",
+  "time": "16:30",
   "video_id": "F3AWmk7_L8w",
   "resched": true,
   "resched_from": [
@@ -674,14 +647,14 @@
  },
  {
   "ep": 324,
-  "date": "2026-12-06",
+  "date": "2026-12-05",
   "title": "Korea mein pehla sawaal: 'MBTI kya hai?' 🤯🐸",
   "desc": "Korea mein naam, umar... phir MBTI! 🔤\nDosti, dating, profile — sab mein 4 letters 😂\nIndia: 'beta, kya karte ho?' 👀\nAap: I ya E? 👇\n#KoreaVsIndia #KoreanCulture #MBTI\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep324_mbti-first-question-korea.mp4",
   "srt": "subs/gaeguri_ep324_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 325,
@@ -692,7 +665,7 @@
   "srt": "subs/gaeguri_ep325_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 326,
@@ -703,18 +676,24 @@
   "srt": "subs/gaeguri_ep326_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
-  "ep": 349,
-  "date": "2026-12-07",
-  "title": "K-drama SAAS vs desi serial SAAS 😱🐸",
-  "desc": "Korea mein sasural ki duniya ka naam: 시월드 (si-world) 🌍\nK-saas: 'ye soup hai?!' 🍲\nDesi saas: 'bahu, namak kam hai!' 🧂\nZyada strict kaun? 👇\n#KDrama #KoreaVsIndia #SaasBahu\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep349_si-world-kdrama-saas.mp4",
-  "srt": "subs/gaeguri_ep349_ta.srt",
-  "status": "pending",
-  "series": "KDRAMA",
-  "time": "01:00"
+  "ep": 337,
+  "date": "2026-12-06",
+  "title": "Tamil Nadu mein har subah DARWAZE PE ART! ✨🐸",
+  "desc": "கோலம் (kolam) = chawal ke aate se roz naya design ✨\nAur cheentiyon ka breakfast bhi! 🐜\nKorean unnie: 'roz?!' 😱\nAapke ghar: kolam ya rangoli? 👇\n#TamilNadu #KoreaVsIndia #Kolam\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep337_tamil-kolam-every-morning.mp4",
+  "srt": "subs/gaeguri_ep337_ta.srt",
+  "status": "scheduled",
+  "series": "IN",
+  "time": "22:00",
+  "video_id": "yNbwpT6k9zc",
+  "resched": true,
+  "resched_from": [
+   "2027-03-03",
+   "22:00"
+  ]
  },
  {
   "ep": 327,
@@ -725,7 +704,24 @@
   "srt": "subs/gaeguri_ep327_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "16:30"
+  "time": "01:00"
+ },
+ {
+  "ep": 330,
+  "date": "2026-12-07",
+  "title": "Korean 'PUL' = Tamil 'PUL' = GRASS! 🌱😱🐸",
+  "desc": "풀 (pul) = ghaas / grass 🌱\nTamil mein புல் (pul) = grass bhi! 😱\nKodai ki ghaas, Seoul ki ghaas — same naam 🤝\nAap jaante the? 👇\n#KoreaVsIndia #Tamil #LearnKorean\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep330_pul-grass-tamil-pul.mp4",
+  "srt": "subs/gaeguri_ep330_ta.srt",
+  "status": "scheduled",
+  "series": "SAME",
+  "time": "16:30",
+  "video_id": "CQOQpoLfX60",
+  "resched": true,
+  "resched_from": [
+   "2027-03-02",
+   "22:00"
+  ]
  },
  {
   "ep": 37,
@@ -740,23 +736,6 @@
   "series": "FEST"
  },
  {
-  "ep": 330,
-  "date": "2026-12-08",
-  "title": "Korean 'PUL' = Tamil 'PUL' = GRASS! 🌱😱🐸",
-  "desc": "풀 (pul) = ghaas / grass 🌱\nTamil mein புல் (pul) = grass bhi! 😱\nKodai ki ghaas, Seoul ki ghaas — same naam 🤝\nAap jaante the? 👇\n#KoreaVsIndia #Tamil #LearnKorean\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep330_pul-grass-tamil-pul.mp4",
-  "srt": "subs/gaeguri_ep330_ta.srt",
-  "status": "scheduled",
-  "series": "SAME",
-  "time": "01:00",
-  "video_id": "CQOQpoLfX60",
-  "resched": true,
-  "resched_from": [
-   "2027-03-02",
-   "22:00"
-  ]
- },
- {
   "ep": 331,
   "date": "2026-12-08",
   "title": "Korea mein yeh pehno = ENTRY FREE! 👑😱🐸",
@@ -765,7 +744,7 @@
   "srt": "subs/gaeguri_ep331_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 332,
@@ -776,18 +755,18 @@
   "srt": "subs/gaeguri_ep332_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
-  "ep": 361,
-  "date": "2026-12-09",
-  "title": "K-drama ka FAMOUS invite: 'ramyeon khaake jaoge?' 🍜😳🐸",
-  "desc": "라면 먹고 갈래? (ramyeon meokgo gallae?) = ramyeon khaake jaoge? 🍜\nAsli matlab: thoda aur ruko na 🥺\nDesi version: 'chai pee ke jaana' + 2 ghante baatein ☕😂\nRukoge: ramyeon ya chai? 👇\n#KDrama #LearnKorean #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep361_ramyeon-meokgo-gallae-kdrama.mp4",
-  "srt": "subs/gaeguri_ep361_ta.srt",
+  "ep": 349,
+  "date": "2026-12-08",
+  "title": "K-drama SAAS vs desi serial SAAS 😱🐸",
+  "desc": "Korea mein sasural ki duniya ka naam: 시월드 (si-world) 🌍\nK-saas: 'ye soup hai?!' 🍲\nDesi saas: 'bahu, namak kam hai!' 🧂\nZyada strict kaun? 👇\n#KDrama #KoreaVsIndia #SaasBahu\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep349_si-world-kdrama-saas.mp4",
+  "srt": "subs/gaeguri_ep349_ta.srt",
   "status": "pending",
   "series": "KDRAMA",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 333,
@@ -798,7 +777,7 @@
   "srt": "subs/gaeguri_ep333_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 334,
@@ -809,18 +788,18 @@
   "srt": "subs/gaeguri_ep334_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 335,
-  "date": "2026-12-10",
+  "date": "2026-12-09",
   "title": "Korean 'KO' = NAAK! Hindi 'KO' = to 😂👃🐸",
   "desc": "코 (ko) = naak / nose 👃\nHindi mein को (ko) = to! ('papa ko chai do')\nKorea mein 'ko' bolo... log naak dikhayenge 😂\nAgla word: Hindi ya Tamil? 👇\n#KoreaVsIndia #LearnKorean #Hindi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep335_ko-nose-hindi-ko.mp4",
   "srt": "subs/gaeguri_ep335_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 336,
@@ -831,29 +810,29 @@
   "srt": "subs/gaeguri_ep336_ta.srt",
   "status": "pending",
   "series": "KR",
+  "time": "01:00"
+ },
+ {
+  "ep": 361,
+  "date": "2026-12-10",
+  "title": "K-drama ka FAMOUS invite: 'ramyeon khaake jaoge?' 🍜😳🐸",
+  "desc": "라면 먹고 갈래? (ramyeon meokgo gallae?) = ramyeon khaake jaoge? 🍜\nAsli matlab: thoda aur ruko na 🥺\nDesi version: 'chai pee ke jaana' + 2 ghante baatein ☕😂\nRukoge: ramyeon ya chai? 👇\n#KDrama #LearnKorean #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep361_ramyeon-meokgo-gallae-kdrama.mp4",
+  "srt": "subs/gaeguri_ep361_ta.srt",
+  "status": "pending",
+  "series": "KDRAMA",
   "time": "16:30"
  },
  {
-  "ep": 375,
-  "date": "2026-12-10",
-  "title": "K-drama: I LOVE YOU 16 episode baad! 💔🐸",
-  "desc": "K-drama: 'saranghae' (사랑해) bolne mein poore episodes lag jaate 😭\nBollywood: pehle gaane mein hi I love you 💃\nAur phir har gaane mein 3 baar 😂\nAap: slow ya fast? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep375_saranghae-ep16-vs-bollywood-every-song.mp4",
-  "srt": "subs/gaeguri_ep375_ta.srt",
-  "status": "pending",
-  "series": "KDRAMA",
-  "time": "22:00"
- },
- {
   "ep": 338,
-  "date": "2026-12-11",
+  "date": "2026-12-10",
   "title": "Korean 'KKAMJJAGIYA' = ARE DARA DIYA! 😱🐸",
   "desc": "깜짝이야 (kkamjjagiya) = you scared me! 😱\nK-drama mein peeche se 'bhaah!' 👻\nDesi version: 'are baap re!' 😂\nAap darte: bhoot ya cockroach? 👇\n#LearnKorean #KDrama #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep338_kkamjjagiya-you-scared-me.mp4",
   "srt": "subs/gaeguri_ep338_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 339,
@@ -864,7 +843,7 @@
   "srt": "subs/gaeguri_ep339_ta.srt",
   "status": "scheduled",
   "series": "SAME",
-  "time": "16:30",
+  "time": "01:00",
   "video_id": "m2fIaMeJfag",
   "resched": true,
   "resched_from": [
@@ -881,29 +860,29 @@
   "srt": "subs/gaeguri_ep340_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 341,
-  "date": "2026-12-12",
+  "date": "2026-12-11",
   "title": "Korean 'ASSA!' = YESSS! 🙌🐸",
   "desc": "아싸 (assa) = yay! / yesss! 🙌\nFriday aaya, pizza aaya... assa! 🍕\nTamil: 'ai jolly!' 😂\nAap bolte: assa ya ai jolly? 👇\n#LearnKorean #KDrama #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep341_assa-yay-learn.mp4",
   "srt": "subs/gaeguri_ep341_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
-  "ep": 377,
+  "ep": 375,
   "date": "2026-12-12",
-  "title": "K-drama ending AIRPORT pe, Bollywood STATION pe! ✈️🚂🐸",
-  "desc": "K-drama ending: airport pe '가지 마!' (don't go!) ✈️\nBollywood ending: railway station pe daud ke train pakdo 🚂\nDono mein haath pakadna zaroori 🤝😂\nAapka ending: airport ya station? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep377_kdrama-airport-vs-bollywood-station.mp4",
-  "srt": "subs/gaeguri_ep377_ta.srt",
+  "title": "K-drama: I LOVE YOU 16 episode baad! 💔🐸",
+  "desc": "K-drama: 'saranghae' (사랑해) bolne mein poore episodes lag jaate 😭\nBollywood: pehle gaane mein hi I love you 💃\nAur phir har gaane mein 3 baar 😂\nAap: slow ya fast? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep375_saranghae-ep16-vs-bollywood-every-song.mp4",
+  "srt": "subs/gaeguri_ep375_ta.srt",
   "status": "pending",
   "series": "KDRAMA",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 344,
@@ -914,18 +893,18 @@
   "srt": "subs/gaeguri_ep344_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 345,
-  "date": "2026-12-13",
+  "date": "2026-12-12",
   "title": "Korea October mein PATTE dekhne jaata hai! 🍁🐸",
   "desc": "단풍 (danpung) = laal-peele autumn patte 🍁\nOctober mein poora Korea pahaad pe! 🥾\nKodai: hamesha hara + dhundh 🌫️\nAap: laal patte ya hari pahadi? 👇\n#KoreaVsIndia #Korea #Kodaikanal\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep345_danpung-autumn-leaves-season.mp4",
   "srt": "subs/gaeguri_ep345_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 346,
@@ -936,7 +915,7 @@
   "srt": "subs/gaeguri_ep346_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 348,
@@ -947,18 +926,18 @@
   "srt": "subs/gaeguri_ep348_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
-  "ep": 410,
-  "date": "2026-12-14",
-  "title": "K-drama ka 'YA!' = desi 'OYE!' 📢🐸",
-  "desc": "야! (ya) = oye! / hey! 📢\nSirf doston aur chhoton ko ⚠️\nBadon ko bola toh... desi version: chappal aa rahi hai 🩴😂\nDost ko: oye ya abe? 👇\n#KDrama #LearnKorean #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep410_kdrama-ya-oye.mp4",
-  "srt": "subs/gaeguri_ep410_ta.srt",
+  "ep": 377,
+  "date": "2026-12-13",
+  "title": "K-drama ending AIRPORT pe, Bollywood STATION pe! ✈️🚂🐸",
+  "desc": "K-drama ending: airport pe '가지 마!' (don't go!) ✈️\nBollywood ending: railway station pe daud ke train pakdo 🚂\nDono mein haath pakadna zaroori 🤝😂\nAapka ending: airport ya station? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep377_kdrama-airport-vs-bollywood-station.mp4",
+  "srt": "subs/gaeguri_ep377_ta.srt",
   "status": "pending",
-  "time": "01:00",
-  "series": "KDRAMA"
+  "series": "KDRAMA",
+  "time": "22:00"
  },
  {
   "ep": 350,
@@ -969,7 +948,7 @@
   "srt": "subs/gaeguri_ep350_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 351,
@@ -980,18 +959,18 @@
   "srt": "subs/gaeguri_ep351_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 352,
-  "date": "2026-12-15",
+  "date": "2026-12-14",
   "title": "Korean quiz: 'IP' ka matlab? MUNH ya PATTA? 🤔🐸",
   "desc": "입 (ip) = munh 👄\n잎 (ip) = patta 🍃\nSame aawaaz, alag matlab!\nToh munh mein patta = PAAN 😂\nEasy ya tough? 👇\n#LearnKorean #KoreaVsIndia #Quiz\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep352_ip-mouth-ip-leaf-quiz.mp4",
   "srt": "subs/gaeguri_ep352_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 353,
@@ -1002,29 +981,29 @@
   "srt": "subs/gaeguri_ep353_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
-  "ep": 442,
+  "ep": 410,
   "date": "2026-12-15",
-  "title": "K-drama ki ameer family: lambi table, SAB CHUP! 🤫🐸",
-  "desc": "K-drama chaebol dinner: lambi table, sirf chammach ki awaaz 🥄\nPhir chairman bolta: 'shaadi main decide karunga' 😱\nDesi table: 'aur lo' x10, 'shaadi kab?' x5 😂\nAapki dinner table: chup ya shor? 👇\n#KDrama #KoreaVsIndia #DesiFamily\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep442_kdrama-silent-rich-dinner.mp4",
-  "srt": "subs/gaeguri_ep442_ta.srt",
+  "title": "K-drama ka 'YA!' = desi 'OYE!' 📢🐸",
+  "desc": "야! (ya) = oye! / hey! 📢\nSirf doston aur chhoton ko ⚠️\nBadon ko bola toh... desi version: chappal aa rahi hai 🩴😂\nDost ko: oye ya abe? 👇\n#KDrama #LearnKorean #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep410_kdrama-ya-oye.mp4",
+  "srt": "subs/gaeguri_ep410_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KDRAMA"
  },
  {
   "ep": 354,
-  "date": "2026-12-16",
+  "date": "2026-12-15",
   "title": "Korea mein bill LAST WON tak baant-te hain! 🧮🐸",
   "desc": "Korea: 엔빵 (N-bbang) = bill ÷ N dost 🧮\nHar koi apna hissa, app se turant 📱\nIndia: 'Rehne do, MAIN dunga!' 🤼\nAap: split ya main dunga? 👇\n#KoreaVsIndia #KoreanCulture #Dosti\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep354_n-bbang-bill-split-korea.mp4",
   "srt": "subs/gaeguri_ep354_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 355,
@@ -1035,7 +1014,7 @@
   "srt": "subs/gaeguri_ep355_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 357,
@@ -1046,28 +1025,28 @@
   "srt": "subs/gaeguri_ep357_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 358,
-  "date": "2026-12-17",
+  "date": "2026-12-16",
   "title": "Raat 11 baje order, subah 7 baje DARWAZE pe! 📦🐸",
   "desc": "Korea: 새벽배송 (saebyeok baesong) = dawn delivery 🌅\nRaat ko order, subah darwaze pe sabzi 📦\nIndia: sabziwala ki aawaaz hi app hai 📢😂\nAap: app ya sabziwala? 👇\n#KoreaVsIndia #KoreanCulture #Delivery\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep358_saebyeok-dawn-delivery-sabziwala.mp4",
   "srt": "subs/gaeguri_ep358_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
-  "ep": 459,
+  "ep": 442,
   "date": "2026-12-17",
-  "title": "K-drama: 1 umbrella, 2 log... hero ka kandha GEELA ☂️🐸",
-  "desc": "K-drama rain scene: ek umbrella, do log ☂️\nHero umbrella heroine ki taraf jhuka deta hai... apna kandha poora geela 💦\nIndia: umbrella kahan? Sir pe school bag 🎒😂\nBaarish mein: umbrella ya bheegna? 👇\n#KDrama #KoreaVsIndia #KDramaLovers\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep459_kdrama-umbrella-wet-shoulder.mp4",
-  "srt": "subs/gaeguri_ep459_ta.srt",
+  "title": "K-drama ki ameer family: lambi table, SAB CHUP! 🤫🐸",
+  "desc": "K-drama chaebol dinner: lambi table, sirf chammach ki awaaz 🥄\nPhir chairman bolta: 'shaadi main decide karunga' 😱\nDesi table: 'aur lo' x10, 'shaadi kab?' x5 😂\nAapki dinner table: chup ya shor? 👇\n#KDrama #KoreaVsIndia #DesiFamily\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep442_kdrama-silent-rich-dinner.mp4",
+  "srt": "subs/gaeguri_ep442_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "KDRAMA"
  },
  {
@@ -1079,18 +1058,18 @@
   "srt": "subs/gaeguri_ep360_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 362,
-  "date": "2026-12-18",
+  "date": "2026-12-17",
   "title": "Korea shopping ka MAGIC WORD: JUSEYO 🪄🐸",
   "desc": "주세요 (juseyo) = dijiye / please give 🙏\nWord + juseyo = order done! ✅\n떡볶이 주세요 = tteokbokki dijiye 🌶️\nDesi: 'bhaiya, ek puri aur juseyo!' 😂\nAap kya maangoge? 👇\n#LearnKorean #KoreaVsIndia #Hinglish\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep362_juseyo-dijiye-learn.mp4",
   "srt": "subs/gaeguri_ep362_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 364,
@@ -1101,7 +1080,7 @@
   "srt": "subs/gaeguri_ep364_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 365,
@@ -1112,17 +1091,17 @@
   "srt": "subs/gaeguri_ep365_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
-  "ep": 484,
-  "date": "2026-12-19",
-  "title": "Har K-drama hero = 재벌 CHAEBOL ka beta! 💼🐸",
-  "desc": "K-drama hero ka job? 재벌 2세 (chaebol heir) 💼\nSuit + seedhi + 'mere office aao!' 😎\nBollywood: 'Malhotra & Sons' ka iklauta beta 😂\nFav hero: chaebol ya middle class? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep484_kdrama-hero-always-chaebol.mp4",
-  "srt": "subs/gaeguri_ep484_ta.srt",
+  "ep": 459,
+  "date": "2026-12-18",
+  "title": "K-drama: 1 umbrella, 2 log... hero ka kandha GEELA ☂️🐸",
+  "desc": "K-drama rain scene: ek umbrella, do log ☂️\nHero umbrella heroine ki taraf jhuka deta hai... apna kandha poora geela 💦\nIndia: umbrella kahan? Sir pe school bag 🎒😂\nBaarish mein: umbrella ya bheegna? 👇\n#KDrama #KoreaVsIndia #KDramaLovers\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep459_kdrama-umbrella-wet-shoulder.mp4",
+  "srt": "subs/gaeguri_ep459_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "KDRAMA"
  },
  {
@@ -1134,7 +1113,7 @@
   "srt": "subs/gaeguri_ep366_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 367,
@@ -1145,18 +1124,18 @@
   "srt": "subs/gaeguri_ep367_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 368,
-  "date": "2026-12-20",
+  "date": "2026-12-19",
   "title": "Korea mein bus stop ki bench GARAM hoti hai! 🔥🐸",
   "desc": "Korea winter: bus stop pe 온열의자 (heated seat) 🪑🔥\nBahar -5°C, seat garam!\nIndia: bench garam... dhoop se ☀️😂\nBaithoge: garam ya thandi? 👇\n#KoreaVsIndia #KoreanCulture #KoreanWinter\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep368_heated-bus-stop-bench-korea.mp4",
   "srt": "subs/gaeguri_ep368_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 369,
@@ -1167,29 +1146,29 @@
   "srt": "subs/gaeguri_ep369_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
-  "ep": 507,
+  "ep": 484,
   "date": "2026-12-20",
-  "title": "K-drama hero: haath pakdo + '따라와!' 🫱🐸",
-  "desc": "K-drama ka classic: hero heroine ka haath pakad ke... '따라와!' (ttarawa) 🫱\nMatlab: 'follow me / chalo mere saath!'\nBollywood: 'Chal, bhaag chalein!' 🏃 😂\nScene: romantic ya cringe? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep507_kdrama-wrist-grab-ttarawa.mp4",
-  "srt": "subs/gaeguri_ep507_ta.srt",
+  "title": "Har K-drama hero = 재벌 CHAEBOL ka beta! 💼🐸",
+  "desc": "K-drama hero ka job? 재벌 2세 (chaebol heir) 💼\nSuit + seedhi + 'mere office aao!' 😎\nBollywood: 'Malhotra & Sons' ka iklauta beta 😂\nFav hero: chaebol ya middle class? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep484_kdrama-hero-always-chaebol.mp4",
+  "srt": "subs/gaeguri_ep484_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KDRAMA"
  },
  {
   "ep": 371,
-  "date": "2026-12-21",
+  "date": "2026-12-20",
   "title": "Korea mein phone camera ki CLICK band nahi hoti! 📸🐸",
   "desc": "Korea mein bike phones: camera shutter sound hamesha ON 🔊📸\n찰칵 (chalkak) = click!\nKyun? Chhupke photo na le sake 🚫\nLibrary selfie = sabko pata 😂\nAapka phone: silent ya click? 👇\n#KoreaVsIndia #KoreanCulture #Tech\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep371_camera-click-sound-always-on-korea.mp4",
   "srt": "subs/gaeguri_ep371_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 372,
@@ -1200,7 +1179,7 @@
   "srt": "subs/gaeguri_ep372_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 374,
@@ -1211,29 +1190,40 @@
   "srt": "subs/gaeguri_ep374_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 378,
-  "date": "2026-12-22",
+  "date": "2026-12-21",
   "title": "Korea mein MOJA sir pe pehente hain! 🧢🧦🐸",
   "desc": "모자 (moja) = HAT 🧢\nHindi मोज़ा (moza) = SOCK 🧦\nEk sir pe, ek pair mein 😂\nAap moja kahan pehnoge? 👇\n#LearnKorean #KoreaVsIndia #Hindi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep378_moja-hat-hindi-moza-sock.mp4",
   "srt": "subs/gaeguri_ep378_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
-  "ep": 537,
+  "ep": 507,
   "date": "2026-12-22",
-  "title": "K-drama hero ka ROOFTOP ghar = desi BARSATI! 🏠🐸",
-  "desc": "K-drama ka garib hero hamesha rehta hai 옥탑방 (oktapbang) mein = rooftop room 🏠\nRaat: plastic chair + ramyeon + taare = romance ✨\nDelhi version: BARSATI 😂\nSummer = oven 🔥, winter = freezer 🥶\nRooftop room: haan ya na? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep537_oktapbang-rooftop-barsati.mp4",
-  "srt": "subs/gaeguri_ep537_ta.srt",
+  "title": "K-drama hero: haath pakdo + '따라와!' 🫱🐸",
+  "desc": "K-drama ka classic: hero heroine ka haath pakad ke... '따라와!' (ttarawa) 🫱\nMatlab: 'follow me / chalo mere saath!'\nBollywood: 'Chal, bhaag chalein!' 🏃 😂\nScene: romantic ya cringe? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep507_kdrama-wrist-grab-ttarawa.mp4",
+  "srt": "subs/gaeguri_ep507_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "KDRAMA"
+ },
+ {
+  "ep": 379,
+  "date": "2026-12-22",
+  "title": "Korea mein birthday = SEAWEED SOUP?! 🍲🎂🐸",
+  "desc": "Korea mein birthday pe 미역국 (miyeokguk) — seaweed soup 🍲\nMummy ne bhi yahi khaya tha jab aap paida hue ❤️\nPar exam se pehle mana! (fislan = fail 😱)\nAap: soup ya cake? 👇\n#KoreanCulture #KoreaVsIndia #Birthday\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep379_miyeokguk-birthday-seaweed-soup.mp4",
+  "srt": "subs/gaeguri_ep379_ta.srt",
+  "status": "pending",
+  "series": "KR",
+  "time": "16:30"
  },
  {
   "ep": 52,
@@ -1248,17 +1238,6 @@
   "video_id": "6L2-YFBOWaM"
  },
  {
-  "ep": 379,
-  "date": "2026-12-23",
-  "title": "Korea mein birthday = SEAWEED SOUP?! 🍲🎂🐸",
-  "desc": "Korea mein birthday pe 미역국 (miyeokguk) — seaweed soup 🍲\nMummy ne bhi yahi khaya tha jab aap paida hue ❤️\nPar exam se pehle mana! (fislan = fail 😱)\nAap: soup ya cake? 👇\n#KoreanCulture #KoreaVsIndia #Birthday\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep379_miyeokguk-birthday-seaweed-soup.mp4",
-  "srt": "subs/gaeguri_ep379_ta.srt",
-  "status": "pending",
-  "series": "KR",
-  "time": "01:00"
- },
- {
   "ep": 380,
   "date": "2026-12-23",
   "title": "Korean mein 'PET BHAR GAYA' = 배불러! 🍚🐸",
@@ -1267,7 +1246,7 @@
   "srt": "subs/gaeguri_ep380_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 381,
@@ -1278,35 +1257,29 @@
   "srt": "subs/gaeguri_ep381_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 382,
-  "date": "2026-12-24",
+  "date": "2026-12-23",
   "title": "Korea mein KACHRA phenkne ke PAISE! 🗑️💸🐸",
   "desc": "Korea mein kachra sirf special paid bag mein 🛍️ (종량제 봉투)\nKhaana alag, plastic alag, bottle alag ♻️\nGalat bag? Fine lag sakta hai! 💸\nAap kachra alag karoge? 👇\n#KoreanCulture #KoreaVsIndia #Recycling\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep382_korea-pay-for-trash-bags.mp4",
   "srt": "subs/gaeguri_ep382_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
-  "ep": 23,
+  "ep": 537,
   "date": "2026-12-24",
-  "title": "Korea: 1 language. India: 22?! 😱🐸",
-  "desc": "Korean dost ne pucha: India mein kitni languages? 🤔\nConstitution mein 22 scheduled languages 🇮🇳 aur bolne wali to hazaaron!\nKorea: bas ek — 한국어 🇰🇷\nAap kitni languages bolte ho? Number batao 👇\n#KoreaVsIndia #Languages #IndianReels\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep023_22-languages.mp4",
-  "srt": "subs/gaeguri_ep023_ta.srt",
-  "status": "scheduled",
-  "video_id": "OmdVJLeQwFU",
-  "time": "16:30",
-  "series": "IN",
-  "resched": true,
-  "resched_from": [
-   "2026-12-24",
-   "01:00"
-  ]
+  "title": "K-drama hero ka ROOFTOP ghar = desi BARSATI! 🏠🐸",
+  "desc": "K-drama ka garib hero hamesha rehta hai 옥탑방 (oktapbang) mein = rooftop room 🏠\nRaat: plastic chair + ramyeon + taare = romance ✨\nDelhi version: BARSATI 😂\nSummer = oven 🔥, winter = freezer 🥶\nRooftop room: haan ya na? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep537_oktapbang-rooftop-barsati.mp4",
+  "srt": "subs/gaeguri_ep537_ta.srt",
+  "status": "pending",
+  "time": "01:00",
+  "series": "KDRAMA"
  },
  {
   "ep": 383,
@@ -1317,18 +1290,18 @@
   "srt": "subs/gaeguri_ep383_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 384,
-  "date": "2026-12-25",
+  "date": "2026-12-24",
   "title": "Korean mein 'ARRE HAAN!' = 아 맞다! 💡🐸",
   "desc": "아 맞다! (a matda) = oh right! / arre haan! 💡\nJab yaad aaye ki kuch bhool gaye 😅\nSchool pahunch ke: a matda... TIFFIN! 🍱\nAap kya bhoolte ho: keys ya phone? 👇\n#LearnKorean #KoreanWords #Hinglish\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep384_a-matda-arre-haan-tiffin.mp4",
   "srt": "subs/gaeguri_ep384_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 386,
@@ -1339,6 +1312,17 @@
   "srt": "subs/gaeguri_ep386_ta.srt",
   "status": "pending",
   "series": "SAME",
+  "time": "01:00"
+ },
+ {
+  "ep": 387,
+  "date": "2026-12-25",
+  "title": "Korea mein naye ghar pe TOILET PAPER gift! 🧻🐸",
+  "desc": "Korea housewarming (집들이) gift = toilet paper 🧻\nRoll khulta jaaye = life smooth ✨\nDetergent = paisa jhaag jaisa badhe 🫧\nIndia: steel ke bartan pe naam 😂\nAap kya doge: tissue ya bartan? 👇\n#KoreanCulture #KoreaVsIndia #Housewarming\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep387_housewarming-toilet-paper-gift.mp4",
+  "srt": "subs/gaeguri_ep387_ta.srt",
+  "status": "pending",
+  "series": "KR",
   "time": "16:30"
  },
  {
@@ -1354,31 +1338,20 @@
   "video_id": "jQAt4D-shmA"
  },
  {
-  "ep": 387,
+  "ep": 23,
   "date": "2026-12-26",
-  "title": "Korea mein naye ghar pe TOILET PAPER gift! 🧻🐸",
-  "desc": "Korea housewarming (집들이) gift = toilet paper 🧻\nRoll khulta jaaye = life smooth ✨\nDetergent = paisa jhaag jaisa badhe 🫧\nIndia: steel ke bartan pe naam 😂\nAap kya doge: tissue ya bartan? 👇\n#KoreanCulture #KoreaVsIndia #Housewarming\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep387_housewarming-toilet-paper-gift.mp4",
-  "srt": "subs/gaeguri_ep387_ta.srt",
-  "status": "pending",
-  "series": "KR",
-  "time": "01:00"
- },
- {
-  "ep": 27,
-  "date": "2026-12-26",
-  "title": "K-drama WRIST GRAB vs Bollywood DUPATTA 😂🐸",
-  "desc": "K-drama hero: heroine ki WRIST pakad ke kheench leta hai 💪\nBollywood hero: dupatta atak jaata hai... slow motion 🌬️\nKaunsa zyada filmy? 😂\nTeam WRIST ya team DUPATTA? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep027_wrist-grab-vs-dupatta.mp4",
-  "srt": "subs/gaeguri_ep027_ta.srt",
+  "title": "Korea: 1 language. India: 22?! 😱🐸",
+  "desc": "Korean dost ne pucha: India mein kitni languages? 🤔\nConstitution mein 22 scheduled languages 🇮🇳 aur bolne wali to hazaaron!\nKorea: bas ek — 한국어 🇰🇷\nAap kitni languages bolte ho? Number batao 👇\n#KoreaVsIndia #Languages #IndianReels\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep023_22-languages.mp4",
+  "srt": "subs/gaeguri_ep023_ta.srt",
   "status": "scheduled",
-  "video_id": "L9RpI6TxIWc",
-  "time": "16:30",
-  "series": "KDRAMA",
+  "video_id": "OmdVJLeQwFU",
+  "time": "01:00",
+  "series": "IN",
   "resched": true,
   "resched_from": [
-   "2026-11-27",
-   "22:00"
+   "2026-12-24",
+   "01:00"
   ]
  },
  {
@@ -1390,18 +1363,18 @@
   "srt": "subs/gaeguri_ep388_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 389,
-  "date": "2026-12-27",
+  "date": "2026-12-26",
   "title": "Korean word 손님 ka matlab? 👑🐸",
   "desc": "손님 (sonnim) = guest / customer 🙇\nKorea: 손님은 왕이다 = customer is king 👑\nIndia: atithi devo bhava 🙏\nGuest ko: chai ya coffee? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep389_sonnim-guest-raja-vs-atithi.mp4",
   "srt": "subs/gaeguri_ep389_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 390,
@@ -1412,7 +1385,7 @@
   "srt": "subs/gaeguri_ep390_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 391,
@@ -1423,22 +1396,22 @@
   "srt": "subs/gaeguri_ep391_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
-  "ep": 44,
-  "date": "2026-12-28",
-  "title": "India traffic ka asli BOSS kaun? 🐄👑🐸",
-  "desc": "Korean dost ne India ka traffic dekha 🚗🛺🏍️\nSab honk kar rahe the... phir road pe aayi ek GAAY 🐄\nSab ruk gaye. Gaay ne aaram se road cross kiya 😌\nIndia traffic ka asli boss? 👇\n#KoreaVsIndia #IndianTraffic #DesiLife\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep044_cow-right-of-way.mp4",
-  "srt": "subs/gaeguri_ep044_ta.srt",
+  "ep": 27,
+  "date": "2026-12-27",
+  "title": "K-drama WRIST GRAB vs Bollywood DUPATTA 😂🐸",
+  "desc": "K-drama hero: heroine ki WRIST pakad ke kheench leta hai 💪\nBollywood hero: dupatta atak jaata hai... slow motion 🌬️\nKaunsa zyada filmy? 😂\nTeam WRIST ya team DUPATTA? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep027_wrist-grab-vs-dupatta.mp4",
+  "srt": "subs/gaeguri_ep027_ta.srt",
   "status": "scheduled",
-  "series": "IN",
-  "time": "01:00",
-  "video_id": "E7xI68nZFXw",
+  "video_id": "L9RpI6TxIWc",
+  "time": "22:00",
+  "series": "KDRAMA",
   "resched": true,
   "resched_from": [
-   "2026-12-27",
+   "2026-11-27",
    "22:00"
   ]
  },
@@ -1451,7 +1424,7 @@
   "srt": "subs/gaeguri_ep393_ta.srt",
   "status": "pending",
   "series": "LEARN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 394,
@@ -1462,18 +1435,18 @@
   "srt": "subs/gaeguri_ep394_ta.srt",
   "status": "pending",
   "series": "KR",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 395,
-  "date": "2026-12-29",
+  "date": "2026-12-28",
   "title": "Korean BORI peete hain?! 🌾🐸",
   "desc": "보리 (bori) = BARLEY 🌾 (보리차 = barley tea)\nHindi बोरी (bori) = SACK 🥔\nToh bori... bori mein aati hai 😂\nBori-cha try karoge? Haan ya na? 👇\n#LearnKorean #KoreaVsIndia #Hindi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep395_bori-barley-hindi-bori-sack.mp4",
   "srt": "subs/gaeguri_ep395_ta.srt",
   "status": "pending",
   "series": "SAME",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 396,
@@ -1484,34 +1457,34 @@
   "srt": "subs/gaeguri_ep396_ta.srt",
   "status": "pending",
   "series": "QUIZ",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
-  "ep": 48,
+  "ep": 44,
   "date": "2026-12-29",
-  "title": "K-drama PIGGYBACK vs Bollywood BAARISH gaana ☔😂🐸",
-  "desc": "K-drama: heroine thak gayi → hero PIGGYBACK 🎒 (업어 줄게!)\nBollywood: baarish shuru → GAANA shuru ☔🎶\nDono mein hero ka kaam hota hai! 😂\nTeam kaun — PIGGYBACK ya BAARISH? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep048_piggyback-vs-rain-song.mp4",
-  "srt": "subs/gaeguri_ep048_ta.srt",
+  "title": "India traffic ka asli BOSS kaun? 🐄👑🐸",
+  "desc": "Korean dost ne India ka traffic dekha 🚗🛺🏍️\nSab honk kar rahe the... phir road pe aayi ek GAAY 🐄\nSab ruk gaye. Gaay ne aaram se road cross kiya 😌\nIndia traffic ka asli boss? 👇\n#KoreaVsIndia #IndianTraffic #DesiLife\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep044_cow-right-of-way.mp4",
+  "srt": "subs/gaeguri_ep044_ta.srt",
   "status": "scheduled",
-  "series": "KDRAMA",
-  "time": "22:00",
-  "video_id": "26b6K_tSGaE",
+  "series": "IN",
+  "time": "16:30",
+  "video_id": "E7xI68nZFXw",
   "resched": true,
   "resched_from": [
-   "2026-11-25",
-   "01:00"
+   "2026-12-27",
+   "22:00"
   ]
  },
  {
   "ep": 398,
-  "date": "2026-12-30",
+  "date": "2026-12-29",
   "title": "Korean bhi 'JAATA HOON' nahi bolte! 🚪🐸",
   "desc": "다녀오겠습니다 (danyeo-ogetseumnida) = 'jaake wapas aaunga' 🚪\nGhar se nikalte waqt Korean yahi bolte hain\nBilkul desi mummy ka rule: 'jaata hoon nahi, AATA HOON bolo!' 😤\nAap kya bolte ho: aata hoon ya bye? 👇\n#LearnKorean #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep398_danyeo-ogetseumnida-aata-hoon.mp4",
   "srt": "subs/gaeguri_ep398_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
@@ -1522,7 +1495,7 @@
   "media": "media/reels/ep399_meori-head-hindi-meri.mp4",
   "srt": "subs/gaeguri_ep399_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
  },
  {
@@ -1533,23 +1506,108 @@
   "media": "media/reels/ep400_korea-table-drawer-spoons.mp4",
   "srt": "subs/gaeguri_ep400_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 401,
-  "date": "2026-12-31",
+  "date": "2026-12-30",
   "title": "Korean slang: 갑분싸 ka matlab? 😶🐸",
   "desc": "갑분싸 (gapbunssa) = 갑자기 분위기 싸해짐 🥶\nGap = achanak, bun = mood, ssa = thanda\nJaise party mein uncle: 'marks kitne aaye?' 😶😂\nGhar mein gapbunssa kaun karta hai? 👇\n#KoreanSlang #LearnKorean #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep401_gapbunssa-mood-suddenly-cold.mp4",
   "srt": "subs/gaeguri_ep401_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
-  "ep": 58,
+  "ep": 48,
   "date": "2026-12-31",
+  "title": "K-drama PIGGYBACK vs Bollywood BAARISH gaana ☔😂🐸",
+  "desc": "K-drama: heroine thak gayi → hero PIGGYBACK 🎒 (업어 줄게!)\nBollywood: baarish shuru → GAANA shuru ☔🎶\nDono mein hero ka kaam hota hai! 😂\nTeam kaun — PIGGYBACK ya BAARISH? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep048_piggyback-vs-rain-song.mp4",
+  "srt": "subs/gaeguri_ep048_ta.srt",
+  "status": "scheduled",
+  "series": "KDRAMA",
+  "time": "01:00",
+  "video_id": "26b6K_tSGaE",
+  "resched": true,
+  "resched_from": [
+   "2026-11-25",
+   "01:00"
+  ]
+ },
+ {
+  "ep": 402,
+  "date": "2026-12-31",
+  "title": "Korean 'SORI' = SORRY nahi! 🔊🐸",
+  "desc": "소리 (sori) = SOUND / awaaz 🔊\nHinglish 'sorry' = maafi 🙏\nMain sorry bolta raha... woh bola shor mat karo 😂\nAap zyada: sori ya sorry? 👇\n#LearnKorean #KoreaVsIndia #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep402_sori-sound-not-sorry.mp4",
+  "srt": "subs/gaeguri_ep402_ta.srt",
+  "status": "pending",
+  "time": "16:30",
+  "series": "SAME"
+ },
+ {
+  "ep": 61,
+  "date": "2026-12-31",
+  "title": "Seoul mein midnight pe GHANTI 33 baar! 🔔🎆🐸",
+  "desc": "Aaj raat Seoul ke 보신각 (Bosingak) mein 제야의 종 — badi ghanti 33 baar bajti hai 🔔\nIndia: countdown, crackers 🎆, aur family ke saath TV 📺\nHappy New Year 2027! 🐸\nAap aaj raat kahan ho — PARTY ya GHAR? 👇\n#HappyNewYear #KoreaVsIndia #NewYear2027\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep061_bosingak-33-bells.mp4",
+  "srt": "subs/gaeguri_ep061_ta.srt",
+  "status": "scheduled",
+  "series": "FEST",
+  "time": "22:00",
+  "video_id": "RCUeTUlv4QM"
+ },
+ {
+  "ep": 403,
+  "date": "2027-01-01",
+  "title": "3 baje office mein Korean bolte: 졸려! 😴🐸",
+  "desc": "졸려 (jollyeo) = neend aa rahi hai 😴\nKorea ka ilaaj: iced coffee 🧊☕\nDesi ilaaj: ek kadak chai! 🔥\nNeend bhagao: coffee ya chai? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep403_jollyeo-sleepy-kadak-chai.mp4",
+  "srt": "subs/gaeguri_ep403_ta.srt",
+  "status": "pending",
+  "time": "01:00",
+  "series": "LEARN"
+ },
+ {
+  "ep": 404,
+  "date": "2027-01-01",
+  "title": "Korea mein bachche KHUD school saaf karte! 🧹🐸",
+  "desc": "Korea mein 청소 시간 (cheongso sigan) = cleaning time 🧹\nStudents roz apna classroom saaf karte hain ✨\nAur main? Apna kamra bhi nahi 😅\nAapke school mein safai: haan ya na? 👇\n#KoreanSchool #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep404_korea-students-clean-classroom.mp4",
+  "srt": "subs/gaeguri_ep404_ta.srt",
+  "status": "pending",
+  "time": "16:30",
+  "series": "KR"
+ },
+ {
+  "ep": 62,
+  "date": "2027-01-01",
+  "title": "1 January = poora Korea ek saal BADA?! 🎂😱🐸",
+  "desc": "Purana Korean age: paida hote hi 1 saal 👶 + har 1 January sab ek saal bade! 🎂\nPar June 2023 se Korea mein official age = international age ✅\nPhir bhi log abhi bhi poochte hain: \"한국 나이로 몇 살?\" 😂\nAapki age — Korean hisaab se kitni? 👇\n#KoreanAge #KoreaVsIndia #HappyNewYear\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep062_korean-age-rule-change.mp4",
+  "srt": "subs/gaeguri_ep062_ta.srt",
+  "status": "scheduled",
+  "series": "FEST",
+  "time": "22:00",
+  "video_id": "tqcH7fXl07Y"
+ },
+ {
+  "ep": 405,
+  "date": "2027-01-02",
+  "title": "Korean ne poocha: 'tumhari KI kitni?' 📏🐸",
+  "desc": "키 (ki) = HEIGHT / lambai 📏 (aur 'key' bhi!)\nHindi की (ki) = of 🤷\nMeri ki? Sirf 10 cm 🐸😂\nAap: lambe ya chhote? 👇\n#LearnKorean #KoreaVsIndia #Hindi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep405_ki-height-hindi-ki.mp4",
+  "srt": "subs/gaeguri_ep405_ta.srt",
+  "status": "pending",
+  "time": "01:00",
+  "series": "SAME"
+ },
+ {
+  "ep": 58,
+  "date": "2027-01-02",
   "title": "India mein ROZ 13,000 trains?! Korean dost shocked 🚆😱🐸",
   "desc": "Korean dost ko Indian Railways samjhaya 🚆\nRoz 13,000 se zyada passenger trains! 😱\nAur roz crore-on log safar karte hain 🧳\nKorean dost: \"진짜?!\" (sach mein?!)\nAapki favourite train journey? 👇\n#IndianRailways #KoreaVsIndia #IndiaFacts\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep058_railways-13000-trains.mp4",
@@ -1565,99 +1623,14 @@
   ]
  },
  {
-  "ep": 61,
-  "date": "2026-12-31",
-  "title": "Seoul mein midnight pe GHANTI 33 baar! 🔔🎆🐸",
-  "desc": "Aaj raat Seoul ke 보신각 (Bosingak) mein 제야의 종 — badi ghanti 33 baar bajti hai 🔔\nIndia: countdown, crackers 🎆, aur family ke saath TV 📺\nHappy New Year 2027! 🐸\nAap aaj raat kahan ho — PARTY ya GHAR? 👇\n#HappyNewYear #KoreaVsIndia #NewYear2027\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep061_bosingak-33-bells.mp4",
-  "srt": "subs/gaeguri_ep061_ta.srt",
-  "status": "scheduled",
-  "series": "FEST",
-  "time": "22:00",
-  "video_id": "RCUeTUlv4QM"
- },
- {
-  "ep": 402,
-  "date": "2027-01-01",
-  "title": "Korean 'SORI' = SORRY nahi! 🔊🐸",
-  "desc": "소리 (sori) = SOUND / awaaz 🔊\nHinglish 'sorry' = maafi 🙏\nMain sorry bolta raha... woh bola shor mat karo 😂\nAap zyada: sori ya sorry? 👇\n#LearnKorean #KoreaVsIndia #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep402_sori-sound-not-sorry.mp4",
-  "srt": "subs/gaeguri_ep402_ta.srt",
-  "status": "pending",
-  "time": "01:00",
-  "series": "SAME"
- },
- {
-  "ep": 403,
-  "date": "2027-01-01",
-  "title": "3 baje office mein Korean bolte: 졸려! 😴🐸",
-  "desc": "졸려 (jollyeo) = neend aa rahi hai 😴\nKorea ka ilaaj: iced coffee 🧊☕\nDesi ilaaj: ek kadak chai! 🔥\nNeend bhagao: coffee ya chai? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep403_jollyeo-sleepy-kadak-chai.mp4",
-  "srt": "subs/gaeguri_ep403_ta.srt",
-  "status": "pending",
-  "time": "16:30",
-  "series": "LEARN"
- },
- {
-  "ep": 62,
-  "date": "2027-01-01",
-  "title": "1 January = poora Korea ek saal BADA?! 🎂😱🐸",
-  "desc": "Purana Korean age: paida hote hi 1 saal 👶 + har 1 January sab ek saal bade! 🎂\nPar June 2023 se Korea mein official age = international age ✅\nPhir bhi log abhi bhi poochte hain: \"한국 나이로 몇 살?\" 😂\nAapki age — Korean hisaab se kitni? 👇\n#KoreanAge #KoreaVsIndia #HappyNewYear\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep062_korean-age-rule-change.mp4",
-  "srt": "subs/gaeguri_ep062_ta.srt",
-  "status": "scheduled",
-  "series": "FEST",
-  "time": "22:00",
-  "video_id": "tqcH7fXl07Y"
- },
- {
-  "ep": 404,
-  "date": "2027-01-02",
-  "title": "Korea mein bachche KHUD school saaf karte! 🧹🐸",
-  "desc": "Korea mein 청소 시간 (cheongso sigan) = cleaning time 🧹\nStudents roz apna classroom saaf karte hain ✨\nAur main? Apna kamra bhi nahi 😅\nAapke school mein safai: haan ya na? 👇\n#KoreanSchool #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep404_korea-students-clean-classroom.mp4",
-  "srt": "subs/gaeguri_ep404_ta.srt",
-  "status": "pending",
-  "time": "01:00",
-  "series": "KR"
- },
- {
-  "ep": 405,
-  "date": "2027-01-02",
-  "title": "Korean ne poocha: 'tumhari KI kitni?' 📏🐸",
-  "desc": "키 (ki) = HEIGHT / lambai 📏 (aur 'key' bhi!)\nHindi की (ki) = of 🤷\nMeri ki? Sirf 10 cm 🐸😂\nAap: lambe ya chhote? 👇\n#LearnKorean #KoreaVsIndia #Hindi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep405_ki-height-hindi-ki.mp4",
-  "srt": "subs/gaeguri_ep405_ta.srt",
-  "status": "pending",
-  "time": "16:30",
-  "series": "SAME"
- },
- {
-  "ep": 63,
-  "date": "2027-01-02",
-  "title": "Itna bada India... sirf EK TIME ZONE?! ⏰😳🐸",
-  "desc": "Korean dost: \"India itna bada hai... kitne time zone?\" 🤔\nJawab: sirf EK — IST ⏰\nPar Arunachal mein suraj Gujarat se lagbhag 2 ghante pehle nikalta hai 🌅\nAap kitne baje uthte ho? 👇\n#IndiaFacts #KoreaVsIndia #IST\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep063_one-time-zone.mp4",
-  "srt": "subs/gaeguri_ep063_ta.srt",
-  "status": "scheduled",
-  "series": "IN",
-  "time": "22:00",
-  "video_id": "WMz5iUtzApM",
-  "resched": true,
-  "resched_from": [
-   "2026-12-15",
-   "22:00"
-  ]
- },
- {
   "ep": 406,
-  "date": "2027-01-03",
+  "date": "2027-01-02",
   "title": "Korea mein Friday = 'AAG' wala din! 🔥🐸",
   "desc": "불금 (bulgeum) = 불 (aag) + 금 (Friday) 🔥\nMatlab: party wala Friday! 🎉\nMera bulgeum: chai + sofa 🛋️😂\nAapka Friday: party ya sofa? 👇\n#KoreanSlang #LearnKorean #FridayVibes\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep406_bulgeum-fire-friday.mp4",
   "srt": "subs/gaeguri_ep406_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
@@ -1668,7 +1641,7 @@
   "media": "media/reels/ep407_jalhaesseo-well-done-shabaash.mp4",
   "srt": "subs/gaeguri_ep407_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -1679,34 +1652,34 @@
   "media": "media/reels/ep408_korea-1plus1-store-offers.mp4",
   "srt": "subs/gaeguri_ep408_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 409,
-  "date": "2027-01-04",
+  "date": "2027-01-03",
   "title": "Korean 'APA!' = didi nahi, DARD hai! 🤕🐸",
   "desc": "아파 (apa) = it HURTS / dard ho raha 🤕\nUrdu/Hindi आपा (aapa) = badi behen 👧\nChot lagi toh: aapa, apa! 😂\nChot pe kisko bulaate ho: mummy ya didi? 👇\n#LearnKorean #KoreaVsIndia #Hindi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep409_apa-hurts-urdu-aapa.mp4",
   "srt": "subs/gaeguri_ep409_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
-  "ep": 72,
+  "ep": 63,
   "date": "2027-01-04",
-  "title": "'PREPONE' sunke Korean dost confuse! 📅😂🐸",
-  "desc": "Korean dost: \"meeting prepone? Ye kaunsa English hai?\" 🤔\nIndian English ka superhit word: PREPONE = pehle kar do ⏪\nPostpone ka ulta — aur samajh mein bhi aata hai! 😎\nAapka favourite Indian English word? 👇\n#IndianEnglish #KoreaVsIndia #Prepone\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep072_prepone-indian-english.mp4",
-  "srt": "subs/gaeguri_ep072_ta.srt",
+  "title": "Itna bada India... sirf EK TIME ZONE?! ⏰😳🐸",
+  "desc": "Korean dost: \"India itna bada hai... kitne time zone?\" 🤔\nJawab: sirf EK — IST ⏰\nPar Arunachal mein suraj Gujarat se lagbhag 2 ghante pehle nikalta hai 🌅\nAap kitne baje uthte ho? 👇\n#IndiaFacts #KoreaVsIndia #IST\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep063_one-time-zone.mp4",
+  "srt": "subs/gaeguri_ep063_ta.srt",
   "status": "scheduled",
   "series": "IN",
-  "time": "16:30",
-  "video_id": "QrbufO5UlB8",
+  "time": "01:00",
+  "video_id": "WMz5iUtzApM",
   "resched": true,
   "resched_from": [
-   "2026-12-26",
+   "2026-12-15",
    "22:00"
   ]
  },
@@ -1718,18 +1691,18 @@
   "media": "media/reels/ep411_akkapda-what-a-waste.mp4",
   "srt": "subs/gaeguri_ep411_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "LEARN"
  },
  {
   "ep": 412,
-  "date": "2027-01-05",
+  "date": "2027-01-04",
   "title": "Korea mein SABKA phone ek saath bajta hai! 🚨🐸",
   "desc": "Korea: 재난문자 (jaenan munja) = disaster alert text 📲\nBhaari barf, cold wave... sabke phone pe alert ❄️🥶\nDesi alert system: mummy ka call 'sweater pehna?' 😂\nAapka alert: govt ya mummy? 👇\n#KoreanWinter #KoreaVsIndia #KoreaLife\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep412_korea-disaster-alert-text.mp4",
   "srt": "subs/gaeguri_ep412_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "KR"
  },
  {
@@ -1740,7 +1713,7 @@
   "media": "media/reels/ep413_geumsappa-falls-in-love-fast.mp4",
   "srt": "subs/gaeguri_ep413_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "QUIZ"
  },
  {
@@ -1751,23 +1724,23 @@
   "media": "media/reels/ep415_babo-fool-desi-babu.mp4",
   "srt": "subs/gaeguri_ep415_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "SAME"
  },
  {
-  "ep": 84,
-  "date": "2027-01-06",
-  "title": "Korean dost ko JUGAAD samjhaya! 🔧😂🐸",
-  "desc": "India ka superpower: JUGAAD 🔧\nPhone stand nahi? Kanghi pe tika do! 📱\nKorean dost: '천재다!' (genius!) 🤯\nKam paisa, zyada dimaag 🧠\nAapka best jugaad? Comment karo 👇\n#Jugaad #KoreaVsIndia #DesiHacks\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep084_jugaad-explained.mp4",
-  "srt": "subs/gaeguri_ep084_ta.srt",
+  "ep": 72,
+  "date": "2027-01-05",
+  "title": "'PREPONE' sunke Korean dost confuse! 📅😂🐸",
+  "desc": "Korean dost: \"meeting prepone? Ye kaunsa English hai?\" 🤔\nIndian English ka superhit word: PREPONE = pehle kar do ⏪\nPostpone ka ulta — aur samajh mein bhi aata hai! 😎\nAapka favourite Indian English word? 👇\n#IndianEnglish #KoreaVsIndia #Prepone\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep072_prepone-indian-english.mp4",
+  "srt": "subs/gaeguri_ep072_ta.srt",
   "status": "scheduled",
   "series": "IN",
-  "time": "01:00",
-  "video_id": "0PCsRkjmz_o",
+  "time": "22:00",
+  "video_id": "QrbufO5UlB8",
   "resched": true,
   "resched_from": [
-   "2027-01-07",
+   "2026-12-26",
    "22:00"
   ]
  },
@@ -1779,7 +1752,7 @@
   "media": "media/reels/ep416_bureopda-jealous-kismat-wala.mp4",
   "srt": "subs/gaeguri_ep416_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -1790,18 +1763,18 @@
   "media": "media/reels/ep417_korea-electric-mat-winter.mp4",
   "srt": "subs/gaeguri_ep417_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 418,
-  "date": "2027-01-07",
+  "date": "2027-01-06",
   "title": "Korea mein bhi UNCLE JOKES! 아재개그 🤡🐸",
   "desc": "아재개그 (ajae gaegeu) = uncle joke / dad joke 🤡\nExample: 왕이 넘어지면? 킹콩! (king gira = King + 'kong' thud) 🦍\nBilkul hamare uncles ke PJ jaisa 😅\nJoke kaisa: haha ya cringe? 👇\n#KoreanSlang #LearnKorean #DadJokes\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep418_ajae-gag-uncle-jokes.mp4",
   "srt": "subs/gaeguri_ep418_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
@@ -1812,35 +1785,35 @@
   "media": "media/reels/ep419_keunillatda-big-trouble.mp4",
   "srt": "subs/gaeguri_ep419_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
-  "ep": 86,
+  "ep": 84,
   "date": "2027-01-07",
-  "title": "Korean dost: 'Dosa sirf EK?' 😱🥞🐸",
-  "desc": "Korean dost: 'Dosa ek hi hota hai na?' 🤔\nGino: masala, rava, set, neer, ghee roast, pesarattu... aur paper dosa (mujhse bhi lamba!) 📜\nKorean dost: 대박! 🤯\nDosa ek dish nahi — poori family hai!\nAapka favourite dosa? 👇\n#Dosa #SouthIndianFood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep086_dosa-family.mp4",
-  "srt": "subs/gaeguri_ep086_ta.srt",
+  "title": "Korean dost ko JUGAAD samjhaya! 🔧😂🐸",
+  "desc": "India ka superpower: JUGAAD 🔧\nPhone stand nahi? Kanghi pe tika do! 📱\nKorean dost: '천재다!' (genius!) 🤯\nKam paisa, zyada dimaag 🧠\nAapka best jugaad? Comment karo 👇\n#Jugaad #KoreaVsIndia #DesiHacks\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep084_jugaad-explained.mp4",
+  "srt": "subs/gaeguri_ep084_ta.srt",
   "status": "scheduled",
   "series": "IN",
-  "time": "22:00",
-  "video_id": "n9u6gVRMJSU",
+  "time": "16:30",
+  "video_id": "0PCsRkjmz_o",
   "resched": true,
   "resched_from": [
-   "2027-01-09",
+   "2027-01-07",
    "22:00"
   ]
  },
  {
   "ep": 420,
-  "date": "2027-01-08",
+  "date": "2027-01-07",
   "title": "Korean: 'JARI pe baitho!' — zari saree pe?! 😱🐸",
   "desc": "자리 (jari) = SEAT / jagah 💺\nHindi ज़री (zari) = saree ka sone wala dhaaga ✨\nMummy ki zari saree pe baith gaya... jari samajh ke 😂\nBus mein: window ya aisle? 👇\n#LearnKorean #KoreaVsIndia #Hindi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep420_jari-seat-hindi-zari.mp4",
   "srt": "subs/gaeguri_ep420_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
@@ -1851,7 +1824,7 @@
   "media": "media/reels/ep421_korea-fine-dust-mask-app.mp4",
   "srt": "subs/gaeguri_ep421_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "KR"
  },
  {
@@ -1862,34 +1835,34 @@
   "media": "media/reels/ep422_jjakkung-desk-partner.mp4",
   "srt": "subs/gaeguri_ep422_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "QUIZ"
  },
  {
   "ep": 423,
-  "date": "2027-01-09",
+  "date": "2027-01-08",
   "title": "Korea cafe: order ready = BUZZER baja! 📳🐸",
   "desc": "Korea cafe mein naam nahi pukaarte 📳\n진동벨 (jindongbel) = vibrating bell — bajta hai, aap counter pe jao\nDesi tapri: 'Bhaiya, do cutting!' ☕😂\nAapko kya pasand: buzzer ya 'bhaiya'? 👇\n#KoreaLife #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep423_jindongbel-cafe-buzzer.mp4",
   "srt": "subs/gaeguri_ep423_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "KR"
  },
  {
-  "ep": 90,
+  "ep": 86,
   "date": "2027-01-09",
-  "title": "K-drama 16 episodes vs Indian serial 2000! 📺😱🐸",
-  "desc": "K-drama: 16 episodes — pyaar, drama, tears... 2 mahine mein khatam! 끝 🎬\nIndian serial: 2000+ episodes... aur zoom-zoom-zoom 😱\nKorea finish line pe 🏁, India abhi warm-up mein 😂\n16 ya 2000? 👇\n#KDrama #IndianSerial #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep090_kdrama-16-vs-serial-2000.mp4",
-  "srt": "subs/gaeguri_ep090_ta.srt",
+  "title": "Korean dost: 'Dosa sirf EK?' 😱🥞🐸",
+  "desc": "Korean dost: 'Dosa ek hi hota hai na?' 🤔\nGino: masala, rava, set, neer, ghee roast, pesarattu... aur paper dosa (mujhse bhi lamba!) 📜\nKorean dost: 대박! 🤯\nDosa ek dish nahi — poori family hai!\nAapka favourite dosa? 👇\n#Dosa #SouthIndianFood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep086_dosa-family.mp4",
+  "srt": "subs/gaeguri_ep086_ta.srt",
   "status": "scheduled",
-  "series": "KDRAMA",
-  "time": "16:30",
-  "video_id": "Vx2r5-ikeT4",
+  "series": "IN",
+  "time": "01:00",
+  "video_id": "n9u6gVRMJSU",
   "resched": true,
   "resched_from": [
-   "2027-01-13",
+   "2027-01-09",
    "22:00"
   ]
  },
@@ -1901,18 +1874,18 @@
   "media": "media/reels/ep424_chai-difference-hindi-chai.mp4",
   "srt": "subs/gaeguri_ep424_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "SAME"
  },
  {
   "ep": 425,
-  "date": "2027-01-10",
+  "date": "2027-01-09",
   "title": "Korean office word: 칼퇴 ka matlab? 🔪🐸",
   "desc": "칼퇴 (kaltoe) = 칼 knife + 퇴근 leaving work 🔪\nMatlab: theek time pe office se nikalna, knife jaisa clean cut! ✅\nDesi boss: 'bas ek chhota kaam...' 😂\nAap nikalte ho: 6 ya 9 baje? 👇\n#LearnKorean #OfficeLife #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep425_kaltoe-leave-on-time.mp4",
   "srt": "subs/gaeguri_ep425_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
@@ -1923,7 +1896,7 @@
   "media": "media/reels/ep426_saehae-bok-happy-new-year.mp4",
   "srt": "subs/gaeguri_ep426_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -1934,23 +1907,23 @@
   "media": "media/reels/ep427_haedoji-first-sunrise.mp4",
   "srt": "subs/gaeguri_ep427_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
-  "ep": 100,
-  "date": "2027-01-11",
-  "title": "Korean dost ko IST samjhaya... 'STRETCHABLE' ⏰😂🐸",
-  "desc": "Korean dost: 'IST matlab India Standard Time?' 🤔\nOfficial haan... par asli matlab: Indian STRETCHABLE Time 😂\nInvite pe 7 baje, log aaye 9:30 ⏰\nKorea mein late = sorry 🙇 India mein = early 😎\nAap party mein kitne baje pahunchte ho? 👇\n#IndianStandardTime #DesiLife #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep100_indian-stretchable-time.mp4",
-  "srt": "subs/gaeguri_ep100_ta.srt",
+  "ep": 90,
+  "date": "2027-01-10",
+  "title": "K-drama 16 episodes vs Indian serial 2000! 📺😱🐸",
+  "desc": "K-drama: 16 episodes — pyaar, drama, tears... 2 mahine mein khatam! 끝 🎬\nIndian serial: 2000+ episodes... aur zoom-zoom-zoom 😱\nKorea finish line pe 🏁, India abhi warm-up mein 😂\n16 ya 2000? 👇\n#KDrama #IndianSerial #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep090_kdrama-16-vs-serial-2000.mp4",
+  "srt": "subs/gaeguri_ep090_ta.srt",
   "status": "scheduled",
-  "series": "IN",
-  "time": "01:00",
-  "video_id": "i793cMlq8So",
+  "series": "KDRAMA",
+  "time": "22:00",
+  "video_id": "Vx2r5-ikeT4",
   "resched": true,
   "resched_from": [
-   "2027-01-24",
+   "2027-01-13",
    "22:00"
   ]
  },
@@ -1962,7 +1935,7 @@
   "media": "media/reels/ep428_ama-maybe-tamil-aamaa.mp4",
   "srt": "subs/gaeguri_ep428_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
  },
  {
@@ -1973,18 +1946,18 @@
   "media": "media/reels/ep429_daechung-roughly-chalta-hai.mp4",
   "srt": "subs/gaeguri_ep429_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "LEARN"
  },
  {
   "ep": 430,
-  "date": "2027-01-12",
+  "date": "2027-01-11",
   "title": "Exam paper khola... 멘붕! matlab? 🤯🐸",
   "desc": "멘붕 (menbung) = mental + 붕괴 (collapse) = dimaag FAIL 🤯\nKorean slang for 'total shock / mind blank'\nHindi mein: dimaag ka dahi! 😂\nAaj ka menbung: Monday ya exam? 👇\n#LearnKorean #KoreanSlang #StudentLife\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep430_menbung-mental-collapse.mp4",
   "srt": "subs/gaeguri_ep430_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
@@ -1995,35 +1968,35 @@
   "media": "media/reels/ep431_muin-unmanned-icecream-shop.mp4",
   "srt": "subs/gaeguri_ep431_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "KR"
  },
  {
-  "ep": 111,
+  "ep": 100,
   "date": "2027-01-12",
-  "title": "K-drama = Bollywood? Ameer mummy ka SAME scene! 💸😂🐸",
-  "desc": "Ameer mummy + bete ki girlfriend = paise ka offer 💸\nK-drama: '이 돈 받고 떠나!' (ye paise lo aur jao!)\nBollywood: 'Kitne paise chahiye?' 😤\nK-drama bonus: PAANI SPLASH 💦\nAur girlfriend? Hamesha wapas aati hai 😂\nAap paise loge? HAAN ya NAA? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep111_rich-mom-money-offer-trope.mp4",
-  "srt": "subs/gaeguri_ep111_ta.srt",
+  "title": "Korean dost ko IST samjhaya... 'STRETCHABLE' ⏰😂🐸",
+  "desc": "Korean dost: 'IST matlab India Standard Time?' 🤔\nOfficial haan... par asli matlab: Indian STRETCHABLE Time 😂\nInvite pe 7 baje, log aaye 9:30 ⏰\nKorea mein late = sorry 🙇 India mein = early 😎\nAap party mein kitne baje pahunchte ho? 👇\n#IndianStandardTime #DesiLife #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep100_indian-stretchable-time.mp4",
+  "srt": "subs/gaeguri_ep100_ta.srt",
   "status": "scheduled",
-  "series": "KDRAMA",
-  "time": "22:00",
-  "video_id": "2PijThKeS_c",
+  "series": "IN",
+  "time": "16:30",
+  "video_id": "i793cMlq8So",
   "resched": true,
   "resched_from": [
-   "2027-02-03",
+   "2027-01-24",
    "22:00"
   ]
  },
  {
   "ep": 432,
-  "date": "2027-01-13",
+  "date": "2027-01-12",
   "title": "Korean 'MAJA!' = Hindi 'MAZA'? 😂🐸",
   "desc": "맞아 (maja) = RIGHT! / sahi baat ✅\nHindi मज़ा (maza) = FUN 🎉\nFriday shaam: maja bhi, maza bhi! 😂\nComment karo: MAJA! 👇\n#LearnKorean #KoreaVsIndia #Hindi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep432_maja-right-hindi-maza.mp4",
   "srt": "subs/gaeguri_ep432_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
@@ -2034,7 +2007,7 @@
   "media": "media/reels/ep434_simsimhae-bored.mp4",
   "srt": "subs/gaeguri_ep434_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -2045,23 +2018,108 @@
   "media": "media/reels/ep435_kkondae-humare-zamane-mein.mp4",
   "srt": "subs/gaeguri_ep435_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "QUIZ"
  },
  {
   "ep": 436,
-  "date": "2027-01-14",
+  "date": "2027-01-13",
   "title": "Korea ka 'ITALY' towel... Italy ka nahi! 🟩😱🐸",
   "desc": "이태리타월 (Italy towel) = Korea ka hara scrub towel 🧽\nKapda kabhi Italy se aaya tha, par towel Korea mein bana! 🇰🇷\nDesi version: daadi ka patthar + besan 😂\nAapki team: Italy towel ya besan? 👇\n#KoreaLife #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep436_italy-towel-korean-scrub.mp4",
   "srt": "subs/gaeguri_ep436_ta.srt",
+  "status": "pending",
+  "time": "22:00",
+  "series": "KR"
+ },
+ {
+  "ep": 111,
+  "date": "2027-01-14",
+  "title": "K-drama = Bollywood? Ameer mummy ka SAME scene! 💸😂🐸",
+  "desc": "Ameer mummy + bete ki girlfriend = paise ka offer 💸\nK-drama: '이 돈 받고 떠나!' (ye paise lo aur jao!)\nBollywood: 'Kitne paise chahiye?' 😤\nK-drama bonus: PAANI SPLASH 💦\nAur girlfriend? Hamesha wapas aati hai 😂\nAap paise loge? HAAN ya NAA? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep111_rich-mom-money-offer-trope.mp4",
+  "srt": "subs/gaeguri_ep111_ta.srt",
+  "status": "scheduled",
+  "series": "KDRAMA",
+  "time": "01:00",
+  "video_id": "2PijThKeS_c",
+  "resched": true,
+  "resched_from": [
+   "2027-02-03",
+   "22:00"
+  ]
+ },
+ {
+  "ep": 437,
+  "date": "2027-01-14",
+  "title": "Korean 'BAPPA' = Tamil 'PAAPPA'? 👶😂🐸",
+  "desc": "바빠 (bappa) = I'm BUSY 💼\nTamil பாப்பா (paappaa) = BABY 👶\nKorean papa: 'bappa!'... paappa bolti: 'papa!' 😂\nAap abhi: bappa ya free? 👇\n#LearnKorean #Tamil #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep437_bappa-busy-tamil-paappa.mp4",
+  "srt": "subs/gaeguri_ep437_ta.srt",
+  "status": "pending",
+  "time": "16:30",
+  "series": "SAME"
+ },
+ {
+  "ep": 75,
+  "date": "2027-01-14",
+  "title": "KAL Sankranti! Korea mein bhi PATANG? 🪁🐸",
+  "desc": "Kal (15 Jan) Makar Sankranti & Pongal! 🪁\nKorea mein bhi patang (연 yeon) — naye saal ka traditional game!\nPurane zamane mein dhaaga kaat ke 'bad luck' uda dete the ✂️\nIndia: KAI PO CHE! 🎉\nAap patang udaate ho? HAAN ya NAA? 👇\n#MakarSankranti #KoreaVsIndia #KiteFestival\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep075_sankranti-kites-yeon.mp4",
+  "srt": "subs/gaeguri_ep075_ta.srt",
+  "status": "scheduled",
+  "series": "FEST",
+  "time": "22:00",
+  "video_id": "wlyrJM9h_KI"
+ },
+ {
+  "ep": 438,
+  "date": "2027-01-15",
+  "title": "Korean ka polite 'NAHI': 별로 😐🐸",
+  "desc": "별로 (byeollo) = not really / meh = theek-thaak 😐\nShaadi ka khana kaisa tha? 'Byeollo...'\nPar plate 3rd round! 🍛😂\nAaj ka din: mast ya byeollo? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep438_byeollo-meh-theek-thaak.mp4",
+  "srt": "subs/gaeguri_ep438_ta.srt",
+  "status": "pending",
+  "time": "01:00",
+  "series": "LEARN"
+ },
+ {
+  "ep": 439,
+  "date": "2027-01-15",
+  "title": "Korean dating word: 썸 ka matlab? 💭🐸",
+  "desc": "썸 (sseom) = English 'something' se 💭\nDost se zyada, couple se kam = talking stage!\nHindi mein: kuchh kuchh hota hai 😂\nPehla sseom signal: chat ya chai? 👇\n#LearnKorean #KoreanSlang #KDrama\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep439_sseom-something-kuchh-kuchh.mp4",
+  "srt": "subs/gaeguri_ep439_ta.srt",
+  "status": "pending",
+  "time": "16:30",
+  "series": "QUIZ"
+ },
+ {
+  "ep": 76,
+  "date": "2027-01-15",
+  "title": "Aaj PONGAL! Korea ka rice cake bhi aaya 🍚🎉🐸",
+  "desc": "Pongalo Pongal! 🎉 Aaj Thai Pongal (15 Jan)\nTamil Nadu: doodh-chawal ka pot ubal ke gire = khushiyan ✨\nKorea: celebration = 떡 (tteok) rice cake 🍡\nChaawal = party, dono deshon mein!\nSweet pongal ya ven pongal? 👇\n#Pongal #KoreaVsIndia #TamilNadu\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep076_pongal-tteok-rice-party.mp4",
+  "srt": "subs/gaeguri_ep076_ta.srt",
+  "status": "scheduled",
+  "series": "FEST",
+  "time": "22:00",
+  "video_id": "sxWBMo4yDfQ"
+ },
+ {
+  "ep": 440,
+  "date": "2027-01-16",
+  "title": "Korea mein RAMYEON MACHINE! khud pakao 🍜😱🐸",
+  "desc": "Han River ke convenience store mein 한강 라면 machine 🍜\nPacket + paper bowl, machine pe rakho: paani + garmi, 3-4 min mein ready!\nDesi version: hostel ka kettle 😂\nAapke noodles: nadi kinare ya hostel? 👇\n#KoreaLife #KoreanFood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep440_hangang-ramyeon-machine.mp4",
+  "srt": "subs/gaeguri_ep440_ta.srt",
   "status": "pending",
   "time": "01:00",
   "series": "KR"
  },
  {
   "ep": 112,
-  "date": "2027-01-14",
+  "date": "2027-01-16",
   "title": "Korean dost ko CRICKET samjhaya... 5 DIN?! 🏏😵🐸",
   "desc": "Sunday subah Korean dost ko cricket samjhaya 🏏\nTest match = 5 din! 😱 Dost: '닷새나?!'\n5 din baad... DRAW bhi ho sakta hai 🤝😂\nT20 sirf ~3 ghante ⏱️ — par gully cricket? Poora din! 😂\nTest ya T20? 👇\n#Cricket #KoreanReacts #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep112_cricket-5-days-explained.mp4",
@@ -2077,99 +2135,14 @@
   ]
  },
  {
-  "ep": 75,
-  "date": "2027-01-14",
-  "title": "KAL Sankranti! Korea mein bhi PATANG? 🪁🐸",
-  "desc": "Kal (15 Jan) Makar Sankranti & Pongal! 🪁\nKorea mein bhi patang (연 yeon) — naye saal ka traditional game!\nPurane zamane mein dhaaga kaat ke 'bad luck' uda dete the ✂️\nIndia: KAI PO CHE! 🎉\nAap patang udaate ho? HAAN ya NAA? 👇\n#MakarSankranti #KoreaVsIndia #KiteFestival\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep075_sankranti-kites-yeon.mp4",
-  "srt": "subs/gaeguri_ep075_ta.srt",
-  "status": "scheduled",
-  "series": "FEST",
-  "time": "22:00",
-  "video_id": "wlyrJM9h_KI"
- },
- {
-  "ep": 437,
-  "date": "2027-01-15",
-  "title": "Korean 'BAPPA' = Tamil 'PAAPPA'? 👶😂🐸",
-  "desc": "바빠 (bappa) = I'm BUSY 💼\nTamil பாப்பா (paappaa) = BABY 👶\nKorean papa: 'bappa!'... paappa bolti: 'papa!' 😂\nAap abhi: bappa ya free? 👇\n#LearnKorean #Tamil #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep437_bappa-busy-tamil-paappa.mp4",
-  "srt": "subs/gaeguri_ep437_ta.srt",
-  "status": "pending",
-  "time": "01:00",
-  "series": "SAME"
- },
- {
-  "ep": 438,
-  "date": "2027-01-15",
-  "title": "Korean ka polite 'NAHI': 별로 😐🐸",
-  "desc": "별로 (byeollo) = not really / meh = theek-thaak 😐\nShaadi ka khana kaisa tha? 'Byeollo...'\nPar plate 3rd round! 🍛😂\nAaj ka din: mast ya byeollo? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep438_byeollo-meh-theek-thaak.mp4",
-  "srt": "subs/gaeguri_ep438_ta.srt",
-  "status": "pending",
-  "time": "16:30",
-  "series": "LEARN"
- },
- {
-  "ep": 76,
-  "date": "2027-01-15",
-  "title": "Aaj PONGAL! Korea ka rice cake bhi aaya 🍚🎉🐸",
-  "desc": "Pongalo Pongal! 🎉 Aaj Thai Pongal (15 Jan)\nTamil Nadu: doodh-chawal ka pot ubal ke gire = khushiyan ✨\nKorea: celebration = 떡 (tteok) rice cake 🍡\nChaawal = party, dono deshon mein!\nSweet pongal ya ven pongal? 👇\n#Pongal #KoreaVsIndia #TamilNadu\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep076_pongal-tteok-rice-party.mp4",
-  "srt": "subs/gaeguri_ep076_ta.srt",
-  "status": "scheduled",
-  "series": "FEST",
-  "time": "22:00",
-  "video_id": "sxWBMo4yDfQ"
- },
- {
-  "ep": 439,
-  "date": "2027-01-16",
-  "title": "Korean dating word: 썸 ka matlab? 💭🐸",
-  "desc": "썸 (sseom) = English 'something' se 💭\nDost se zyada, couple se kam = talking stage!\nHindi mein: kuchh kuchh hota hai 😂\nPehla sseom signal: chat ya chai? 👇\n#LearnKorean #KoreanSlang #KDrama\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep439_sseom-something-kuchh-kuchh.mp4",
-  "srt": "subs/gaeguri_ep439_ta.srt",
-  "status": "pending",
-  "time": "01:00",
-  "series": "QUIZ"
- },
- {
-  "ep": 440,
-  "date": "2027-01-16",
-  "title": "Korea mein RAMYEON MACHINE! khud pakao 🍜😱🐸",
-  "desc": "Han River ke convenience store mein 한강 라면 machine 🍜\nPacket + paper bowl, machine pe rakho: paani + garmi, 3-4 min mein ready!\nDesi version: hostel ka kettle 😂\nAapke noodles: nadi kinare ya hostel? 👇\n#KoreaLife #KoreanFood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep440_hangang-ramyeon-machine.mp4",
-  "srt": "subs/gaeguri_ep440_ta.srt",
-  "status": "pending",
-  "time": "16:30",
-  "series": "KR"
- },
- {
-  "ep": 114,
-  "date": "2027-01-16",
-  "title": "Korea mein bhi MEHENDI jaisa?! Naakhun pe! 💅😱🐸",
-  "desc": "Korean dost ko mehendi dikhaayi 🌿 — 'Wow, 예쁘다!' 😍\nAur pata chala Korea mein bhi hai: 봉숭아 물 (bongseonga mul) — phool se naakhun rangna 💅\nKehte hain: pehli barf tak rang rahe toh first love sach 💜❄️\nHamare yahan: mehendi jitni dark, utna pyaar 🧡😂\nMehendi ya nail dye? 👇\n#Mehendi #KoreanCulture #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep114_mehendi-vs-bongseonga-nails.mp4",
-  "srt": "subs/gaeguri_ep114_ta.srt",
-  "status": "scheduled",
-  "series": "IN",
-  "time": "22:00",
-  "video_id": "0u3YqcvlThQ",
-  "resched": true,
-  "resched_from": [
-   "2027-02-07",
-   "22:00"
-  ]
- },
- {
   "ep": 441,
-  "date": "2027-01-17",
+  "date": "2027-01-16",
   "title": "Korean: 'ANA!' Tamil: 'ANNA?!' Brother-zone! 💔😂🐸",
   "desc": "안아 (ana) = HUG me 🤗 (안아 줘!)\nTamil அண்ணா (annaa) = elder BROTHER 👦\nHug maanga... brother-zone ho gaya! 💔😂\nTamil dosto: hug ya anna? 👇\n#LearnKorean #Tamil #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep441_ana-hug-tamil-anna.mp4",
   "srt": "subs/gaeguri_ep441_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
@@ -2180,7 +2153,7 @@
   "media": "media/reels/ep443_eojjeol-su-eopji-kya-kar-sakte.mp4",
   "srt": "subs/gaeguri_ep443_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -2191,34 +2164,34 @@
   "media": "media/reels/ep444_sohwakhaeng-small-happiness.mp4",
   "srt": "subs/gaeguri_ep444_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "QUIZ"
  },
  {
   "ep": 445,
-  "date": "2027-01-18",
+  "date": "2027-01-17",
   "title": "Korea ke gaon mein SADAK pe laal mirch! 🌶️😱🐸",
   "desc": "Korea ke gaon mein: sadak aur aangan pe laal mirch sukhaate hain 🌶️☀️\n고추 (gochu) sukha ke banta hai gochugaru → kimchi + gochujang!\nIndia: chhat pe papad, mirch, achaar ☀️ Security: daadi + chhadi 😂\nAapki chhat pe kya: papad ya kapde? 👇\n#KoreaLife #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep445_gochu-drying-on-road.mp4",
   "srt": "subs/gaeguri_ep445_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "KR"
  },
  {
-  "ep": 128,
+  "ep": 114,
   "date": "2027-01-18",
-  "title": "Mumbai ke 2 LAKH tiffin, bina APP! 🍱🐸",
-  "desc": "Mumbai ke dabbawala 🚲 — ghar se tiffin, local train se office 🚆\nAddress nahi, sirf rang aur code 🎨\n130 saal se zyada se chal raha hai! 😎\nMera Korean dost: 'delivery app ke bina?!' 😱\nAapka tiffin kaun laata tha? 👇\n#Dabbawala #Mumbai #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep128_dabbawala-explained.mp4",
-  "srt": "subs/gaeguri_ep128_ta.srt",
+  "title": "Korea mein bhi MEHENDI jaisa?! Naakhun pe! 💅😱🐸",
+  "desc": "Korean dost ko mehendi dikhaayi 🌿 — 'Wow, 예쁘다!' 😍\nAur pata chala Korea mein bhi hai: 봉숭아 물 (bongseonga mul) — phool se naakhun rangna 💅\nKehte hain: pehli barf tak rang rahe toh first love sach 💜❄️\nHamare yahan: mehendi jitni dark, utna pyaar 🧡😂\nMehendi ya nail dye? 👇\n#Mehendi #KoreanCulture #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep114_mehendi-vs-bongseonga-nails.mp4",
+  "srt": "subs/gaeguri_ep114_ta.srt",
   "status": "scheduled",
   "series": "IN",
-  "time": "16:30",
-  "video_id": "sJsdDRLsD5s",
+  "time": "01:00",
+  "video_id": "0u3YqcvlThQ",
   "resched": true,
   "resched_from": [
-   "2027-03-09",
+   "2027-02-07",
    "22:00"
   ]
  },
@@ -2230,18 +2203,18 @@
   "media": "media/reels/ep446_jan-cup-hindi-jaan.mp4",
   "srt": "subs/gaeguri_ep446_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "SAME"
  },
  {
   "ep": 447,
-  "date": "2027-01-19",
+  "date": "2027-01-18",
   "title": "Last samosa kisne khaya? 너무해! 😤🐸",
   "desc": "너무해 (neomuhae) = that's so mean! / too much! 😤\n너무 neomu = bahut zyada\nDesi neomuhae: last samosa khaa liya, remote chheen liya 😂\nAapka neomuhae moment: samosa ya remote? 👇\n#LearnKorean #KDrama #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep447_neomuhae-so-mean.mp4",
   "srt": "subs/gaeguri_ep447_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
@@ -2252,7 +2225,7 @@
   "media": "media/reels/ep448_kim-lee-park-half-korea.mp4",
   "srt": "subs/gaeguri_ep448_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "KR"
  },
  {
@@ -2263,23 +2236,23 @@
   "media": "media/reels/ep449_wae-why-hindi-waah.mp4",
   "srt": "subs/gaeguri_ep449_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "SAME"
  },
  {
-  "ep": 132,
-  "date": "2027-01-20",
-  "title": "K-drama + Bollywood = MEMORY LOSS 😵🐸",
-  "desc": "K-drama ka favourite trope: accident... aur '누구세요?' (who are you?) 😵\nBollywood: 'main kaun hoon? main kahaan hoon?' 🎬\nCure? Ek aur jhatka — sab yaad! 😂\nAmnesia trope — LOVE ya HATE? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep132_amnesia-trope-kdrama-bollywood.mp4",
-  "srt": "subs/gaeguri_ep132_ta.srt",
+  "ep": 128,
+  "date": "2027-01-19",
+  "title": "Mumbai ke 2 LAKH tiffin, bina APP! 🍱🐸",
+  "desc": "Mumbai ke dabbawala 🚲 — ghar se tiffin, local train se office 🚆\nAddress nahi, sirf rang aur code 🎨\n130 saal se zyada se chal raha hai! 😎\nMera Korean dost: 'delivery app ke bina?!' 😱\nAapka tiffin kaun laata tha? 👇\n#Dabbawala #Mumbai #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep128_dabbawala-explained.mp4",
+  "srt": "subs/gaeguri_ep128_ta.srt",
   "status": "scheduled",
-  "series": "KDRAMA",
-  "time": "01:00",
-  "video_id": "shsg1cfXMr0",
+  "series": "IN",
+  "time": "22:00",
+  "video_id": "sJsdDRLsD5s",
   "resched": true,
   "resched_from": [
-   "2027-03-11",
+   "2027-03-09",
    "22:00"
   ]
  },
@@ -2291,7 +2264,7 @@
   "media": "media/reels/ep450_eoljuka-iced-americano.mp4",
   "srt": "subs/gaeguri_ep450_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "QUIZ"
  },
  {
@@ -2302,18 +2275,18 @@
   "media": "media/reels/ep451_cheoncheonhi-aaram-se.mp4",
   "srt": "subs/gaeguri_ep451_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "LEARN"
  },
  {
   "ep": 453,
-  "date": "2027-01-21",
+  "date": "2027-01-20",
   "title": "Korea mein waiter ko TIP? Nahi! 🙅🐸",
   "desc": "Korea mein tipping culture nahi hai 🧾\nBill jitna, utna hi. Bas!\nPaise chhod ke gaye toh staff waapas dene aa sakta hai 😂\nIndia: 'Bhaiya, change rakh lo' 😎\nAap tip dete ho: haan ya na? 👇\n#KoreaLife #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep453_korea-no-tipping.mp4",
   "srt": "subs/gaeguri_ep453_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "KR"
  },
  {
@@ -2324,29 +2297,35 @@
   "media": "media/reels/ep454_podo-grapes-tamil-podu.mp4",
   "srt": "subs/gaeguri_ep454_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
  },
  {
-  "ep": 133,
+  "ep": 132,
   "date": "2027-01-21",
-  "title": "Dukaan pe NIMBU-MIRCHI kyun? 🍋🌶️🐸",
-  "desc": "Mera Korean dost: 'gate pe nimbu aur mirchi kyun latka hai?' 🍋🌶️\nIndia mein ise 'nazar' se bachne ka lucky charm maante hain 🧿\nKorea mein bhi lucky charm hota hai — 부적 (bujeok) 📜\nAapke ghar/dukaan pe bhi hai? HAAN ya NAA? 👇\n#IndianCulture #KoreaVsIndia #Nazar\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep133_nimbu-mirchi-nazar.mp4",
-  "srt": "subs/gaeguri_ep133_ta.srt",
-  "status": "pending",
-  "series": "IN",
-  "time": "22:00"
+  "title": "K-drama + Bollywood = MEMORY LOSS 😵🐸",
+  "desc": "K-drama ka favourite trope: accident... aur '누구세요?' (who are you?) 😵\nBollywood: 'main kaun hoon? main kahaan hoon?' 🎬\nCure? Ek aur jhatka — sab yaad! 😂\nAmnesia trope — LOVE ya HATE? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep132_amnesia-trope-kdrama-bollywood.mp4",
+  "srt": "subs/gaeguri_ep132_ta.srt",
+  "status": "scheduled",
+  "series": "KDRAMA",
+  "time": "16:30",
+  "video_id": "shsg1cfXMr0",
+  "resched": true,
+  "resched_from": [
+   "2027-03-11",
+   "22:00"
+  ]
  },
  {
   "ep": 455,
-  "date": "2027-01-22",
+  "date": "2027-01-21",
   "title": "Korean food ka secret: 단짠 ka matlab? 😋🐸",
   "desc": "단짠 (danjjan) = 단 sweet + 짠 salty 🍯🧂\nKorean snacks ka favourite combo!\nDesi danjjan = khatta-meetha 😋\nAap team: meetha ya namkeen? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep455_danjjan-khatta-meetha.mp4",
   "srt": "subs/gaeguri_ep455_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
@@ -2357,7 +2336,7 @@
   "media": "media/reels/ep456_ireona-wake-up.mp4",
   "srt": "subs/gaeguri_ep456_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -2368,30 +2347,30 @@
   "media": "media/reels/ep457_cafe-laptop-left-safe.mp4",
   "srt": "subs/gaeguri_ep457_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 458,
-  "date": "2027-01-23",
+  "date": "2027-01-22",
   "title": "Korean ne kaha 'TEOL'... tel lagaun? 🫙😂🐸",
   "desc": "털 (teol) = body hair / fur 🐶\nHindi तेल (tel) = OIL 🫙\nSunday special: teol pe tel! 💆😂\nChampi: nariyal ya sarson? 👇\n#LearnKorean #KoreaVsIndia #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep458_teol-fur-hindi-tel.mp4",
   "srt": "subs/gaeguri_ep458_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
-  "ep": 149,
+  "ep": 133,
   "date": "2027-01-23",
-  "title": "Haath se KHANA? Korean dost SHOCKED! 🖐️🍛🐸",
-  "desc": "Korean dost: '손으로 먹어?' (haath se khate ho?!) 😱\nIndia: right hand se, ungliyon se rice + sambar mix 🍛\nKorea: chammach se chawal 🥄, chopsticks se side dish 🥢\nAap haath se ya chammach se? 👇\n#IndianFood #KoreaVsIndia #Culture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep149_right-hand-eating-explained.mp4",
-  "srt": "subs/gaeguri_ep149_ta.srt",
+  "title": "Dukaan pe NIMBU-MIRCHI kyun? 🍋🌶️🐸",
+  "desc": "Mera Korean dost: 'gate pe nimbu aur mirchi kyun latka hai?' 🍋🌶️\nIndia mein ise 'nazar' se bachne ka lucky charm maante hain 🧿\nKorea mein bhi lucky charm hota hai — 부적 (bujeok) 📜\nAapke ghar/dukaan pe bhi hai? HAAN ya NAA? 👇\n#IndianCulture #KoreaVsIndia #Nazar\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep133_nimbu-mirchi-nazar.mp4",
+  "srt": "subs/gaeguri_ep133_ta.srt",
   "status": "pending",
   "series": "IN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 460,
@@ -2401,18 +2380,18 @@
   "media": "media/reels/ep460_najunge-baad-mein.mp4",
   "srt": "subs/gaeguri_ep460_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "LEARN"
  },
  {
   "ep": 461,
-  "date": "2027-01-24",
+  "date": "2027-01-23",
   "title": "Samosa ka Korean word: 겉바속촉! 😋🐸",
   "desc": "겉바속촉 (geotbasokchok) = 겉은 바삭, 속은 촉촉 😋\n= Baahar crispy, andar soft!\nDesi geotbasokchok: samosa, vada, pakoda 🔥\nBest kaun: samosa ya vada? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep461_geotbasokchok-samosa.mp4",
   "srt": "subs/gaeguri_ep461_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
@@ -2423,7 +2402,7 @@
   "media": "media/reels/ep462_pc-bang-ramyeon-seat.mp4",
   "srt": "subs/gaeguri_ep462_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "KR"
  },
  {
@@ -2434,19 +2413,19 @@
   "media": "media/reels/ep463_uri-our-tamil-ooru.mp4",
   "srt": "subs/gaeguri_ep463_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "SAME"
  },
  {
-  "ep": 153,
-  "date": "2027-01-25",
-  "title": "K-drama FREEZE vs Filmy PHOOL! 🌸⏸️🐸",
-  "desc": "K-drama romance: 5 second FREEZE ⏸️ + camera 360° 🎥 + slow music 🎻\nPurani Bollywood: do phool... TAK! 🌸💥🌸\nDono mein common: family aa gayi = THE END 😂\nTeam freeze ya team phool? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep153_kdrama-freeze-vs-two-flowers.mp4",
-  "srt": "subs/gaeguri_ep153_ta.srt",
+  "ep": 149,
+  "date": "2027-01-24",
+  "title": "Haath se KHANA? Korean dost SHOCKED! 🖐️🍛🐸",
+  "desc": "Korean dost: '손으로 먹어?' (haath se khate ho?!) 😱\nIndia: right hand se, ungliyon se rice + sambar mix 🍛\nKorea: chammach se chawal 🥄, chopsticks se side dish 🥢\nAap haath se ya chammach se? 👇\n#IndianFood #KoreaVsIndia #Culture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep149_right-hand-eating-explained.mp4",
+  "srt": "subs/gaeguri_ep149_ta.srt",
   "status": "pending",
-  "series": "KDRAMA",
-  "time": "01:00"
+  "series": "IN",
+  "time": "22:00"
  },
  {
   "ep": 464,
@@ -2456,7 +2435,7 @@
   "media": "media/reels/ep464_mani-meogeo-nani-refill.mp4",
   "srt": "subs/gaeguri_ep464_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -2467,18 +2446,18 @@
   "media": "media/reels/ep465_jipsuni-jipdori-homebody.mp4",
   "srt": "subs/gaeguri_ep465_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "QUIZ"
  },
  {
   "ep": 466,
-  "date": "2027-01-26",
+  "date": "2027-01-25",
   "title": "Korea mein COIN daalo, GAANA gaao! 🪙🎤🐸",
   "desc": "코인노래방 (coin noraebang) = coin karaoke 🎤\nChhota sa booth, mic, screen... bas aap!\nCoin khatam = gaana khatam 😅\nIndia: shaadi mein mic mil gaya toh chhodenge nahi 😂\nKaraoke song: Hindi ya Tamil? 👇\n#KoreaLife #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep466_coin-noraebang-karaoke.mp4",
   "srt": "subs/gaeguri_ep466_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "KR"
  },
  {
@@ -2489,29 +2468,29 @@
   "media": "media/reels/ep467_bol-cheek-hindi-bol.mp4",
   "srt": "subs/gaeguri_ep467_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
  },
  {
-  "ep": 154,
+  "ep": 153,
   "date": "2027-01-26",
-  "title": "India ki SHAADI = DANCE? Korean dost SHOCKED 💃🐸",
-  "desc": "Korean dost: '결혼식에서 춤춰?' (shaadi mein dance?!) 😱\nIndia: sangeet ki practice ek mahina pehle se 🎶\nKorea: wedding hall mein ceremony, lagbhag 1 ghanta ⏱️\nIndia: 3 din + uncle non-stop 🕺😂\nShaadi mein aapka signature step? 👇\n#IndianWedding #KoreaVsIndia #Sangeet\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep154_sangeet-dance-explained.mp4",
-  "srt": "subs/gaeguri_ep154_ta.srt",
+  "title": "K-drama FREEZE vs Filmy PHOOL! 🌸⏸️🐸",
+  "desc": "K-drama romance: 5 second FREEZE ⏸️ + camera 360° 🎥 + slow music 🎻\nPurani Bollywood: do phool... TAK! 🌸💥🌸\nDono mein common: family aa gayi = THE END 😂\nTeam freeze ya team phool? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep153_kdrama-freeze-vs-two-flowers.mp4",
+  "srt": "subs/gaeguri_ep153_ta.srt",
   "status": "pending",
-  "series": "IN",
-  "time": "22:00"
+  "series": "KDRAMA",
+  "time": "16:30"
  },
  {
   "ep": 468,
-  "date": "2027-01-27",
+  "date": "2027-01-26",
   "title": "2 saal baad mile? Korean mein: 오랜만이야! 🤗🐸",
   "desc": "오랜만이야 (oraenmaniya) = long time no see! 🤗\nKorean dost: oraenmaniya! 😊\nDesi relative: 'kitne bade ho gaye... shaadi kab?!' 😱\nRelative ka sawaal: shaadi ya marks? 👇\n#LearnKorean #KDrama #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep468_oraenmaniya-long-time.mp4",
   "srt": "subs/gaeguri_ep468_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
@@ -2522,7 +2501,7 @@
   "media": "media/reels/ep469_yeolgong-study-hard.mp4",
   "srt": "subs/gaeguri_ep469_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "QUIZ"
  },
  {
@@ -2533,30 +2512,30 @@
   "media": "media/reels/ep470_water-is-self-service.mp4",
   "srt": "subs/gaeguri_ep470_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 472,
-  "date": "2027-01-28",
+  "date": "2027-01-27",
   "title": "Korean 'AYA!' = Tamil 'AIYAA'?! 🤕🙏🐸",
   "desc": "아야 (aya) = OUCH! 🤕\nTamil ஐயா (aiyaa) = SIR! 🙏\nPair takraya: 'aya!'... Tamil uncle: 'ji?' 😂\nAapka ouch word: aiyo ya aya? 👇\n#LearnKorean #KoreanTamil #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep472_aya-ouch-tamil-aiyaa.mp4",
   "srt": "subs/gaeguri_ep472_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
-  "ep": 163,
+  "ep": 154,
   "date": "2027-01-28",
-  "title": "Indian food = CURRY? NAHI! Roti vs Rice 🫓🍚🐸",
-  "desc": "Korean dost: '인도 음식은 다 카레야?' (sab curry hai?) 🤔\nNorth: roti, paneer, rajma 🫓\nSouth: rice, sambar, rasam 🍚\nKorea = rice lovers... matlab Team South! 😂\nAap Team Roti ya Team Rice? 👇\n#IndianFood #KoreaVsIndia #SouthIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep163_north-roti-south-rice.mp4",
-  "srt": "subs/gaeguri_ep163_ta.srt",
+  "title": "India ki SHAADI = DANCE? Korean dost SHOCKED 💃🐸",
+  "desc": "Korean dost: '결혼식에서 춤춰?' (shaadi mein dance?!) 😱\nIndia: sangeet ki practice ek mahina pehle se 🎶\nKorea: wedding hall mein ceremony, lagbhag 1 ghanta ⏱️\nIndia: 3 din + uncle non-stop 🕺😂\nShaadi mein aapka signature step? 👇\n#IndianWedding #KoreaVsIndia #Sangeet\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep154_sangeet-dance-explained.mp4",
+  "srt": "subs/gaeguri_ep154_ta.srt",
   "status": "pending",
   "series": "IN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 474,
@@ -2566,18 +2545,18 @@
   "media": "media/reels/ep474_korea-kiosk-no-waiter.mp4",
   "srt": "subs/gaeguri_ep474_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 475,
-  "date": "2027-01-29",
+  "date": "2027-01-28",
   "title": "K-drama ka fav word: 뭐야 'MWOYA?!' 😳🐸",
   "desc": "뭐야 (mwoya) = 'yeh kya hai?!' 😳\nK-drama mein har doosri line!\nDesi mwoya: mummy + mera room 😂\nComment karo: mwoya! 👇\n#LearnKorean #KDrama #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep475_mwoya-yeh-kya-hai.mp4",
   "srt": "subs/gaeguri_ep475_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
@@ -2588,7 +2567,7 @@
   "media": "media/reels/ep476_gureum-cloud-not-garam.mp4",
   "srt": "subs/gaeguri_ep476_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "QUIZ"
  },
  {
@@ -2599,19 +2578,19 @@
   "media": "media/reels/ep478_kan-box-hindi-kaan-tamil-kann.mp4",
   "srt": "subs/gaeguri_ep478_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "SAME"
  },
  {
-  "ep": 174,
-  "date": "2027-01-30",
-  "title": "K-drama villain = TRUCK?! 🚚😱🐸",
-  "desc": "K-drama ka sabse bada villain: achanak TRUCK 🚚😱\nHeadlights... slow motion... episode khatam!\nBollywood: mele mein bichhde bhai, 20 saal baad ek gaana 🎤😂\nTruck ya mela — team kaun? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep174_truck-of-doom-vs-mela-bichhde.mp4",
-  "srt": "subs/gaeguri_ep174_ta.srt",
+  "ep": 163,
+  "date": "2027-01-29",
+  "title": "Indian food = CURRY? NAHI! Roti vs Rice 🫓🍚🐸",
+  "desc": "Korean dost: '인도 음식은 다 카레야?' (sab curry hai?) 🤔\nNorth: roti, paneer, rajma 🫓\nSouth: rice, sambar, rasam 🍚\nKorea = rice lovers... matlab Team South! 😂\nAap Team Roti ya Team Rice? 👇\n#IndianFood #KoreaVsIndia #SouthIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep163_north-roti-south-rice.mp4",
+  "srt": "subs/gaeguri_ep163_ta.srt",
   "status": "pending",
-  "series": "KDRAMA",
-  "time": "01:00"
+  "series": "IN",
+  "time": "22:00"
  },
  {
   "ep": 479,
@@ -2621,7 +2600,7 @@
   "media": "media/reels/ep479_soreum-goosebumps-rongte.mp4",
   "srt": "subs/gaeguri_ep479_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -2632,18 +2611,18 @@
   "media": "media/reels/ep480_gom-bear-not-gum.mp4",
   "srt": "subs/gaeguri_ep480_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "QUIZ"
  },
  {
   "ep": 481,
-  "date": "2027-01-31",
+  "date": "2027-01-30",
   "title": "Korea restaurant: FREE 물티슈! 🧻🐸",
   "desc": "Korea restaurant mein baitho... free 물티슈 (wet tissue)! 🧻\nMul = paani + tissue 💧\nIndia: finger bowl + nimbu... peena ya dhona? 😂\nFinger bowl piya kabhi? Haan ya na? 👇\n#KoreaLife #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep481_korea-free-wet-tissue-vs-finger-bowl.mp4",
   "srt": "subs/gaeguri_ep481_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "KR"
  },
  {
@@ -2654,29 +2633,29 @@
   "media": "media/reels/ep482_mok-neck-tamil-mookku-nose.mp4",
   "srt": "subs/gaeguri_ep482_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
  },
  {
-  "ep": 175,
+  "ep": 174,
   "date": "2027-01-31",
-  "title": "Paani par GHAR?! Korean dost shocked 🛶😱🐸",
-  "desc": "Korean dost ko Kerala ke backwaters samjhaye 🌴\nHouseboat: bedroom, kitchen... sab paani par! 🛶\nKerala mein lagbhag 900 km backwaters 😱\nHouseboat par rahoge? Haan ya na? 👇\n#Kerala #IncredibleIndia #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep175_kerala-backwaters-houseboat.mp4",
-  "srt": "subs/gaeguri_ep175_ta.srt",
+  "title": "K-drama villain = TRUCK?! 🚚😱🐸",
+  "desc": "K-drama ka sabse bada villain: achanak TRUCK 🚚😱\nHeadlights... slow motion... episode khatam!\nBollywood: mele mein bichhde bhai, 20 saal baad ek gaana 🎤😂\nTruck ya mela — team kaun? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep174_truck-of-doom-vs-mela-bichhde.mp4",
+  "srt": "subs/gaeguri_ep174_ta.srt",
   "status": "pending",
-  "series": "IN",
-  "time": "22:00"
+  "series": "KDRAMA",
+  "time": "16:30"
  },
  {
   "ep": 483,
-  "date": "2027-02-01",
+  "date": "2027-01-31",
   "title": "Korean mein 'KITNE KA HAI?' 얼마예요 💸🐸",
   "desc": "얼마예요? (eolmayeyo) = kitne ka hai? 💸\nShop: 오천 원이요 (5,000 won)\nDesi reflex: '4,000 mein do!' 😂\nAap bargain karte ho? Haan ya na? 👇\n#LearnKorean #KDrama #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep483_eolmayeyo-kitne-ka-hai.mp4",
   "srt": "subs/gaeguri_ep483_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
@@ -2687,7 +2666,7 @@
   "media": "media/reels/ep485_jang-market-not-war.mp4",
   "srt": "subs/gaeguri_ep485_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "QUIZ"
  },
  {
@@ -2698,30 +2677,30 @@
   "media": "media/reels/ep486_korea-delivery-bowls-outside-door.mp4",
   "srt": "subs/gaeguri_ep486_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 487,
-  "date": "2027-02-02",
+  "date": "2027-02-01",
   "title": "Hindi NAAM = Korean STRANGER?! 남 🪪🐸",
   "desc": "남 (nam) = others / paraya 👥\nHindi नाम (naam) = NAME 🪪\nAunty: 'naam?'... Korean: 'nam? stranger!' 😂\nApne naam ka matlab pata hai? Haan ya na? 👇\n#LearnKorean #KoreanTamil #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep487_nam-stranger-hindi-naam-name.mp4",
   "srt": "subs/gaeguri_ep487_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
-  "ep": 177,
+  "ep": 175,
   "date": "2027-02-02",
-  "title": "India mein MISSED CALL = language! 📱😂🐸",
-  "desc": "Korean dost: 'phone kyun nahi uthaya?' 🤔\nIndia: 1 ring = pahunch gaya 📍 | 2 ring = neeche aao ⬇️\nUthaana nahi — yahi message hai! 😂\nAapne kabhi missed call code use kiya? 👇\n#IndianThings #Desi #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep177_missed-call-language.mp4",
-  "srt": "subs/gaeguri_ep177_ta.srt",
+  "title": "Paani par GHAR?! Korean dost shocked 🛶😱🐸",
+  "desc": "Korean dost ko Kerala ke backwaters samjhaye 🌴\nHouseboat: bedroom, kitchen... sab paani par! 🛶\nKerala mein lagbhag 900 km backwaters 😱\nHouseboat par rahoge? Haan ya na? 👇\n#Kerala #IncredibleIndia #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep175_kerala-backwaters-houseboat.mp4",
+  "srt": "subs/gaeguri_ep175_ta.srt",
   "status": "pending",
   "series": "IN",
-  "time": "16:30"
+  "time": "01:00"
  },
  {
   "ep": 488,
@@ -2731,18 +2710,18 @@
   "media": "media/reels/ep488_korea-school-year-starts-march.mp4",
   "srt": "subs/gaeguri_ep488_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 489,
-  "date": "2027-02-03",
+  "date": "2027-02-02",
   "title": "Korean 'PAGAL HAI KYA?!' = 미쳤어 🤯🐸",
   "desc": "미쳤어 (michyeosseo) = 'pagal hai kya?!' 🤪\nKhane ke liye = itna tasty, pagalpan! 🤤\nMummy ke rajma pe: 'michyeosseo!' 😂\nMummy ki best dish? Ek word! 👇\n#LearnKorean #KDrama #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep489_michyeosseo-pagal-hai-kya.mp4",
   "srt": "subs/gaeguri_ep489_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
@@ -2753,7 +2732,7 @@
   "media": "media/reels/ep490_man-ten-thousand-not-mann.mp4",
   "srt": "subs/gaeguri_ep490_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "QUIZ"
  },
  {
@@ -2764,19 +2743,19 @@
   "media": "media/reels/ep491_ap-front-hindi-aap-you.mp4",
   "srt": "subs/gaeguri_ep491_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "SAME"
  },
  {
-  "ep": 191,
-  "date": "2027-02-04",
-  "title": "India ka 'JI' = Korea ka 'NIM'! 🤝🐸",
-  "desc": "India mein har naam ke baad 'ji' — Sharma ji, Aunty ji, Papa ji 🙌\nKorea mein bhi! 선생님 (seonsaeng-nim) = teacher ji 👩‍🏫\n'-님 (nim)' = respect wala 'ji' 🤝\nAap teacher ko kya bolte: sir, ma'am ya ji? 👇\n#LearnKorean #IndianCulture #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep191_ji-vs-nim.mp4",
-  "srt": "subs/gaeguri_ep191_ta.srt",
+  "ep": 177,
+  "date": "2027-02-03",
+  "title": "India mein MISSED CALL = language! 📱😂🐸",
+  "desc": "Korean dost: 'phone kyun nahi uthaya?' 🤔\nIndia: 1 ring = pahunch gaya 📍 | 2 ring = neeche aao ⬇️\nUthaana nahi — yahi message hai! 😂\nAapne kabhi missed call code use kiya? 👇\n#IndianThings #Desi #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep177_missed-call-language.mp4",
+  "srt": "subs/gaeguri_ep177_ta.srt",
   "status": "pending",
   "series": "IN",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 492,
@@ -2786,7 +2765,7 @@
   "media": "media/reels/ep492_deowo-its-hot-india-365.mp4",
   "srt": "subs/gaeguri_ep492_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -2797,18 +2776,18 @@
   "media": "media/reels/ep493_miyeokguk-meokda-exam-fail.mp4",
   "srt": "subs/gaeguri_ep493_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 494,
-  "date": "2027-02-05",
+  "date": "2027-02-04",
   "title": "Korean word 밀 'MIL' ka matlab? 🌾🐸",
   "desc": "밀 (mil) sunke laga Hindi 'mil gaya' 🤝\nPar matlab: GEHU! 🌾\n밀가루 (milgaru) = atta 🫓\n'Aata mil gaya?' 'Milgaru mil gaya!' 😂\nAapke ghar: roti ya chawal? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep494_mil-wheat-milgaru-atta.mp4",
   "srt": "subs/gaeguri_ep494_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
@@ -2819,29 +2798,29 @@
   "media": "media/reels/ep495_iri-wa-come-tamil-iru-wait.mp4",
   "srt": "subs/gaeguri_ep495_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
  },
  {
-  "ep": 195,
+  "ep": 191,
   "date": "2027-02-05",
-  "title": "K-drama twist: BACHPAN mein mile the! 😱💛🐸",
-  "desc": "K-drama ka favourite twist: hero-heroine bachpan mein mile the! 😱 Flashback 🎞️\nBollywood: bachpan ka LOCKET — aadha tumhara, aadha mera 💛\nLocket kho gaya? Story khatam 😂\nFlashback ya locket — team kaun? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep195_childhood-fate-vs-locket.mp4",
-  "srt": "subs/gaeguri_ep195_ta.srt",
+  "title": "India ka 'JI' = Korea ka 'NIM'! 🤝🐸",
+  "desc": "India mein har naam ke baad 'ji' — Sharma ji, Aunty ji, Papa ji 🙌\nKorea mein bhi! 선생님 (seonsaeng-nim) = teacher ji 👩‍🏫\n'-님 (nim)' = respect wala 'ji' 🤝\nAap teacher ko kya bolte: sir, ma'am ya ji? 👇\n#LearnKorean #IndianCulture #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep191_ji-vs-nim.mp4",
+  "srt": "subs/gaeguri_ep191_ta.srt",
   "status": "pending",
-  "series": "KDRAMA",
-  "time": "22:00"
+  "series": "IN",
+  "time": "16:30"
  },
  {
   "ep": 496,
-  "date": "2027-02-06",
+  "date": "2027-02-05",
   "title": "Korean 'RED DAY' = CHHUTTI! 빨간 날 🔴🐸",
   "desc": "빨간 날 (ppalgan nal) = red day = holiday! 🔴\nCalendar pe laal = chhutti 🎉\nIndia: laal din... phir bhi 'extra class' 😭😂\nFav laal din? Ek festival bolo! 👇\n#LearnKorean #KDrama #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep496_ppalgan-nal-red-day-holiday.mp4",
   "srt": "subs/gaeguri_ep496_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
@@ -2852,8 +2831,19 @@
   "media": "media/reels/ep498_baechu-cabbage-hindi-bachchu.mp4",
   "srt": "subs/gaeguri_ep498_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
+ },
+ {
+  "ep": 499,
+  "date": "2027-02-06",
+  "title": "Korea office: 12 BAJE = sab ek saath LUNCH! 🍱🐸",
+  "desc": "Korea office mein 12:00 = 점심시간 (jeomsim sigan) 🍱\nSab ek saath uthte hain... lift full, restaurant full! 🏃\nDesi office: lunch 'jab time mile' — 2 baje, 3 baje 😂\nAapka lunch: 12 ya 2 baje? 👇\n#KoreaLife #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep499_jeomsim-12-sharp-lunch.mp4",
+  "srt": "subs/gaeguri_ep499_ta.srt",
+  "status": "pending",
+  "time": "16:30",
+  "series": "KR"
  },
  {
   "ep": 98,
@@ -2868,17 +2858,6 @@
   "video_id": "hxKrWAPSg9c"
  },
  {
-  "ep": 499,
-  "date": "2027-02-07",
-  "title": "Korea office: 12 BAJE = sab ek saath LUNCH! 🍱🐸",
-  "desc": "Korea office mein 12:00 = 점심시간 (jeomsim sigan) 🍱\nSab ek saath uthte hain... lift full, restaurant full! 🏃\nDesi office: lunch 'jab time mile' — 2 baje, 3 baje 😂\nAapka lunch: 12 ya 2 baje? 👇\n#KoreaLife #KoreaVsIndia #KoreanCulture\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep499_jeomsim-12-sharp-lunch.mp4",
-  "srt": "subs/gaeguri_ep499_ta.srt",
-  "status": "pending",
-  "time": "01:00",
-  "series": "KR"
- },
- {
   "ep": 500,
   "date": "2027-02-07",
   "title": "Korean ka 'ACHHA' = 그래 'GEURAE'! 3 matlab 🤯🐸",
@@ -2886,29 +2865,29 @@
   "media": "media/reels/ep500_geurae-achha-every-meaning.mp4",
   "srt": "subs/gaeguri_ep500_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
-  "ep": 205,
+  "ep": 195,
   "date": "2027-02-07",
-  "title": "'COUSIN-BROTHER' sunke Korean confuse! 🤯👬🐸",
-  "desc": "Korean dost: 'cousin-BROTHER? cousin ya brother?' 🤯\nIndia: cousin-brother, cousin-sister, aur cousin ka dost bhi 'bhai' 😂\nKorea mein bhi: bade dost = 형 (hyung) / 오빠 (oppa)\nToh dono jagah sab family! 💚\nAapke kitne cousins hain? Number batao 👇\n#IndianEnglish #KoreaVsIndia #Desi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep205_cousin-brother-explained.mp4",
-  "srt": "subs/gaeguri_ep205_ta.srt",
+  "title": "K-drama twist: BACHPAN mein mile the! 😱💛🐸",
+  "desc": "K-drama ka favourite twist: hero-heroine bachpan mein mile the! 😱 Flashback 🎞️\nBollywood: bachpan ka LOCKET — aadha tumhara, aadha mera 💛\nLocket kho gaya? Story khatam 😂\nFlashback ya locket — team kaun? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep195_childhood-fate-vs-locket.mp4",
+  "srt": "subs/gaeguri_ep195_ta.srt",
   "status": "pending",
-  "series": "IN",
-  "time": "22:00"
+  "series": "KDRAMA",
+  "time": "16:30"
  },
  {
   "ep": 501,
-  "date": "2027-02-08",
+  "date": "2027-02-07",
   "title": "Korean word 뱀 'BAEM' = BOMB?! 💣🐸",
   "desc": "뱀 (baem) sunke laga 'BAM' = bomb 💣\nPar matlab: SAANP! 🐍\nKorea mein bhi zodiac ka 'year of the snake' hota hai 🐍\nAapko darr: saanp ya chhipkali? 👇\n#LearnKorean #KoreanWords #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep501_baem-snake-not-bomb.mp4",
   "srt": "subs/gaeguri_ep501_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "QUIZ"
  },
  {
@@ -2919,7 +2898,7 @@
   "media": "media/reels/ep502_chum-dance-tamil-chumma.mp4",
   "srt": "subs/gaeguri_ep502_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
  },
  {
@@ -2930,30 +2909,30 @@
   "media": "media/reels/ep503_banmal-jondaenmal-tu-aap.mp4",
   "srt": "subs/gaeguri_ep503_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
   "ep": 504,
-  "date": "2027-02-09",
+  "date": "2027-02-08",
   "title": "Korean 'BILKUL!' = 당연하지 'DANGYEONHAJI'! 💯🐸",
   "desc": "당연하지! (dangyeonhaji) = OF COURSE! = 'bilkul!' 💯\nPolite: 당연하죠 (dangyeonhajyo)\n'Chai piyoge?' — 'Dangyeonhaji!' ☕😂\nMummy: 'Pizza khaoge?' Aap: ? 👇\n#LearnKorean #KDrama #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep504_dangyeonhaji-of-course-bilkul.mp4",
   "srt": "subs/gaeguri_ep504_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
-  "ep": 216,
+  "ep": 205,
   "date": "2027-02-09",
-  "title": "K-drama BACK HUG vs Bollywood OPEN ARMS! 🤗🌼🐸",
-  "desc": "K-drama: 백허그 (back hug) — peeche se, chupke se 🤗\nBollywood: sarson ke khet mein, door se bhaag ke, arms OPEN! 🌼🏃\nKorea: slow-motion | India: slow-motion + violin + 200 dancers 😂\nAap kaun: back hug ya open arms? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep216_back-hug-vs-open-arms.mp4",
-  "srt": "subs/gaeguri_ep216_ta.srt",
+  "title": "'COUSIN-BROTHER' sunke Korean confuse! 🤯👬🐸",
+  "desc": "Korean dost: 'cousin-BROTHER? cousin ya brother?' 🤯\nIndia: cousin-brother, cousin-sister, aur cousin ka dost bhi 'bhai' 😂\nKorea mein bhi: bade dost = 형 (hyung) / 오빠 (oppa)\nToh dono jagah sab family! 💚\nAapke kitne cousins hain? Number batao 👇\n#IndianEnglish #KoreaVsIndia #Desi\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep205_cousin-brother-explained.mp4",
+  "srt": "subs/gaeguri_ep205_ta.srt",
   "status": "pending",
-  "series": "KDRAMA",
-  "time": "16:30"
+  "series": "IN",
+  "time": "01:00"
  },
  {
   "ep": 505,
@@ -2963,18 +2942,18 @@
   "media": "media/reels/ep505_geomi-spider-not-garmi.mp4",
   "srt": "subs/gaeguri_ep505_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "QUIZ"
  },
  {
   "ep": 506,
-  "date": "2027-02-10",
+  "date": "2027-02-09",
   "title": "Korean 'ZAMEEN' = Hindi 'TAANG'?! 땅 🦵🐸",
   "desc": "땅 (ttang) = GROUND / zameen 🌍\nHindi टांग (taang) = LEG 🦵\nKorean: ttang pe khade raho! Desi: taang pe khade raho! 😂\nDono sahi! 🐸\nCricket mein: taang ya ttang? 👇\n#LearnKorean #KoreanHindi #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep506_ttang-ground-hindi-taang.mp4",
   "srt": "subs/gaeguri_ep506_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
@@ -2985,7 +2964,7 @@
   "media": "media/reels/ep508_pigonhae-tired-thak-gaya.mp4",
   "srt": "subs/gaeguri_ep508_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "LEARN"
  },
  {
@@ -2996,19 +2975,19 @@
   "media": "media/reels/ep509_sanhujoriwon-vs-naani-ghar.mp4",
   "srt": "subs/gaeguri_ep509_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "KR"
  },
  {
-  "ep": 244,
-  "date": "2027-02-11",
-  "title": "K-drama DATE vs Bollywood DATE! 🍜🏔️🐸",
-  "desc": "K-drama date: convenience store ke bahar plastic table + cup noodles 🍜\nBollywood date: seedha barfeele pahaad, chiffon saree aur gaana 🏔️🎶\nMera budget? Kodai lake + chai ☕🐸\nDate: noodles ya pahaad? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep244_kdrama-store-date-vs-snow-song.mp4",
-  "srt": "subs/gaeguri_ep244_ta.srt",
+  "ep": 216,
+  "date": "2027-02-10",
+  "title": "K-drama BACK HUG vs Bollywood OPEN ARMS! 🤗🌼🐸",
+  "desc": "K-drama: 백허그 (back hug) — peeche se, chupke se 🤗\nBollywood: sarson ke khet mein, door se bhaag ke, arms OPEN! 🌼🏃\nKorea: slow-motion | India: slow-motion + violin + 200 dancers 😂\nAap kaun: back hug ya open arms? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep216_back-hug-vs-open-arms.mp4",
+  "srt": "subs/gaeguri_ep216_ta.srt",
   "status": "pending",
   "series": "KDRAMA",
-  "time": "01:00"
+  "time": "22:00"
  },
  {
   "ep": 510,
@@ -3018,7 +2997,7 @@
   "media": "media/reels/ep510_anae-wife-tamil-aanaa-but.mp4",
   "srt": "subs/gaeguri_ep510_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "SAME"
  },
  {
@@ -3029,18 +3008,18 @@
   "media": "media/reels/ep511_jwi-mouse-not-ji.mp4",
   "srt": "subs/gaeguri_ep511_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "QUIZ"
  },
  {
   "ep": 512,
-  "date": "2027-02-12",
+  "date": "2027-02-11",
   "title": "Korean 'HASA HASA KE MAAR DIYA' = 너무 웃겨! 🤣🐸",
   "desc": "너무 웃겨 (neomu utgyeo) = SO FUNNY! 🤣\n= 'hasa hasa ke maar diya!'\nChat mein Korean hasna: ㅋㅋㅋ (kkk) 😂\nDesi: 'hahaha' / 'lol' 🤣\nAap chat mein: ㅋㅋㅋ ya hahaha? 👇\n#LearnKorean #KDrama #KoreanWords\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep512_neomu-utgyeo-so-funny.mp4",
   "srt": "subs/gaeguri_ep512_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "LEARN"
  },
  {
@@ -3051,29 +3030,29 @@
   "media": "media/reels/ep513_hwanseung-free-transfer.mp4",
   "srt": "subs/gaeguri_ep513_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "KR"
  },
  {
-  "ep": 265,
+  "ep": 244,
   "date": "2027-02-12",
-  "title": "K-drama CHHAATA vs Bollywood TRAIN! ☂️🚂🐸",
-  "desc": "K-drama mein baarish = EK chhaata ☂️\nOppa bheeg jaata hai, heroine dry 💦😂\nBollywood: 'haath do!' ... train chal padi 🚂🏃‍♀️\nK-drama: chhaata share | Filmy: train chase\nTeam kaun? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
-  "media": "media/reels/ep265_umbrella-share-vs-train-hand.mp4",
-  "srt": "subs/gaeguri_ep265_ta.srt",
+  "title": "K-drama DATE vs Bollywood DATE! 🍜🏔️🐸",
+  "desc": "K-drama date: convenience store ke bahar plastic table + cup noodles 🍜\nBollywood date: seedha barfeele pahaad, chiffon saree aur gaana 🏔️🎶\nMera budget? Kodai lake + chai ☕🐸\nDate: noodles ya pahaad? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep244_kdrama-store-date-vs-snow-song.mp4",
+  "srt": "subs/gaeguri_ep244_ta.srt",
   "status": "pending",
   "series": "KDRAMA",
-  "time": "22:00"
+  "time": "16:30"
  },
  {
   "ep": 514,
-  "date": "2027-02-13",
+  "date": "2027-02-12",
   "title": "Korean 'PAHAAD' = Hindi 'SAN'?! 산 ⛰️🐸",
   "desc": "산 (san) = MOUNTAIN ⛰️\nHindi सन् (san) = YEAR — 'san 2028'! 📅\nKorea ka ~70% hissa pahaad! ⛰️\nKorean: 'san jaayenge' = pahaad! Desi: 'san 2028' = saal! 😂\nWeekend: pahaad ya beach? 👇\n#LearnKorean #KoreanHindi #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep514_san-mountain-hindi-san-year.mp4",
   "srt": "subs/gaeguri_ep514_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
  },
  {
@@ -3084,7 +3063,7 @@
   "media": "media/reels/ep515_gil-road-not-geela.mp4",
   "srt": "subs/gaeguri_ep515_ta.srt",
   "status": "pending",
-  "time": "16:30",
+  "time": "01:00",
   "series": "QUIZ"
  },
  {
@@ -3095,19 +3074,30 @@
   "media": "media/reels/ep516_geumanhae-stop-bas-karo.mp4",
   "srt": "subs/gaeguri_ep516_ta.srt",
   "status": "pending",
-  "time": "22:00",
+  "time": "16:30",
   "series": "LEARN"
  },
  {
   "ep": 517,
-  "date": "2027-02-14",
+  "date": "2027-02-13",
   "title": "Korean 'BETI' = Hindi 'DAAL'?! 딸 🍛🐸",
   "desc": "딸 (ttal) = DAUGHTER 👧\nHindi दाल (daal) = DAL 🍛\nAur 아들 (adeul) = SON 👦\nKorean papa: 'ttal!' — desi papa: 'daal laao!' 😂\nAapke ghar daal: roz ya kabhi kabhi? 👇\n#LearnKorean #KoreanHindi #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep517_ttal-daughter-hindi-daal.mp4",
   "srt": "subs/gaeguri_ep517_ta.srt",
   "status": "pending",
-  "time": "01:00",
+  "time": "22:00",
   "series": "SAME"
+ },
+ {
+  "ep": 265,
+  "date": "2027-02-14",
+  "title": "K-drama CHHAATA vs Bollywood TRAIN! ☂️🚂🐸",
+  "desc": "K-drama mein baarish = EK chhaata ☂️\nOppa bheeg jaata hai, heroine dry 💦😂\nBollywood: 'haath do!' ... train chal padi 🚂🏃‍♀️\nK-drama: chhaata share | Filmy: train chase\nTeam kaun? 👇\n#KDrama #Bollywood #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
+  "media": "media/reels/ep265_umbrella-share-vs-train-hand.mp4",
+  "srt": "subs/gaeguri_ep265_ta.srt",
+  "status": "pending",
+  "series": "KDRAMA",
+  "time": "01:00"
  },
  {
   "ep": 518,
