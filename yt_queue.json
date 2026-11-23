@@ -3015,12 +3015,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "22:00",
-  "video_id": "-Zy0FVel1gU",
-  "resched": true,
-  "resched_from": [
-   "2026-11-27",
-   "01:00"
-  ]
+  "video_id": "-Zy0FVel1gU"
  },
  {
   "ep": 53,
