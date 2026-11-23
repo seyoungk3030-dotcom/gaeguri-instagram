@@ -478,12 +478,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "22:00",
-  "video_id": "Hqr-fzcDqLU",
-  "resched": true,
-  "resched_from": [
-   "2027-02-27",
-   "22:00"
-  ]
+  "video_id": "Hqr-fzcDqLU"
  },
  {
   "ep": 301,
@@ -5216,12 +5211,7 @@
   "status": "scheduled",
   "video_id": "q45JC2-G0Tg",
   "time": "16:30",
-  "series": "DESI",
-  "resched": true,
-  "resched_from": [
-   "2026-11-30",
-   "22:00"
-  ]
+  "series": "DESI"
  },
  {
   "ep": 32,
