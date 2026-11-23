@@ -271,9 +271,10 @@
   "desc": "막내 (maknae) = sabse chhota / youngest 👶\nHar K-pop group mein ek maknae hota hai 🎤\nHamare ghar mein? CHHOTU! 😂\nAap ghar ke maknae ho? 👇\n#LearnKorean #Kpop #KoreaVsIndia\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep286_maknae-chhotu-learn.mp4",
   "srt": "subs/gaeguri_ep286_ta.srt",
-  "status": "pending",
+  "status": "scheduled",
   "series": "LEARN",
-  "time": "01:00"
+  "time": "01:00",
+  "video_id": "hMPBrJEt6dk"
  },
  {
   "ep": 287,
@@ -1532,12 +1533,7 @@
   "status": "scheduled",
   "series": "KDRAMA",
   "time": "01:00",
-  "video_id": "26b6K_tSGaE",
-  "resched": true,
-  "resched_from": [
-   "2026-11-25",
-   "01:00"
-  ]
+  "video_id": "26b6K_tSGaE"
  },
  {
   "ep": 402,
