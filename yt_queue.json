@@ -622,12 +622,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "22:00",
-  "video_id": "CQOQpoLfX60",
-  "resched": true,
-  "resched_from": [
-   "2027-03-02",
-   "22:00"
-  ]
+  "video_id": "CQOQpoLfX60"
  },
  {
   "ep": 313,
@@ -2940,12 +2935,7 @@
   "status": "scheduled",
   "video_id": "RTIC9Ur2spc",
   "time": "16:30",
-  "series": "KR",
-  "resched": true,
-  "resched_from": [
-   "2026-12-04",
-   "22:00"
-  ]
+  "series": "KR"
  },
  {
   "ep": 128,
