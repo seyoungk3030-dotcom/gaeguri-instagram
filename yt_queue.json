@@ -5285,12 +5285,7 @@
   "status": "scheduled",
   "series": "KODAI",
   "time": "22:00",
-  "video_id": "X0FdRbVVYBw",
-  "resched": true,
-  "resched_from": [
-   "2026-12-10",
-   "22:00"
-  ]
+  "video_id": "X0FdRbVVYBw"
  },
  {
   "ep": 57,
