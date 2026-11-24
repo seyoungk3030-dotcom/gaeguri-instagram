@@ -4355,12 +4355,7 @@
   "status": "scheduled",
   "video_id": "_t-5M_tHIss",
   "time": "16:30",
-  "series": "QUIZ",
-  "resched": true,
-  "resched_from": [
-   "2026-12-03",
-   "22:00"
-  ]
+  "series": "QUIZ"
  },
  {
   "ep": 38,
