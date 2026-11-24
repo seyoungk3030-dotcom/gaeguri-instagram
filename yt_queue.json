@@ -754,12 +754,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "16:30",
-  "video_id": "m2fIaMeJfag",
-  "resched": true,
-  "resched_from": [
-   "2027-03-04",
-   "22:00"
-  ]
+  "video_id": "m2fIaMeJfag"
  },
  {
   "ep": 328,
