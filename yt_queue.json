@@ -562,12 +562,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "01:00",
-  "video_id": "F3AWmk7_L8w",
-  "resched": true,
-  "resched_from": [
-   "2027-03-01",
-   "22:00"
-  ]
+  "video_id": "F3AWmk7_L8w"
  },
  {
   "ep": 312,
