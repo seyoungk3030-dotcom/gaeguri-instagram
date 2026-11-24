@@ -5223,12 +5223,7 @@
   "status": "scheduled",
   "video_id": "UDNN_b6Cq-U",
   "time": "22:00",
-  "series": "VS",
-  "resched": true,
-  "resched_from": [
-   "2026-12-02",
-   "22:00"
-  ]
+  "series": "VS"
  },
  {
   "ep": 35,
