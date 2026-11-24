@@ -5237,12 +5237,7 @@
   "status": "scheduled",
   "video_id": "bY7GDyLAMe0",
   "time": "16:30",
-  "series": "VS",
-  "resched": true,
-  "resched_from": [
-   "2026-12-06",
-   "22:00"
-  ]
+  "series": "VS"
  },
  {
   "ep": 46,
