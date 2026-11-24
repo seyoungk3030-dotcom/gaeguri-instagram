@@ -511,9 +511,10 @@
   "desc": "K-drama: heroine giri... hero ne pakda... 5 second slow-mo 😍\nIndian serial: shock! zoom zoom zoom + dham dham dham 🥁😂\nTeam kaun: slow-mo ya zoom? 👇\n#KDrama #KoreaVsIndia #Serial\n\nTamil subtitles: CC 👆 | More on Instagram: @gaeguribhai 🐸",
   "media": "media/reels/ep307_slowmo-stare-vs-triple-zoom.mp4",
   "srt": "subs/gaeguri_ep307_ta.srt",
-  "status": "pending",
+  "status": "scheduled",
   "series": "KDRAMA",
-  "time": "22:00"
+  "time": "22:00",
+  "video_id": "7Bj48ckd-e4"
  },
  {
   "ep": 316,
@@ -2914,12 +2915,7 @@
   "status": "scheduled",
   "video_id": "cBOECXT9xpo",
   "time": "22:00",
-  "series": "SAME",
-  "resched": true,
-  "resched_from": [
-   "2026-12-01",
-   "22:00"
-  ]
+  "series": "SAME"
  },
  {
   "ep": 464,
