@@ -2199,12 +2199,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "22:00",
-  "video_id": "WMz5iUtzApM",
-  "resched": true,
-  "resched_from": [
-   "2026-12-15",
-   "22:00"
-  ]
+  "video_id": "WMz5iUtzApM"
  },
  {
   "ep": 495,
@@ -4405,12 +4400,7 @@
   "status": "scheduled",
   "series": "QUIZ",
   "time": "22:00",
-  "video_id": "uiifCvICLMs",
-  "resched": true,
-  "resched_from": [
-   "2026-12-13",
-   "22:00"
-  ]
+  "video_id": "uiifCvICLMs"
  },
  {
   "ep": 68,
@@ -5308,12 +5298,7 @@
   "status": "scheduled",
   "series": "VS",
   "time": "16:30",
-  "video_id": "wXkKr1sKE20",
-  "resched": true,
-  "resched_from": [
-   "2026-12-14",
-   "22:00"
-  ]
+  "video_id": "wXkKr1sKE20"
  },
  {
   "ep": 64,
