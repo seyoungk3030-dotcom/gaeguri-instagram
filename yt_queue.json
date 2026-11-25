@@ -3065,12 +3065,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "16:30",
-  "video_id": "Webegxe66oc",
-  "resched": true,
-  "resched_from": [
-   "2026-12-18",
-   "22:00"
-  ]
+  "video_id": "Webegxe66oc"
  },
  {
   "ep": 67,
@@ -5310,12 +5305,7 @@
   "status": "scheduled",
   "series": "DESI",
   "time": "22:00",
-  "video_id": "_RhxpIglW3k",
-  "resched": true,
-  "resched_from": [
-   "2026-12-16",
-   "22:00"
-  ]
+  "video_id": "_RhxpIglW3k"
  },
  {
   "ep": 65,
@@ -5327,12 +5317,7 @@
   "status": "scheduled",
   "series": "DESI",
   "time": "01:00",
-  "video_id": "b9XmGBY33lg",
-  "resched": true,
-  "resched_from": [
-   "2026-12-17",
-   "22:00"
-  ]
+  "video_id": "b9XmGBY33lg"
  },
  {
   "ep": 70,
