@@ -27,6 +27,11 @@ ordered by min(old slot, new slot) ascending (vacate/fill the soonest slots firs
    "오전 1:00" for 01:00. Zoom to verify, click 완료, then click 저장 (top right) and wait 3 s.
 3. Verify: reload the edit page; the visibility box must show the new date + time. Then delete `resched` and `resched_from` from
    the entry. Commit + push yt_queue.json after every 3 moves.
+   Note 2026-11-25: clicking 저장 by coordinate (718,77) can land on "변경사항 실행취소" when the page scroll differs (ep67 save was
+   silently lost once). Reliable: open the dialog via JS (click the leaf element whose text is exactly "예약됨" after scrollIntoView
+   center; date field is then at (415,450), time field (535,450)), pick the time with JS (click the visible `tp-yt-paper-item`
+   whose text equals the label), then save with JS: click `ytcp-button#save-button` (완료), wait 1.5 s, click `ytcp-button#save`
+   (저장), wait 3.5 s; `#save` should become disabled. Read back the date from the dialog div containing "공개로 예약".
 4. Never touch videos that are already public, never delete anything. If the new slot is less than 2 h away, skip and leave the flag.
 
 For each pending entry, ordered by (date, time) (skip slots already in the past: mark them `skipped_past`):
