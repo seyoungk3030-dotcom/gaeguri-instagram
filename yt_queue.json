@@ -3077,12 +3077,7 @@
   "status": "scheduled",
   "series": "KR",
   "time": "22:00",
-  "video_id": "-wHUAdd7nZM",
-  "resched": true,
-  "resched_from": [
-   "2026-12-19",
-   "22:00"
-  ]
+  "video_id": "-wHUAdd7nZM"
  },
  {
   "ep": 469,
@@ -3105,12 +3100,7 @@
   "status": "scheduled",
   "series": "KR",
   "time": "16:30",
-  "video_id": "5A7tgHqbsAo",
-  "resched": true,
-  "resched_from": [
-   "2026-12-21",
-   "22:00"
-  ]
+  "video_id": "5A7tgHqbsAo"
  },
  {
   "ep": 475,
@@ -4407,12 +4397,7 @@
   "status": "scheduled",
   "series": "QUIZ",
   "time": "01:00",
-  "video_id": "Dnemy2YUTZc",
-  "resched": true,
-  "resched_from": [
-   "2026-12-20",
-   "22:00"
-  ]
+  "video_id": "Dnemy2YUTZc"
  },
  {
   "ep": 73,
