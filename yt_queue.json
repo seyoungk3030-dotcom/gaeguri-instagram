@@ -5293,12 +5293,7 @@
   "status": "scheduled",
   "series": "VS",
   "time": "01:00",
-  "video_id": "MgPefjR_oFk",
-  "resched": true,
-  "resched_from": [
-   "2026-12-11",
-   "22:00"
-  ]
+  "video_id": "MgPefjR_oFk"
  },
  {
   "ep": 60,
