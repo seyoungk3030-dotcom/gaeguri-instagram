@@ -850,12 +850,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "01:00",
-  "video_id": "yNbwpT6k9zc",
-  "resched": true,
-  "resched_from": [
-   "2027-03-03",
-   "22:00"
-  ]
+  "video_id": "yNbwpT6k9zc"
  },
  {
   "ep": 357,
