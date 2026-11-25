@@ -67,3 +67,9 @@ For each pending entry, ordered by (date, time) (skip slots already in the past:
 10. Set the entry `status: "scheduled"`, `video_id`. Commit + push yt_queue.json after EVERY video (a run that times out
     before pushing leaves orphan uploads that the next run would duplicate).
 If YouTube says the daily upload limit is reached, stop and leave the rest pending. Never delete or edit already-public videos.
+
+Note 2026-11-25 (upload speed-up, verified on 12 uploads): step 3 can be done in JS — focus each `#textbox`,
+`document.execCommand('selectAll')` + `execCommand('insertText',false,text)` (emojis/Hangul OK), then compare innerText.
+AI radio / 힌디어 / 다음x3 / expand (`ytcp-icon-button#second-container-expand-button`) also work via JS clicks.
+Before clicking `#done-button`, assert `ytcp-datetime-picker` innerText has the date and its input value equals the time label.
+Subtitles: after 수동 자막 추가 wait ~4 s before clicking 파일 업로드, otherwise no file input appears (click again if so).
