@@ -1987,12 +1987,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "22:00",
-  "video_id": "E7xI68nZFXw",
-  "resched": true,
-  "resched_from": [
-   "2026-12-27",
-   "22:00"
-  ]
+  "video_id": "E7xI68nZFXw"
  },
  {
   "ep": 472,
