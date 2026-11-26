@@ -4428,12 +4428,7 @@
   "status": "scheduled",
   "series": "QUIZ",
   "time": "16:30",
-  "video_id": "JYzM7CnRI08",
-  "resched": true,
-  "resched_from": [
-   "2026-12-27",
-   "22:00"
-  ]
+  "video_id": "JYzM7CnRI08"
  },
  {
   "ep": 82,
