@@ -2308,12 +2308,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "01:00",
-  "video_id": "QrbufO5UlB8",
-  "resched": true,
-  "resched_from": [
-   "2026-12-26",
-   "22:00"
-  ]
+  "video_id": "QrbufO5UlB8"
  },
  {
   "ep": 503,
