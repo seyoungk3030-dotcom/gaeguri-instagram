@@ -5354,12 +5354,7 @@
   "status": "scheduled",
   "series": "VS",
   "time": "01:00",
-  "video_id": "V7bOUsFDG80",
-  "resched": true,
-  "resched_from": [
-   "2026-12-28",
-   "22:00"
-  ]
+  "video_id": "V7bOUsFDG80"
  },
  {
   "ep": 77,
