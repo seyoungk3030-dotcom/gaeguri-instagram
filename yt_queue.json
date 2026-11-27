@@ -2072,12 +2072,7 @@
   "status": "scheduled",
   "series": "KDRAMA",
   "time": "01:00",
-  "video_id": "26b6K_tSGaE",
-  "resched": true,
-  "resched_from": [
-   "2026-12-31",
-   "01:00"
-  ]
+  "video_id": "26b6K_tSGaE"
  },
  {
   "ep": 481,
@@ -3188,12 +3183,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "01:00",
-  "video_id": "vhXpx_8fQu0",
-  "resched": true,
-  "resched_from": [
-   "2027-01-03",
-   "22:00"
-  ]
+  "video_id": "vhXpx_8fQu0"
  },
  {
   "ep": 476,
@@ -5393,12 +5383,7 @@
   "status": "scheduled",
   "series": "DESI",
   "time": "01:00",
-  "video_id": "9OVUPukaOTw",
-  "resched": true,
-  "resched_from": [
-   "2027-01-02",
-   "22:00"
-  ]
+  "video_id": "9OVUPukaOTw"
  },
  {
   "ep": 83,
