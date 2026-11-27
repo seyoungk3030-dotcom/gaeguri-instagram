@@ -2614,12 +2614,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "16:30",
-  "video_id": "i793cMlq8So",
-  "resched": true,
-  "resched_from": [
-   "2027-01-24",
-   "22:00"
-  ]
+  "video_id": "i793cMlq8So"
  },
  {
   "ep": 539,
