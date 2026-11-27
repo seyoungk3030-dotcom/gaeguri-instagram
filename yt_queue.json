@@ -4445,12 +4445,7 @@
   "status": "scheduled",
   "series": "QUIZ",
   "time": "16:30",
-  "video_id": "CBinyeFXajU",
-  "resched": true,
-  "resched_from": [
-   "2027-01-25",
-   "22:00"
-  ]
+  "video_id": "CBinyeFXajU"
  },
  {
   "ep": 103,
@@ -4462,12 +4457,7 @@
   "status": "scheduled",
   "series": "QUIZ",
   "time": "22:00",
-  "video_id": "akc2Hyf6Vs4",
-  "resched": true,
-  "resched_from": [
-   "2027-01-27",
-   "22:00"
-  ]
+  "video_id": "akc2Hyf6Vs4"
  },
  {
   "ep": 110,
@@ -5397,12 +5387,7 @@
   "status": "scheduled",
   "series": "VS",
   "time": "16:30",
-  "video_id": "lbYnSQO87Ck",
-  "resched": true,
-  "resched_from": [
-   "2027-01-26",
-   "22:00"
-  ]
+  "video_id": "lbYnSQO87Ck"
  },
  {
   "ep": 104,
@@ -5414,12 +5399,7 @@
   "status": "scheduled",
   "series": "FOOD",
   "time": "22:00",
-  "video_id": "-e9aRc3U-kY",
-  "resched": true,
-  "resched_from": [
-   "2027-01-28",
-   "22:00"
-  ]
+  "video_id": "-e9aRc3U-kY"
  },
  {
   "ep": 105,
@@ -5431,12 +5411,7 @@
   "status": "scheduled",
   "series": "KODAI",
   "time": "01:00",
-  "video_id": "-ePgZcHO2BM",
-  "resched": true,
-  "resched_from": [
-   "2027-01-29",
-   "22:00"
-  ]
+  "video_id": "-ePgZcHO2BM"
  },
  {
   "ep": 107,
@@ -5448,12 +5423,7 @@
   "status": "scheduled",
   "series": "DESI",
   "time": "16:30",
-  "video_id": "dkqdgOMnzc4",
-  "resched": true,
-  "resched_from": [
-   "2027-01-30",
-   "22:00"
-  ]
+  "video_id": "dkqdgOMnzc4"
  },
  {
   "ep": 113,
