@@ -3232,12 +3232,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "01:00",
-  "video_id": "1TAcRhb9LAQ",
-  "resched": true,
-  "resched_from": [
-   "2027-01-19",
-   "22:00"
-  ]
+  "video_id": "1TAcRhb9LAQ"
  },
  {
   "ep": 95,
@@ -3249,12 +3244,7 @@
   "status": "scheduled",
   "series": "KR",
   "time": "16:30",
-  "video_id": "RuSOwHqGwbg",
-  "resched": true,
-  "resched_from": [
-   "2027-01-20",
-   "22:00"
-  ]
+  "video_id": "RuSOwHqGwbg"
  },
  {
   "ep": 480,
@@ -4453,12 +4443,7 @@
   "status": "scheduled",
   "series": "LEARN",
   "time": "01:00",
-  "video_id": "XWskdagU1Q8",
-  "resched": true,
-  "resched_from": [
-   "2027-01-21",
-   "22:00"
-  ]
+  "video_id": "XWskdagU1Q8"
  },
  {
   "ep": 101,
