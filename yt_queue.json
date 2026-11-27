@@ -3209,12 +3209,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "16:30",
-  "video_id": "eoJav6kb06U",
-  "resched": true,
-  "resched_from": [
-   "2027-01-17",
-   "22:00"
-  ]
+  "video_id": "eoJav6kb06U"
  },
  {
   "ep": 149,
@@ -5391,12 +5386,7 @@
   "status": "scheduled",
   "series": "VS",
   "time": "16:30",
-  "video_id": "8HQ5Dqk7LiE",
-  "resched": true,
-  "resched_from": [
-   "2027-01-16",
-   "22:00"
-  ]
+  "video_id": "8HQ5Dqk7LiE"
  },
  {
   "ep": 93,
@@ -5408,12 +5398,7 @@
   "status": "scheduled",
   "series": "DESI",
   "time": "22:00",
-  "video_id": "60-x3qLaiAs",
-  "resched": true,
-  "resched_from": [
-   "2027-01-18",
-   "22:00"
-  ]
+  "video_id": "60-x3qLaiAs"
  },
  {
   "ep": 99,
