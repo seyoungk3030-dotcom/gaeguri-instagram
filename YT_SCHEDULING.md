@@ -73,3 +73,8 @@ Note 2026-11-25 (upload speed-up, verified on 12 uploads): step 3 can be done in
 AI radio / 힌디어 / 다음x3 / expand (`ytcp-icon-button#second-container-expand-button`) also work via JS clicks.
 Before clicking `#done-button`, assert `ytcp-datetime-picker` innerText has the date and its input value equals the time label.
 Subtitles: after 수동 자막 추가 wait ~4 s before clicking 파일 업로드, otherwise no file input appears (click again if so).
+
+Note 2026-11-27 (resched fully in JS, verified on 12 moves + reload read-back): after opening the 예약됨 dialog, click
+`ytcp-datetime-picker`'s `#datepicker-trigger`, take the visible `input.tp-yt-paper-input` whose value matches `YYYY. ` , set its
+value with the native HTMLInputElement value setter + `input` event + `keydown` Enter, then click the picker's time `input` and
+click the `tp-yt-paper-item` with the label. Assert picker date/time, then #save-button -> #save. No coordinate clicks needed.
