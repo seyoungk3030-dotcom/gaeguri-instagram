@@ -2692,12 +2692,7 @@
   "status": "scheduled",
   "series": "KDRAMA",
   "time": "22:00",
-  "video_id": "2PijThKeS_c",
-  "resched": true,
-  "resched_from": [
-   "2027-02-03",
-   "22:00"
-  ]
+  "video_id": "2PijThKeS_c"
  },
  {
   "ep": 547,
@@ -2775,12 +2770,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "01:00",
-  "video_id": "9nGi2MRUhLA",
-  "resched": true,
-  "resched_from": [
-   "2027-02-04",
-   "22:00"
-  ]
+  "video_id": "9nGi2MRUhLA"
  },
  {
   "ep": 553,
@@ -3285,12 +3275,7 @@
   "status": "scheduled",
   "series": "SAME",
   "time": "22:00",
-  "video_id": "2qBVAsppilo",
-  "resched": true,
-  "resched_from": [
-   "2027-01-31",
-   "22:00"
-  ]
+  "video_id": "2qBVAsppilo"
  },
  {
   "ep": 153,
@@ -3313,12 +3298,7 @@
   "status": "scheduled",
   "series": "KR",
   "time": "16:30",
-  "video_id": "1wN2BH7K2Dw",
-  "resched": true,
-  "resched_from": [
-   "2027-02-01",
-   "22:00"
-  ]
+  "video_id": "1wN2BH7K2Dw"
  },
  {
   "ep": 118,
@@ -4469,12 +4449,7 @@
   "status": "scheduled",
   "series": "LEARN",
   "time": "01:00",
-  "video_id": "Rk1DVn2v-tU",
-  "resched": true,
-  "resched_from": [
-   "2027-02-02",
-   "22:00"
-  ]
+  "video_id": "Rk1DVn2v-tU"
  },
  {
   "ep": 115,
