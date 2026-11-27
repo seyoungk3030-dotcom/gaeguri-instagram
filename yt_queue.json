@@ -1910,12 +1910,7 @@
   "status": "scheduled",
   "video_id": "L9RpI6TxIWc",
   "time": "16:30",
-  "series": "KDRAMA",
-  "resched": true,
-  "resched_from": [
-   "2027-01-10",
-   "01:00"
-  ]
+  "series": "KDRAMA"
  },
  {
   "ep": 463,
@@ -2385,12 +2380,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "16:30",
-  "video_id": "0PCsRkjmz_o",
-  "resched": true,
-  "resched_from": [
-   "2027-01-07",
-   "22:00"
-  ]
+  "video_id": "0PCsRkjmz_o"
  },
  {
   "ep": 513,
@@ -2468,12 +2458,7 @@
   "status": "scheduled",
   "series": "IN",
   "time": "22:00",
-  "video_id": "n9u6gVRMJSU",
-  "resched": true,
-  "resched_from": [
-   "2027-01-09",
-   "22:00"
-  ]
+  "video_id": "n9u6gVRMJSU"
  },
  {
   "ep": 521,
@@ -5397,12 +5382,7 @@
   "status": "scheduled",
   "series": "DESI",
   "time": "22:00",
-  "video_id": "Xev4eyRSQTU",
-  "resched": true,
-  "resched_from": [
-   "2027-01-08",
-   "22:00"
-  ]
+  "video_id": "Xev4eyRSQTU"
  },
  {
   "ep": 88,
