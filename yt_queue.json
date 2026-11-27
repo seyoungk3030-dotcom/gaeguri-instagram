@@ -3206,12 +3206,7 @@
   "status": "scheduled",
   "series": "KR",
   "time": "22:00",
-  "video_id": "EPCwkP4n19E",
-  "resched": true,
-  "resched_from": [
-   "2027-01-04",
-   "22:00"
-  ]
+  "video_id": "EPCwkP4n19E"
  },
  {
   "ep": 479,
@@ -4436,12 +4431,7 @@
   "status": "scheduled",
   "series": "LEARN",
   "time": "22:00",
-  "video_id": "8wVRbLD2dxQ",
-  "resched": true,
-  "resched_from": [
-   "2027-01-05",
-   "22:00"
-  ]
+  "video_id": "8wVRbLD2dxQ"
  },
  {
   "ep": 87,
@@ -5395,12 +5385,7 @@
   "status": "scheduled",
   "series": "FOOD",
   "time": "16:30",
-  "video_id": "b1wZXFXpp_o",
-  "resched": true,
-  "resched_from": [
-   "2027-01-06",
-   "22:00"
-  ]
+  "video_id": "b1wZXFXpp_o"
  },
  {
   "ep": 85,
