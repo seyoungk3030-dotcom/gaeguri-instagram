@@ -5369,12 +5369,7 @@
   "status": "scheduled",
   "series": "KODAI",
   "time": "16:30",
-  "video_id": "a5hXdHOz6YY",
-  "resched": true,
-  "resched_from": [
-   "2026-12-29",
-   "22:00"
-  ]
+  "video_id": "a5hXdHOz6YY"
  },
  {
   "ep": 78,
@@ -5386,12 +5381,7 @@
   "status": "scheduled",
   "series": "VS",
   "time": "22:00",
-  "video_id": "OXXOu0OjgnI",
-  "resched": true,
-  "resched_from": [
-   "2026-12-30",
-   "22:00"
-  ]
+  "video_id": "OXXOu0OjgnI"
  },
  {
   "ep": 79,
